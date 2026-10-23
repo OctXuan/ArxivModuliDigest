@@ -1,0 +1,423 @@
+{
+  "version": "1.3",
+  "generated_at": "2026-10-23T12:54:54.652419+00:00",
+  "period": {
+    "start": "2026-10-17",
+    "end": "2026-10-23"
+  },
+  "papers": [
+    {
+      "id": "2610.31619",
+      "url": "https://arxiv.org/abs/2610.31619",
+      "title": "Leafrians, Poisson structures, and Frobenius splittings on moduli spaces",
+      "abstract": "The Poisson $T$-Pfaffians of Bott--Samelson varieties, $G/U$, and $G/B$ produce Frobenius splittings, but only by a local, coordinate-bound argument. We isolate the local mechanism: a weighted trace pairing on the deformation space of a fat point, whose top coefficient factors over the blocks. At the members of a presentation, polyvector fields on the base $X$ transfer to the moduli space $M$. Applied to a Poisson bivector, this produces a Poisson bivector, extending Bottacin's structure from surfaces to arbitrary dimension. Applied to a top degree polyvector $s$ and wedged with a transverse Euler frame, it produces an anticanonical section on $M$, which we call the \\emph{leafrian}. When $X$ is a Poisson surface, we prove that the leafrian splits the moduli of stable sheaves, of principal $G$-bundles, and of instantons if and only if $s$ Frobenius-splits the base. The mechanism itself is dimension-free. The construction also recovers and generalizes the splittings of the Lie-theoretic examples: the $r$-matrix need not satisfy the classical Yang--Baxter equation.",
+      "authors": [
+        "Jun Peng"
+      ],
+      "published": "2026-10-22",
+      "updated": "2026-10-22",
+      "categories": [
+        "math.AG",
+        "math.AC",
+        "math.SG"
+      ]
+    },
+    {
+      "id": "2610.31411",
+      "url": "https://arxiv.org/abs/2610.31411",
+      "title": "The center is the formal internal automorphism group",
+      "abstract": "We prove that the deformation functor associated to an algebra over a sufficiently nice Koszul operad can be lifted to an operadic formal moduli problem over the Koszul dual operad. We further show that this operadic formal moduli problem corresponds to the derived center of the algebra under the operadic Lurie-Pridham correspondence. As an application, we prove that the classical Gerstenhaber algebra structure on polyvector fields of a commutative algebra agrees with the derived center of the algebra as an abelian Poisson algebra.",
+      "authors": [
+        "Sonja Farr"
+      ],
+      "published": "2026-10-22",
+      "updated": "2026-10-22",
+      "categories": [
+        "math.AT",
+        "math.AG"
+      ]
+    },
+    {
+      "id": "2610.31399",
+      "url": "https://arxiv.org/abs/2610.31399",
+      "title": "An asymptotic $Γ$-BMT inequality",
+      "abstract": "We refine a bound of Cheng-Feyzbakhsh to prove an asymptotic $Γ$-Bayer-Macrì-Toda ($Γ$-BMT) inequality on every smooth polarized complex threefold. The proof relies on a reduction to small tilt stability parameters. Using this inequality we verify Feyzbakhsh-Thomas's condition $(wBG)$ whenever $K_{X}$ is numerically proportional to the polarization. For polarized Calabi-Yau threefolds, this yields a reduction of positive rank generalized Donaldson-Thomas (DT) invariants to those counting sheaves pure in codimension one. We further express these invariants in terms of rank one generalized DT invariants. Thus, the rank reductions of Feyzbakhsh-Thomas hold without assuming the BMT conjecture.",
+      "authors": [
+        "Nick Rekuski"
+      ],
+      "published": "2026-10-22",
+      "updated": "2026-10-22",
+      "categories": [
+        "math.AG"
+      ]
+    },
+    {
+      "id": "2610.30962",
+      "url": "https://arxiv.org/abs/2610.30962",
+      "title": "Obstructions to deforming space curves lying on a complete intersection of quadrics",
+      "abstract": "Let $S=S_{2,\\ldots,2}\\subset\\mathbb P^{n+2}$ be a smooth complete intersection of $n$ quadrics containing a line $E$, where $n\\geq 3$, and set $D=(n-1)\\mathbf h+E$, where $\\mathbf h=[\\mathcal O_S(1)]$. We study the deformations of smooth curves $C\\in |mD|$ and their obstructions. The linear system $|D|$ defines a birational morphism $f:S\\to\\overline S$ that contracts $E$ to a point and realizes an unprojection in the sense of Papadakis--Reid. When $n=3$, the surface $S=S_{2,2,2}\\subset\\mathbb P^5$ is a $K3$ surface and $E$ is a $(-2)$-curve. We prove that the complementary open surface $S\\setminus E$ admits first-order infinitesimal deformations in $\\mathbb P^5\\setminus E$ that are obstructed at the second order. Using these obstructions, we show that, for every sufficiently large $m$ with $\\operatorname{char} k\\nmid m$, there exists a generically non-reduced irreducible component $W_m$ of the Hilbert scheme $\\operatorname{Hilb}^{sc}\\mathbb P^5$ of smooth connected curves in $\\mathbb P^5$. Its general member $C$ lies on a complete intersection $S_{2,2,2}$ of three quadrics, satisfies $C\\sim mD$, and has $h^0(N_{C/\\mathbb P^5})-\\dim_{[C]}\\operatorname{Hilb}^{sc}\\mathbb P^5=3$. In contrast, when $n>3$, we prove that, for every sufficiently large $m$ with $\\operatorname{char} k\\nmid m$, the corresponding family of curves in $|mD|$ gives rise to a generically smooth irreducible component of $\\operatorname{Hilb}^{sc}\\mathbb P^{n+2}$.",
+      "authors": [
+        "Hirokazu Nasu"
+      ],
+      "published": "2026-10-22",
+      "updated": "2026-10-22",
+      "categories": [
+        "math.AG"
+      ]
+    },
+    {
+      "id": "2610.30376",
+      "url": "https://arxiv.org/abs/2610.30376",
+      "title": "Isogenies of Oriented Elliptic Curves",
+      "abstract": "We construct and describe the moduli stack $\\mathrm{Isog}$ of isogenies between oriented elliptic curves. We show that $\\mathrm{Isog}$ is a spectral Deligne-Mumford stack and a relative spectral algebraic space over $\\mathcal{M}_{\\mathrm{ell}}^{\\mathrm{or}}$, and give a fiber product decomposition of $\\mathrm{Isog}$ corresponding to a connected-étale factorization on oriented elliptic curves. In the process of proving these results, we construct a theory of duality and quotients for spectral abelian varieties, prove a higher-algebraic version of Nakayama's lemma, and lift the rigidity theorem for morphisms of elliptic curves to the setting of spectral algebraic geometry.",
+      "authors": [
+        "Doron Grossman-Naples"
+      ],
+      "published": "2026-10-21",
+      "updated": "2026-10-21",
+      "categories": [
+        "math.AT",
+        "math.AG"
+      ]
+    },
+    {
+      "id": "2610.30366",
+      "url": "https://arxiv.org/abs/2610.30366",
+      "title": "Relative Hitchin fibrations and endoscopy for Unitary Friedberg--Jacquet varieties",
+      "abstract": "We prove a relative fundamental lemma for the unitary symmetric variety $GL_n(k')\\backslash U_{2n}$, proving a conjecture of Leslie, Xiao, and Zhang. Our proof reduces to the Lie algebra and argues over function fields in positive characteristic, using methods from Ngo-Laumon and Ngo. In particular, we reinterpret orbital integrals in terms of the cohomology of relative affine Springer fibers and globalize this using unitary versions of Hitchin moduli spaces for symmetric pairs via a product formula. As the main global input, we prove a matching of perverse sheaves between relative Hitchin moduli spaces and their corresponding endoscopic variants.",
+      "authors": [
+        "Thomas Hameister",
+        "Spencer Leslie"
+      ],
+      "published": "2026-10-21",
+      "updated": "2026-10-21",
+      "categories": [
+        "math.AG",
+        "math.NT"
+      ]
+    },
+    {
+      "id": "2610.30288",
+      "url": "https://arxiv.org/abs/2610.30288",
+      "title": "Quantum field theory and four-manifolds: Perspectives from physics and geometry",
+      "abstract": "These lecture notes are based on lecture series by the authors for the Summer School 2025 on ``Physical mathematics of quantum field theory\" at the University of Massachusetts Amherst organized by Owen Gwilliam, Chris Elliott, and Matteo Lotito. The lectures centred around algebraic structures arising from twists of supersymmetric quantum field theories, correlation functions of topologically twisted supersymmetric gauge theories, and their mathematical counterparts as intersection-theoretic invariants associated to moduli spaces of instantons, semistable sheaves, or Higgs sheaves on four-manifolds or complex projective surfaces.",
+      "authors": [
+        "Niklas Garner",
+        "Martijn Kool",
+        "Jan Manschot",
+        "Yuuji Tanaka"
+      ],
+      "published": "2026-10-21",
+      "updated": "2026-10-21",
+      "categories": [
+        "hep-th",
+        "math.AG",
+        "math.DG",
+        "math.GT",
+        "math.QA"
+      ]
+    },
+    {
+      "id": "2610.30069",
+      "url": "https://arxiv.org/abs/2610.30069",
+      "title": "Alternative moduli of twisted curves",
+      "abstract": "We define new Artin stack compactifications of the moduli of smooth curves, which parameterize \"relatively polarized curves\" consisting of stacky semistable curves equipped with line bundles that are trivialized away from the rational bridges. Using techniques from birational geometry, we prove that stacks of relatively polarized curves admit the classical coarse space $\\overline{M}_g$ of stable curves as a good moduli space. One of our main motivations is a companion paper where we construct a proper moduli space of $\\mathrm{SL}_N$-bundles on relatively polarized curves. This suggests the hypothesis that relatively polarized curves are suitable sources for defining Gromov-Witten theory for Artin stack targets.",
+      "authors": [
+        "Daniel Halpern-Leistner",
+        "Andres Fernandez Herrero",
+        "Giovanni Inchiostro",
+        "Sara Stephens"
+      ],
+      "published": "2026-10-21",
+      "updated": "2026-10-21",
+      "categories": [
+        "math.AG"
+      ]
+    },
+    {
+      "id": "2610.29970",
+      "url": "https://arxiv.org/abs/2610.29970",
+      "title": "Mackey formulas for smooth stacks",
+      "abstract": "We study parabolic induction and restriction functors on derived categories of constructible sheaves, D-modules, and other sheaf theories on smooth stacks with good or adequate moduli spaces. We prove a commutation rule between them in the form of a Mackey filtration, indexed by the set of relative positions of two elements in the component lattice, a combinatorial structure that characterizes inductions and restrictions on a given stack. This generalizes similar results for adjoint quotient stacks studied in generalized Springer theory and the theory of character sheaves, and for stacks of quiver representations appearing in Lusztig's categorification of quantum groups. We also apply our result to the stack of semistable principal bundles on a curve, as a first step towards Mackey formulas in geometric Langlands correspondences.",
+      "authors": [
+        "Chenjing Bu",
+        "Lucien Hennecart"
+      ],
+      "published": "2026-10-21",
+      "updated": "2026-10-21",
+      "categories": [
+        "math.RT",
+        "math.AG"
+      ]
+    },
+    {
+      "id": "2610.29912",
+      "url": "https://arxiv.org/abs/2610.29912",
+      "title": "Derived categories of threefolds near the Noether line",
+      "abstract": "We show that derived categories of canonical stacks associated to general threefolds in the principal component of the moduli space of canonical threefolds on the refined Noether line are semiorthogonally indecomposable. First we generalize a criterion of Kawatani-Okawa for the indecomposability of derived categories of surfaces of general type to higher-dimensional varieties and stacks. And then we generalize a construction of Kobayashi and Hu-Zhang and a classification result of Coughlan-Pignatelli to the second and third Noether lines to show that our criterion applies to these canonical stacks.",
+      "authors": [
+        "Jungkai Alfred Chen",
+        "Pedro Núñez"
+      ],
+      "published": "2026-10-21",
+      "updated": "2026-10-21",
+      "categories": [
+        "math.AG"
+      ]
+    },
+    {
+      "id": "2610.29698",
+      "url": "https://arxiv.org/abs/2610.29698",
+      "title": "Moduli spaces of logarithmic connections associated with difference Painlevé equations of type $E^{(1)}_n$",
+      "abstract": "In this paper, we provide an explicit correspondence between moduli spaces of parabolic logarithmic connections on the projective line with spectral type $(2^2,1^4,1^4)$ and $(3^2, 2^3, 1^6)$, and the spaces of initial conditions for difference Painlevé equations with symmetry of type $E^{(1)}_7$ and $E^{(1)}_8$, respectively. Furthermore, we realize the extended affine Weyl group symmetries of the space of initial conditions in terms of connections.",
+      "authors": [
+        "Takafumi Matsumoto"
+      ],
+      "published": "2026-10-21",
+      "updated": "2026-10-21",
+      "categories": [
+        "math.AG",
+        "math.CA"
+      ]
+    },
+    {
+      "id": "2610.28497",
+      "url": "https://arxiv.org/abs/2610.28497",
+      "title": "Matrix divisors, Christoffel transformations and symmetric $d$-connections",
+      "abstract": "The Christoffel transformation $w(x)\\mapsto x^2w(x)$ relates elementary bundle modifications to gap probability recurrences. The moment matrix determines normalization and the splitting type. We define the source and target moduli problems by their local data. The modifications identify common stable loci and conjugate their point-addition maps. For Pearson ratios $d(-z-1)/d(z)$ with $°d=1,2$, we construct rational spectral coordinates and compute the induced transformation. For positive even weights with finite moments, reweighting configurations yields the transformed gap probability recurrence. Its coefficient is a rational function of the transformed spectral coordinates. A local formula applies outside these charts under the stated hypotheses.",
+      "authors": [
+        "Anton Selemenchuk"
+      ],
+      "published": "2026-10-20",
+      "updated": "2026-10-20",
+      "categories": [
+        "math-ph",
+        "math.AG",
+        "math.PR"
+      ]
+    },
+    {
+      "id": "2610.28156",
+      "url": "https://arxiv.org/abs/2610.28156",
+      "title": "A Twisted bidifferential, second fundamental form of Prym map and projective structures",
+      "abstract": "Given a point $[(\\widetilde{C},C)]$ of the moduli space ${\\mathcal R}_g$, where $\\widetilde{C}$ is an étale double cover of a smooth curve $C$ of genus $g \\,\\geq\\, 7$, we construct a twisted meromorphic bidifferential $\\widehatη_P$ on $C\\times C$ with a pole on the diagonal. It is shown that the second fundamental form $ρ_P$ of the Prym map from ${\\mathcal R}_g$ to ${\\mathcal A}_{g-1}$ at $[(\\widetilde{C},C)]$ is given by this $\\widehatη_P$. This allows us to compare $ρ_P$ with the second fundamental forms of the two Torelli maps, to ${\\mathcal A}_{2g-1}$ and ${\\mathcal A}_{g}$, at the points $[\\widetilde{C}]$ and $[C]$ respectively. It is shown that $\\widehatη_P$ induces a projective structure on $C$ that depends on the double cover $\\widetilde{C}\\, \\longrightarrow\\, C$; these projective structures together give a ${\\mathcal C}^{\\infty}$ section $β_P$ of the bundle of projective structures on the moduli space ${\\mathcal R}_g$. Finally, it is proved that the $(0,\\,1)$-component of the differential of the section $β_P$ is the pullback of the Kähler form of the Siegel metric on ${\\mathcal A}_{g-1}$ via the Prym map. This is a key ingredient in the proof that this section $β_P$ is not the pullback of a section of projective structures on ${\\mathcal M}_{g}$ and, in addition, that it differs from the known projective structures on ${\\mathcal R}_g$.",
+      "authors": [
+        "Indranil Biswas",
+        "Elisabetta Colombo",
+        "Paola Frediani",
+        "Alessandro Ghigi"
+      ],
+      "published": "2026-10-20",
+      "updated": "2026-10-20",
+      "categories": [
+        "math.AG"
+      ]
+    },
+    {
+      "id": "2610.28028",
+      "url": "https://arxiv.org/abs/2610.28028",
+      "title": "Harder-Narasimhan Filtrations of Hyperquiver Representations",
+      "abstract": "Hyperquiver representations are generalisations of quiver representations. They are directed hypergraphs with vector spaces assigned to vertices, and for every directed hyperedge, an assignment of a linear map from the tensor product of the source vector spaces to the tensor product of the target vector spaces. We study the moduli of hyperquiver representations, where we use affine GIT to describe the (in)stability of such objects under the action of a product of general linear groups. Our main result introduces the Harder-Narasimhan filtration of a hyperquiver representation. We also derive a formula for the weights of this unique filtration, which specialise to the Harder-Narasimhan slopes of a quiver representation.",
+      "authors": [
+        "Tommi Muller"
+      ],
+      "published": "2026-10-20",
+      "updated": "2026-10-20",
+      "categories": [
+        "math.AG",
+        "math.RT"
+      ]
+    },
+    {
+      "id": "2610.27934",
+      "url": "https://arxiv.org/abs/2610.27934",
+      "title": "Mass Deformations and Sheets in Logahoric Higgs Moduli",
+      "abstract": "We use the framework of the logahoric Hitchin integrable system introduced in our earlier work and the sheets of the Lie algebra in order to describe the tame defects in a six dimensional $\\mathcal{N}=(2,0)$ superconformal theory under mass deformations. We show that varying leaves of fixed dimension in the Hitchin system amounts to varying residue orbits of fixed dimension. Moreover, we verify the period and dimension conditions in mass-like deformations, as proposed by Balasubramanian--Distler, thus realizing the sheets of the Lie algebra on the Poisson moduli space of logahoric Higgs torsors.",
+      "authors": [
+        "Georgios Kydonakis",
+        "Lutian Zhao"
+      ],
+      "published": "2026-10-20",
+      "updated": "2026-10-20",
+      "categories": [
+        "math.AG",
+        "hep-th"
+      ]
+    },
+    {
+      "id": "2610.27723",
+      "url": "https://arxiv.org/abs/2610.27723",
+      "title": "Lattice Moduli and Residual Atoms",
+      "abstract": "We study prescribed holomorphic lattices for regular-singular connections and residual factors of quantum $F$-bundles. For an arbitrary ordered monodromy spectrum, we classify the fully framed local groupoid: each residue fibre is a discrete affine space of dimension $r(r-1)$, with a unique normal form and trivial stabilisers. We then analyse elementary changes of lattice. A strictly positive integral residue difference obstructs the oriented wall; otherwise, in arbitrary rank, the extending normal-form arcs form an affine torsor of relative dimension $r(r-1)$, and specialisation to the shifted residue slice is polynomial and triangular by root height. Adjacent walls exhibit the composite-root correction dictated by the type-$A$ root-subgroup relations, while an example over the dual numbers detects a nilpotent saturation defect. For one-branch $F$-bundles, the scalar branch is recovered from the residual trace, and scalar residualisation yields a symmetric monoidal equivalence with zero-branch $F$-bundles. This construction yields residual atoms, functorial Jordan strata, and a residual chemical formula compatible with blow-ups and projective bundles. In the $A$-model, residualisation removes the unit direction; the rationally marked large-radius residual germ recovers the divisor cubic and distinguishes the marked residual germs of the Pfaffian and Grassmannian Calabi--Yau threefolds.",
+      "authors": [
+        "Mauricio Corrêa"
+      ],
+      "published": "2026-10-20",
+      "updated": "2026-10-20",
+      "categories": [
+        "math.AG"
+      ]
+    },
+    {
+      "id": "2610.27267",
+      "url": "https://arxiv.org/abs/2610.27267",
+      "title": "The integral $K_0$-ring of the stack of smooth hyperelliptic curves",
+      "abstract": "We compute the integral $K_0$-ring of the moduli stack $\\mathscr H_g$ of smooth hyperelliptic curves of genus $g\\ge2$ over a field of characteristic zero. We show that it is a free abelian group of rank $8g+2$ for even $g$ and $8g+4$ for odd $g$. We use the isotypic decomposition of the $K_0$ of a related $μ_{g+1}$-gerbe to obtain presentations for both even and odd $g$'s from the standard quotient presentation of $\\mathscr H_g$. Thus, our technique differs from the $CH^\\bullet(\\mathscr H_g)$ computations of Edidin--Fulghesu, Fulghesu--Viviani, Di Lorenzo, and the $K_0(\\mathscr M_2)$ computation of Edidin--Hu. Using Pagani's description of the inertia stack of $\\mathscr H_g$, we apply Riemann--Roch to interpret the rank of $K_0(\\mathscr H_g)$ as the number of inertia components. Finally, we compare the $K_0$ and Chow rings of $\\mathscr H_g$ through the gamma-filtration and give presentations to the associated graded rings $\\operatorname{gr}_γK_0(\\mathscr H_g)\\otimes\\mathbb F_p$ for every prime $p$.",
+      "authors": [
+        "Michael Ruofan Zeng"
+      ],
+      "published": "2026-10-19",
+      "updated": "2026-10-19",
+      "categories": [
+        "math.AG",
+        "math.KT"
+      ]
+    },
+    {
+      "id": "2610.27077",
+      "url": "https://arxiv.org/abs/2610.27077",
+      "title": "Flux Vacua, Asymptotic Periods, and Relatively Anosov Representations",
+      "abstract": "We develop a topological method to detect classical flux vacua of M-theory on Calabi-Yau fourfolds with a single complex structure modulus using only asymptotic period data and monodromy information. To this end, we express the index of the F-term of the flux superpotential as a winding number along the boundary of the universal cover of the complex structure moduli space. The index evaluates to a sum over zeros and poles of a suitably normalized boundary F-term, where local contributions can be computed algebraically on a dense set of boundary points. Assuming a conjectured bound on the remaining contributions, sufficiently many sign changes of the boundary F-term guarantee a flux vacuum in the interior. We illustrate the method on the mirror Fermat sextic with explicit examples and a systematic flux scan. A main technical ingredient in our construction is a continuity result for projective period maps: we prove that the non-holomorphic (3,1)-period map extends continuously to the boundary of the covering space if the monodromy representation is relatively Anosov. In general, this property does not hold for holomorphic (4,0)-periods.",
+      "authors": [
+        "Paul Balavoine",
+        "Severin Lüst"
+      ],
+      "published": "2026-10-19",
+      "updated": "2026-10-19",
+      "categories": [
+        "hep-th",
+        "math.AG",
+        "math.GT"
+      ]
+    },
+    {
+      "id": "2610.26580",
+      "url": "https://arxiv.org/abs/2610.26580",
+      "title": "Mellin transformed exponential volumes and probabilistic moduli spaces",
+      "abstract": "A decorated surface is a surface with boundary and a finite set of marked boundary points called cusps. We continue to study the exponential volumes E(S,K,L) of moduli spaces of ideal hyperbolic structures on a decorated surface S, with the given values of lengths of boundary geodesic circles L and boundary geodesic intervals K, introduced in our previous work: 1. We prove that the Mellin--Laplace transform of E(S,K,L) admits Barnes integral presentations, and satisfies recursions, generalising Mirzakhani's recursions. 2. We specify a subset I of the blue boundary intervals, and assign to them any collection of weights. We show that the Mellin transform of the function E(S,K,L) along the variables K at the blue intervals, evaluated at the weights values, calculates weighted exponential volumes of various moduli spaces. If all boundary intervals are blue and all weights are 1/2, we recover Chekhov's volumes of moduli spaces of hyperbolic surfaces with crowns, discretizing the Schwarzian action. We derive recursions for the weighted exponential volumes. 3. We introduce probabilistic Teichmuller spaces related to decorated surfaces S. They are infinite dimensional and carry canonical Wiener type measures. The definition of the measures builds on the works of Bauerschmidt - Losev - Wildemann and Losev. Their quotients by the action of the modular group of S are probabilistic moduli spaces. We show that their volumes are finite. We prove recursion formulas for these measures, and hence for the volumes. The emerging theory generalizes the Schwarzian field theory of Stanford - Witten from the disc to any decorated surfaces, i.e. to open string format. In particular, we get recursions for the Feynman integrals in Schwarzian field theory on decorated surfaces.",
+      "authors": [
+        "Alexander B. Goncharov",
+        "Zhe Sun"
+      ],
+      "published": "2026-10-19",
+      "updated": "2026-10-19",
+      "categories": [
+        "math.AG",
+        "math-ph",
+        "math.DG",
+        "math.PR"
+      ]
+    },
+    {
+      "id": "2610.26074",
+      "url": "https://arxiv.org/abs/2610.26074",
+      "title": "Gauss-Manin connection in disguise: limiting periods and quasi-Jacobi forms",
+      "abstract": "We construct a six-dimensional algebraic moduli space of elliptic curves equipped with two ordered marked points, an enhanced relative de Rham frame, and a nonzero tensor of endpoint tangents. Its normalized period map is a biholomorphism. On the classical period locus, the regular coordinates pull back under its inverse to Weierstrass, Eisenstein, and theta functions. The associated Gauss-Manin vector fields realize differential operators on quasi-Jacobi forms of integer index. To relate this elliptic space to the genus-two construction, we study a specified smoothing family over a five-dimensional space of limiting enhancements. For this family, we identify the regularized period matrix and the boundary pullback of the holomorphic part of the logarithmic connection with respect to the chosen plumbing parameter. We then compute the unit relating the algebraic smoothing parameter to the Siegel period parameter and the limits of the specified genus-two generators. Separately, we express classical Fourier-Jacobi coefficients in enhanced elliptic coordinates.",
+      "authors": [
+        "Jin Cao"
+      ],
+      "published": "2026-10-19",
+      "updated": "2026-10-19",
+      "categories": [
+        "math.AG",
+        "math.NT"
+      ]
+    },
+    {
+      "id": "2610.25772",
+      "url": "https://arxiv.org/abs/2610.25772",
+      "title": "A Fourier expansion principle for coherent cohomology of powers of Tate curves",
+      "abstract": "In the case of the totally degenerate split degenerations given by fibered powers of Tate curves over $\\mathbf{Z}[[q^{1/w}]]$, this article proves a Fourier expansion principle that applies to higher coherent (equivariant) cohomology classes of rigidified line bundles on the $\\mathbf{Z}((q^{1/w}))$-fiber. We do not require any ampleness hypotheses. This generalizes a previous Fourier expansion principle due to Faltings--Chai that applies only to sections of ample line bundles; that version was used as a key step in their proof of their classification of polarized degenerations and thus in the construction of toroidal compactifications of moduli spaces of polarized abelian varieties. This article can be considered as a theory of Fourier expansions for algebraic theta cocycles associated to possibly indefinite quadratic forms, and has application to arithmetic: in joint work with Venkatesh, we have used it to produce an algebraic theory of Kudla--Millson indefinite modular theta functions.",
+      "authors": [
+        "Kenz Kallal"
+      ],
+      "published": "2026-10-19",
+      "updated": "2026-10-19",
+      "categories": [
+        "math.NT",
+        "math.AG"
+      ]
+    },
+    {
+      "id": "2610.25500",
+      "url": "https://arxiv.org/abs/2610.25500",
+      "title": "Torelli theorem for the moduli spaces of twisted vector bundles on smooth projective curves",
+      "abstract": "We prove Torelli theorems for moduli space of twisted vector bundles on smooth projective curves over an arbitrary field of characteristic $\\neq 2$. A twisted Hitchin construction recovers the curve in higher rank and degree, with partial recovery of the twisting class. For rank two with trivial determinant, we recover the curve and the Brauer class from the moduli stack through an ordered Kummer cover and its polarized Jacobian torsor. For odd determinant on hyperelliptic curves, residual gerbes give a relative Desale--Ramanan construction without an actual determinant line bundle over the ground field. An intrinsic polarized Fano torsor recovers the curve and the class, and a corrected polarization obstruction recovers the determinant gerbe. We also give a twisted Newstead construction in genus two, with an explicit descent condition for its converse, and period--index applications. This is the second part in a series of two papers.",
+      "authors": [
+        "Soham Ghosh",
+        "Ting Gong",
+        "Max Lieblich"
+      ],
+      "published": "2026-10-18",
+      "updated": "2026-10-18",
+      "categories": [
+        "math.AG",
+        "math.NT"
+      ]
+    },
+    {
+      "id": "2610.25177",
+      "url": "https://arxiv.org/abs/2610.25177",
+      "title": "Non-existence of Negative Weight Derivations of the Moduli Algebras of Isolated Weighted Homogeneous Hypersurface Singularities",
+      "abstract": "Mather and Yau proved that the analytic isomorphism class of an isolated complex hypersurface singularity is determined by its dimension and its moduli algebra. Yau's conjecture asserts that the moduli algebra of an isolated weighted homogeneous hypersurface singularity over $\\mathbb{C}$ has no nonzero derivation of negative degree. We prove this conjecture. The proof uses Varchenko\\textquotesingle s theorem on the $μ$-constant stratum of an isolated weighted homogeneous singularity, also stated by M. Saito.",
+      "authors": [
+        "Guorui Ma"
+      ],
+      "published": "2026-10-18",
+      "updated": "2026-10-18",
+      "categories": [
+        "math.AG"
+      ]
+    },
+    {
+      "id": "2610.25101",
+      "url": "https://arxiv.org/abs/2610.25101",
+      "title": "The center conjecture for cyclotomic Hecke algebras and cohomology of quiver varieties",
+      "abstract": "For a quiver without edge loops, we construct an isomorphism from the cohomology of a Nakajima quiver variety with coefficients in an arbitrary field to the Jucys--Murphy center of the corresponding cyclotomic KLR algebra over that field. In affine type $A^{(1)}_{e-1}$, combining this with a dimension count shows that this Jucys--Murphy center coincides with the full center in characteristic $0$, when the characteristic does not divide $e$, and when the characteristic equals $e$. This follows from a geometric theorem showing that the sum of these cohomology rings is cocyclic as a module over an integral form of a loop algebra. As a consequence, we prove that the center of a cyclotomic Hecke algebra of type $G(r,1,n)$ with $q\\neq 1$ over any field is generated by symmetric polynomials in its Jucys--Murphy elements, and the same holds over any commutative domain in which $q-1$ is invertible. We also prove a generalization to the integral case of the conjecture of Krylov, Paegelow and Shlykov identifying the equivariant $K$-theory of the core of a Gieseker variety with the cocenter of the generic cyclotomic Hecke algebra, including the natural extension of this conjecture to positive characteristic.",
+      "authors": [
+        "Jun Hu",
+        "Andrew Mathas",
+        "Lei Shi",
+        "Ben Webster"
+      ],
+      "published": "2026-10-18",
+      "updated": "2026-10-18",
+      "categories": [
+        "math.RT",
+        "math.AG",
+        "math.QA"
+      ]
+    },
+    {
+      "id": "2610.24986",
+      "url": "https://arxiv.org/abs/2610.24986",
+      "title": "The section conjecture for generic pointed curves",
+      "abstract": "Let $k/\\mathbb Q$ be finitely generated, let $g\\geq3$ and $n\\geq1$, and let $\\mathcal M_{g,n/k}$ be the moduli stack of smooth proper genus-$g$ curves with $n$ distinct ordered markings. Put $K=k(\\mathcal M_{g,n/k})$. We prove Grothendieck's section conjecture for the generic $n$-pointed genus-$g$ curve over $K$. Over both the moduli stack and its function field, the continuous sections of the arithmetic fundamental-group extension of the universal complete curve are, up to geometric conjugacy, exactly the $n$ tautological sections. The same classification holds for every geometrically pro-$\\ell$ quotient, for every prime $\\ell$. Together with Hain's determination of the rational points, these classifications give examples over fields finitely generated over $\\mathbb Q$ with any prescribed positive number of rational points for which the full section conjecture holds. The proof builds on Hain's weighted-completion and nonabelian cohomology methods, with a hyperelliptic calculation providing the genus-three input. An integral normalizer lemma and moving-mark arguments pass from unipotent sections to geometrically pro-$\\ell$ sections. Configuration spaces and Mochizuki's open Hom theorem yield the full profinite classification, and generic descent identifies the section classes over the moduli stack with those over $K$.",
+      "authors": [
+        "Ma Luo",
+        "Tatsunari Watanabe"
+      ],
+      "published": "2026-10-18",
+      "updated": "2026-10-18",
+      "categories": [
+        "math.AG"
+      ]
+    },
+    {
+      "id": "2610.24980",
+      "url": "https://arxiv.org/abs/2610.24980",
+      "title": "Eynard-Orantin Topological Recursion, Moduli-Space Virasoro Constraints, and Semisimple CohFTs",
+      "abstract": "We use Virasoro constraints to prove Eynard's intersection-number formula for Eynard-Orantin topological recursion with several simple ramification points. The key construction couples the higher Weil-Petersson partition functions associated with the individual ramification points through a quadratic differential operator determined by the Bergman kernel. We identify this operator with the quadratic part of Givental's quantized $R$-matrix, thereby obtaining a Virasoro-theoretic proof of the DOSS identification of topological recursion with Givental's formula for semisimple cohomological field theories. Furthermore, while the DOSS identification fixes the distinguished $y$-function, we keep the Bergman kernel/$R$-matrix fixed and allow $y$ to vary, showing that this amounts to shifting the evaluation point of the corresponding ancestor potential.",
+      "authors": [
+        "Dingkang Xiong",
+        "Jian Zhou"
+      ],
+      "published": "2026-10-18",
+      "updated": "2026-10-18",
+      "categories": [
+        "math-ph",
+        "math.AG"
+      ]
+    }
+  ]
+}

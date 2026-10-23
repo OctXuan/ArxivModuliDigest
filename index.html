@@ -1,0 +1,135 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#f4f5f1">
+  <title>Moduli Papers v1.3 | arXiv 论文周报</title>
+  <style>
+    :root{font-family:Inter,"Segoe UI","Noto Sans SC",sans-serif;color:#202722;background:#f4f5f1;font-synthesis:none;text-rendering:optimizeLegibility;--ink:#202722;--muted:#717a73;--line:#dfe3dc;--green:#176b50;--lime:#d6ef83;--paper:#fff;--surface:#fbfcf9;--soft:#e9eee5;--input:#fff}
+    :root[data-theme="dark"]{color:#e7eee8;background:#17201c;--ink:#e7eee8;--muted:#a9b7ad;--line:#35453c;--green:#6ac39b;--lime:#b5db72;--paper:#202b25;--surface:#1d2822;--soft:#26382d;--input:#202b25}
+    *{box-sizing:border-box}body{margin:0;min-width:320px;background:var(--surface);color:var(--ink);transition:background .2s,color .2s}button,input,select{font:inherit}button{cursor:pointer}
+    .topbar{height:66px;border-bottom:1px solid var(--line);display:flex;align-items:center;justify-content:space-between;padding:0 clamp(18px,5vw,76px);background:var(--surface);position:sticky;top:0;z-index:5}
+    .brand{display:flex;align-items:center;gap:11px;font-size:14px;font-weight:750;letter-spacing:.02em}.brandmark{width:27px;height:27px;border-radius:7px;background:var(--green);color:#fff;display:grid;place-items:center;font-family:Georgia,serif;font-size:18px}.topmeta{font-size:12px;color:var(--muted)}
+    main{max-width:1320px;margin:0 auto;padding:38px clamp(18px,5vw,76px) 80px}.heading{display:flex;align-items:end;justify-content:space-between;gap:24px;margin-bottom:28px}.eyebrow{font-size:11px;color:var(--green);text-transform:uppercase;font-weight:750;letter-spacing:.12em;margin:0 0 9px}.heading h1{font-size:clamp(25px,3vw,34px);line-height:1.15;margin:0;font-weight:720}.subtitle{font-size:13px;color:var(--muted);margin:10px 0 0}.period{font-size:12px;color:var(--muted);white-space:nowrap;padding-bottom:4px}
+    .summary{display:grid;grid-template-columns:1fr auto;align-items:center;padding:19px 22px;background:#e9eee5;border-left:3px solid var(--green);margin-bottom:24px;gap:14px}.summary strong{font-size:14px}.summary p{margin:5px 0 0;color:#5f6a62;font-size:12px}.stats{display:flex;gap:25px}.stat{display:grid;gap:3px;text-align:right}.stat b{font-size:20px;color:var(--green)}.stat span{font-size:10px;color:var(--muted)}
+    .toolbar{display:grid;grid-template-columns:minmax(220px,1fr) 190px 165px 165px auto;gap:10px;margin:0 0 10px}.searchwrap{position:relative}.searchwrap svg{position:absolute;left:13px;top:12px;color:#7d877e}.search,.select,.refresh,.dateinput,.toolbutton{height:42px;border:1px solid var(--line);background:var(--input);border-radius:5px;color:var(--ink)}.search{width:100%;padding:0 12px 0 39px;outline:none}.search:focus,.select:focus,.dateinput:focus{border-color:#78a18a;box-shadow:0 0 0 2px #176b501a}.select{padding:0 12px;width:100%}.datefield{display:flex;align-items:center;gap:6px;color:var(--muted);font-size:11px}.dateinput{padding:0 10px;flex:1;min-width:0;font-size:12px}.refresh{padding:0 15px;display:flex;align-items:center;gap:8px;font-size:12px;font-weight:650}.refresh:hover,.toolbutton:hover,.theme-toggle:hover{border-color:#9da99e;background:var(--soft)}.toolrow{display:flex;flex-wrap:wrap;align-items:center;gap:8px;margin-bottom:15px}.toolbutton{padding:0 12px;font-size:11px;font-weight:650}.keywordbox{height:36px;min-width:240px;flex:1;border:1px solid var(--line);border-radius:5px;padding:0 10px;background:var(--input);color:var(--ink);font-size:11px}.toolcheck{display:flex;align-items:center;gap:6px;color:var(--muted);font-size:11px}.toolcheck input{accent-color:var(--green)}
+    .resultbar{display:flex;justify-content:space-between;align-items:center;color:var(--muted);font-size:11px;padding:0 1px 12px}.resultbar b{color:var(--ink);font-weight:650}
+    .grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:16px}.paper{background:var(--paper);border:1px solid var(--line);border-radius:6px;overflow:hidden;display:flex;flex-direction:column;min-width:0;transition:transform .18s,border-color .18s}.paper:hover{transform:translateY(-2px);border-color:#b7c2b8}.cover{height:184px;background:#e9ece7;position:relative;overflow:hidden;border-bottom:1px solid var(--line)}.cover iframe{width:100%;height:100%;border:0;background:#f2f3ef;pointer-events:none}.cover:after{content:"";position:absolute;inset:auto 0 0;height:42%;background:linear-gradient(transparent,rgba(29,38,31,.08));pointer-events:none}.coverlabel{position:absolute;z-index:1;left:13px;top:12px;background:#f5f7f1e8;color:#304339;padding:5px 8px;border-radius:3px;font-size:10px;font-weight:700;letter-spacing:.03em}.paperbody{padding:16px 17px 14px;display:flex;flex-direction:column;flex:1}.date{font-size:10px;font-weight:700;color:var(--green);letter-spacing:.07em;text-transform:uppercase}.title{font-size:16px;line-height:1.42;font-weight:690;margin:8px 0 8px;display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden}.authors{font-size:11px;color:var(--muted);line-height:1.5;min-height:18px}.chips{display:flex;gap:5px;flex-wrap:wrap;margin:12px 0 11px}.chip{font-size:10px;padding:4px 7px;border-radius:3px;background:#eef3e8;color:#40624b}.abstract{font-size:12px;line-height:1.65;color:var(--muted);margin:0;display:-webkit-box;-webkit-line-clamp:5;-webkit-box-orient:vertical;overflow:hidden}.cardfoot{margin-top:auto;padding-top:15px;display:flex;justify-content:space-between;align-items:center;gap:8px}.arxivid{font-size:10px;color:#818981}.actions{display:flex;gap:7px;flex-wrap:wrap;justify-content:flex-end}.action{height:30px;padding:0 10px;border:1px solid var(--line);border-radius:4px;background:var(--input);color:var(--ink);font-size:10px;font-weight:650;text-decoration:none;display:inline-flex;align-items:center;gap:5px}.action.primary{background:var(--green);color:#fff;border-color:var(--green)}.action:hover{filter:brightness(.96)}.select-paper{display:flex;align-items:center;gap:5px;font-size:10px;color:var(--muted);margin-bottom:7px}.select-paper input{accent-color:var(--green)}
+    .empty{grid-column:1/-1;text-align:center;padding:70px 20px;color:var(--muted);background:var(--surface);border:1px dashed var(--line);border-radius:6px}.empty b{display:block;color:var(--ink);font-size:15px;margin-bottom:7px}.notice{margin-top:23px;color:var(--muted);font-size:10px;line-height:1.6}.status{font-size:11px;color:var(--muted)}.theme-toggle{height:36px;border:1px solid var(--line);border-radius:5px;background:var(--input);color:var(--ink);display:inline-flex;align-items:center;gap:7px;padding:0 11px;font-size:11px;font-weight:650}.selection-count{font-size:11px;color:var(--muted);margin-right:auto}
+    @media(max-width:980px){.grid{grid-template-columns:repeat(2,minmax(0,1fr))}.heading{align-items:start;flex-direction:column;gap:10px}.period{padding:0}}
+    @media(max-width:980px){.toolbar{grid-template-columns:1fr 1fr}.searchwrap{grid-column:1/-1}}
+    @media(max-width:620px){main{padding-top:27px}.topbar{height:58px}.topmeta{font-size:10px}.summary{grid-template-columns:1fr}.stats{justify-content:flex-start}.stat{text-align:left}.toolbar{grid-template-columns:1fr 1fr}.searchwrap{grid-column:1/-1}.refresh{justify-content:center}.toolrow{align-items:stretch}.toolbutton{flex:1}.keywordbox{min-width:100%}.grid{grid-template-columns:1fr;gap:12px}.cover{height:205px}.title{font-size:15px}}
+  </style>
+</head>
+<body>
+  <header class="topbar"><div class="brand"><span class="brandmark">M</span><span>MODULI PAPERS</span><span class="chip">v1.3</span></div><div class="topmeta"><span>arXiv / ALGEBRAIC GEOMETRY</span> <button class="theme-toggle" id="themeToggle" type="button" title="切换白天/夜晚模式" aria-label="切换白天/夜晚模式">☾ 夜晚</button></div></header>
+  <main>
+    <section class="heading"><div><p class="eyebrow">Weekly research digest</p><h1>代数几何 · 模空间</h1><p class="subtitle">近期论文一览，按发布日期排序</p></div><div class="period" id="period">正在读取本地论文数据…</div></section>
+    <section class="summary"><div><strong>本周论文观察</strong><p id="summaryText">正在载入论文目录。</p></div><div class="stats"><div class="stat"><b id="paperCount">—</b><span>篇论文</span></div><div class="stat"><b id="categoryCount">—</b><span>个分类</span></div></div></section>
+    <section class="toolbar" aria-label="论文筛选">
+      <label class="searchwrap"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" aria-hidden="true"><circle cx="11" cy="11" r="7"></circle><path d="m20 20-4-4"></path></svg><input class="search" id="search" type="search" placeholder="搜索标题、作者或摘要" aria-label="搜索论文"></label>
+      <select class="select" id="category" aria-label="按分类筛选"><option value="">全部分类</option></select>
+      <label class="datefield"><span>从</span><input class="dateinput" id="dateFrom" type="date" aria-label="起始日期" title="起始日期"></label>
+      <label class="datefield"><span>到</span><input class="dateinput" id="dateTo" type="date" aria-label="结束日期" title="结束日期"></label>
+      <button class="refresh" id="reload" type="button" title="重新读取论文数据"><svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" aria-hidden="true"><path d="M20 7v5h-5M4 17v-5h5"></path><path d="M5.6 9a7 7 0 0 1 11.6-2L20 12M4 12l2.8 5a7 7 0 0 0 11.6-2"></path></svg>刷新数据</button>
+    </section>
+    <section class="toolrow" aria-label="论文管理与导出">
+      <input class="keywordbox" id="customTerms" type="text" placeholder="自定义关键词，逗号分隔" aria-label="自定义关注关键词">
+      <label class="toolcheck"><input id="matchAll" type="checkbox">匹配全部关键词</label>
+      <button class="toolbutton" id="saveTerms" type="button">保存关键词</button>
+      <button class="toolbutton" id="favoritesOnly" type="button" aria-pressed="false">只看收藏</button>
+      <select class="select" id="readingStatus" aria-label="按阅读状态筛选"><option value="">全部状态</option><option value="unread">只看未读</option><option value="read">只看已读</option></select>
+      <button class="toolbutton" id="selectVisible" type="button">选择当前结果</button>
+      <button class="toolbutton" id="clearSelected" type="button">清除选择</button>
+      <button class="toolbutton" id="exportBib" type="button">导出所选 BibTeX</button>
+      <button class="toolbutton" id="exportCsv" type="button">导出所选 CSV</button>
+    </section>
+    <div class="resultbar"><span id="resultCount">0 篇</span><span class="selection-count" id="selectionCount">已选 0 篇</span><span class="status" id="status"></span></div>
+    <section class="grid" id="papers" aria-live="polite"></section>
+    <p class="notice">摘要直接来自 arXiv abstract；封面快照为 arXiv PDF 首页预览。收藏、阅读状态和关键词保存在当前浏览器。</p>
+  </main>
+  <script>
+    const STORAGE_KEY = "arxiv-moduli-digest:v1.3";
+    const LEGACY_STORAGE_KEY = "arxiv-moduli-digest:v1.2";
+    const state = { papers: [], marks: {}, selected: {}, preferences: { terms: "", matchAll: false, favoritesOnly: false, theme: "light" } };
+    const $ = (selector) => document.querySelector(selector);
+    const escapeHTML = (value) => String(value ?? "").replace(/[&<>"']/g, (c) => ({"&":"&amp;","<":"&lt;",">":"&gt;","\"":"&quot;","'":"&#39;"}[c]));
+    const prettyDate = (date) => new Intl.DateTimeFormat("zh-CN", {year:"numeric",month:"short",day:"numeric",timeZone:"UTC"}).format(new Date(`${date}T00:00:00Z`));
+    const readStore = () => { try { return JSON.parse(localStorage.getItem(STORAGE_KEY) || "{}"); } catch { return {}; } };
+    const saveStore = () => localStorage.setItem(STORAGE_KEY, JSON.stringify({marks: state.marks, selected: state.selected, preferences: state.preferences}));
+    const terms = () => $("#customTerms").value.split(",").map((item) => item.trim().toLowerCase()).filter(Boolean);
+    const todayISO = () => new Date().toISOString().slice(0, 10);
+    const setDateDefaults = () => {
+      if (!state.papers.length) return;
+      const oldest = state.papers.map((paper) => paper.published).sort()[0];
+      $("#dateFrom").min = oldest; $("#dateFrom").max = todayISO(); $("#dateTo").min = oldest; $("#dateTo").max = todayISO();
+      if (!$("#dateFrom").value) $("#dateFrom").value = oldest;
+      if (!$("#dateTo").value) $("#dateTo").value = todayISO();
+    };
+    const visiblePapers = () => {
+      const query = $("#search").value.trim().toLowerCase(), category = $("#category").value;
+      const from = $("#dateFrom").value, to = $("#dateTo").value, custom = terms();
+      const readingStatus = $("#readingStatus").value;
+      return state.papers.filter((paper) => {
+        const mark = state.marks[paper.id] || {};
+        const haystack = `${paper.title} ${(paper.authors || []).join(" ")} ${paper.abstract} ${(paper.categories || []).join(" ")}`.toLowerCase();
+        const customMatch = !custom.length || ($("#matchAll").checked ? custom.every((term) => haystack.includes(term)) : custom.some((term) => haystack.includes(term)));
+        return (!query || haystack.includes(query)) && (!category || (paper.categories || []).includes(category)) && (!from || paper.published >= from) && (!to || paper.published <= to) && customMatch && (!state.preferences.favoritesOnly || mark.favorite) && (!readingStatus || (readingStatus === "read" ? mark.read : !mark.read));
+      }).sort((a,b) => b.published.localeCompare(a.published));
+    };
+    function render() {
+      const items = visiblePapers();
+      $("#resultCount").innerHTML = `显示 <b>${items.length}</b> / ${state.papers.length} 篇`;
+      $("#selectionCount").textContent = `已选 ${Object.values(state.selected).filter(Boolean).length} 篇`;
+      const root = $("#papers");
+      if (!items.length) { root.innerHTML = `<div class="empty"><b>没有找到匹配论文</b>试试调整关键词、日期或分类筛选。</div>`; return; }
+      root.innerHTML = items.map((paper) => {
+        const id = escapeHTML(paper.id), pdf = `https://arxiv.org/pdf/${encodeURIComponent(paper.id)}`, mark = state.marks[paper.id] || {};
+        const cats = (paper.categories || []).slice(0,4).map((item) => `<span class="chip">${escapeHTML(item)}</span>`).join("");
+        const authors = (paper.authors || []).slice(0,5).join(", ") + ((paper.authors || []).length > 5 ? " et al." : "");
+        const favoriteText = mark.favorite ? "★ 已收藏" : "☆ 收藏", readText = mark.read ? "标为未读" : "标记已读", selected = Boolean(state.selected[paper.id]);
+        return `<article class="paper"><div class="cover"><iframe loading="lazy" title="${escapeHTML(paper.title)} PDF 首页" src="${pdf}#page=1&toolbar=0&navpanes=0&scrollbar=0"></iframe><span class="coverlabel">PDF SNAPSHOT · ${id}</span></div>
+          <div class="paperbody"><label class="select-paper"><input type="checkbox" data-action="select" data-id="${id}" ${selected ? "checked" : ""}>选择用于导出</label><time class="date" datetime="${escapeHTML(paper.published)}">发布 ${prettyDate(paper.published)}${paper.updated && paper.updated !== paper.published ? ` · 更新 ${prettyDate(paper.updated)}` : ""}</time><div class="title">${escapeHTML(paper.title)}</div><div class="authors">${escapeHTML(authors)}</div><div class="chips">${cats}</div><p class="abstract">${escapeHTML(paper.abstract)}</p>
+          <div class="cardfoot"><span class="arxivid">arXiv:${id}${mark.read ? " · 已读" : ""}</span><div class="actions"><button class="action" data-action="favorite" data-id="${id}" title="收藏或取消收藏">${favoriteText}</button><button class="action" data-action="read" data-id="${id}" title="切换阅读状态">${readText}</button><a class="action" href="https://arxiv.org/abs/${encodeURIComponent(paper.id)}" target="_blank" rel="noopener">论文页面</a><a class="action primary" href="${pdf}" target="_blank" rel="noopener" download>↓ 下载 PDF</a></div></div></div></article>`;
+      }).join("");
+    }
+    function exportFile(name, content, type) { const blob = new Blob([content], {type}); const link = document.createElement("a"); link.href = URL.createObjectURL(blob); link.download = name; link.click(); setTimeout(() => URL.revokeObjectURL(link.href), 1000); }
+    function selectedPapers() { return state.papers.filter((paper) => state.selected[paper.id]); }
+    function exportSelected(format) {
+      const items = selectedPapers();
+      if (!items.length) { $("#status").textContent = "请先勾选要导出的论文"; return; }
+      if (format === "bib") exportFile("arxiv-moduli-v1.3.bib", bibtex(items), "text/plain;charset=utf-8");
+      else exportFile("arxiv-moduli-v1.3.csv", csv(items), "text/csv;charset=utf-8");
+      $("#status").textContent = `已导出 ${items.length} 篇论文`;
+    }
+    function bibtex(items) { return items.map((paper) => { const surname = (paper.authors?.[0] || "paper").split(/\s+/).pop().replace(/[^a-z0-9]/gi, "") || "paper"; const key = `${surname}${paper.published.slice(0,4)}_${paper.id.replace(/[^a-z0-9]/gi, "")}`; const author = (paper.authors || []).join(" and "); return `@misc{${key},\n  title = {${paper.title.replace(/[{}]/g, "")}},\n  author = {${author}},\n  year = {${paper.published.slice(0,4)}},\n  eprint = {${paper.id}},\n  archivePrefix = {arXiv},\n  primaryClass = {${paper.categories?.[0] || ""}},\n  url = {${paper.url}}\n}`; }).join("\n\n") + "\n"; }
+    function csv(items) { const quote = (value) => `"${String(value ?? "").replace(/"/g, '""')}"`; return ["id,title,authors,published,updated,categories,abstract,url", ...items.map((paper) => [paper.id, paper.title, (paper.authors || []).join("; "), paper.published, paper.updated || paper.published, (paper.categories || []).join("; "), paper.abstract, paper.url].map(quote).join(","))].join("\n") + "\n"; }
+    async function loadData() {
+      $("#status").textContent = "正在读取 papers.json…";
+      try {
+        const response = await fetch(`papers.json?t=${Date.now()}`, {cache:"no-store"}); if (!response.ok) throw new Error(`HTTP ${response.status}`);
+        const data = await response.json(); state.papers = (data.papers || []).sort((a,b) => b.published.localeCompare(a.published)); setDateDefaults();
+        const categories = [...new Set(state.papers.flatMap((paper) => paper.categories || []))].sort(); $("#category").innerHTML = `<option value="">全部分类</option>${categories.map((cat) => `<option value="${escapeHTML(cat)}">${escapeHTML(cat)}</option>`).join("")}`;
+        $("#paperCount").textContent = state.papers.length; $("#categoryCount").textContent = categories.length; $("#period").textContent = data.period ? `${data.period.start} — ${data.period.end}` : "arXiv recent papers"; $("#summaryText").textContent = state.papers.length ? `收录 ${state.papers.length} 篇与模空间主题相关的近期论文。` : "当前数据周期没有匹配论文。"; $("#status").textContent = data.generated_at ? `更新于 ${new Date(data.generated_at).toLocaleString("zh-CN")}` : "数据已加载"; render();
+      } catch (error) { $("#period").textContent = "尚无可用数据"; $("#status").textContent = "请启动数据抓取并使用启动脚本打开网页。"; $("#papers").innerHTML = `<div class="empty"><b>无法读取论文数据</b>未找到 papers.json。运行 start_dashboard.ps1 生成数据并启动看板。<br><small>${escapeHTML(error.message)}</small></div>`; }
+    }
+    const stored = readStore();
+    const legacy = Object.keys(stored).length ? stored : readStoreLegacy();
+    function readStoreLegacy() { try { return JSON.parse(localStorage.getItem(LEGACY_STORAGE_KEY) || "{}"); } catch { return {}; } }
+    state.marks = legacy.marks || {}; state.selected = legacy.selected || {}; state.preferences = {...state.preferences, ...(legacy.preferences || {})};
+    document.documentElement.dataset.theme = state.preferences.theme === "dark" ? "dark" : "light";
+    $("#themeToggle").textContent = state.preferences.theme === "dark" ? "☀ 白天" : "☾ 夜晚";
+    $("#customTerms").value = state.preferences.terms; $("#matchAll").checked = state.preferences.matchAll; $("#favoritesOnly").setAttribute("aria-pressed", state.preferences.favoritesOnly); $("#favoritesOnly").textContent = state.preferences.favoritesOnly ? "显示全部" : "只看收藏";
+    $("#themeToggle").addEventListener("click", () => { state.preferences.theme = state.preferences.theme === "dark" ? "light" : "dark"; document.documentElement.dataset.theme = state.preferences.theme; $("#themeToggle").textContent = state.preferences.theme === "dark" ? "☀ 白天" : "☾ 夜晚"; saveStore(); });
+    $("#search").addEventListener("input", render); $("#category").addEventListener("change", render); $("#dateFrom").addEventListener("change", render); $("#dateTo").addEventListener("change", render); $("#readingStatus").addEventListener("change", render); $("#matchAll").addEventListener("change", render); $("#reload").addEventListener("click", loadData);
+    $("#saveTerms").addEventListener("click", () => { state.preferences.terms = $("#customTerms").value; state.preferences.matchAll = $("#matchAll").checked; saveStore(); render(); $("#status").textContent = "关键词已保存到当前浏览器"; });
+    $("#favoritesOnly").addEventListener("click", () => { state.preferences.favoritesOnly = !state.preferences.favoritesOnly; $("#favoritesOnly").textContent = state.preferences.favoritesOnly ? "显示全部" : "只看收藏"; $("#favoritesOnly").setAttribute("aria-pressed", state.preferences.favoritesOnly); saveStore(); render(); });
+    $("#selectVisible").addEventListener("click", () => { visiblePapers().forEach((paper) => { state.selected[paper.id] = true; }); saveStore(); render(); });
+    $("#clearSelected").addEventListener("click", () => { state.selected = {}; saveStore(); render(); });
+    $("#exportBib").addEventListener("click", () => exportSelected("bib")); $("#exportCsv").addEventListener("click", () => exportSelected("csv"));
+    $("#papers").addEventListener("click", (event) => { const control = event.target.closest("[data-action]"); if (!control) return; const id = control.dataset.id; if (control.dataset.action === "select") { state.selected[id] = control.checked; if (!control.checked) delete state.selected[id]; saveStore(); render(); return; } const mark = state.marks[id] || {}; mark[control.dataset.action === "favorite" ? "favorite" : "read"] = !mark[control.dataset.action === "favorite" ? "favorite" : "read"]; state.marks[id] = mark; saveStore(); render(); });
+    loadData();
+  </script>
+</body>
+</html>
