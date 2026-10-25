@@ -1,6 +1,6 @@
-# arXiv 代数几何模空间周报 (2026-10-18 至 2026-10-24)
+# arXiv 代数几何模空间周报 (2026-10-19 至 2026-10-25)
 
-共找到 **26** 篇候选论文。
+共找到 **21** 篇候选论文。
 
 ## [Leafrians, Poisson structures, and Frobenius splittings on moduli spaces](https://arxiv.org/abs/2610.31619)
 - **日期：** 2026-10-22  |  **相关度：** 12  |  **分类：** math.AG, math.AC, math.SG
@@ -127,36 +127,6 @@
 - **作者：** Kenz Kallal
 - **匹配主题：** moduli, moduli space, moduli spaces
 - **概述（原摘要节选）：** In the case of the totally degenerate split degenerations given by fibered powers of Tate curves over $\mathbf{Z}[[q^{1/w}]]$, this article proves a Fourier expansion principle that applies to higher coherent (equivariant) cohomology classes of rigidified line bundles on the $\mathbf{Z}((q^{1/w}))$-fiber. We do not require any ampleness hypotheses.
-
-## [Torelli theorem for the moduli spaces of twisted vector bundles on smooth projective curves](https://arxiv.org/abs/2610.25500)
-- **日期：** 2026-10-18  |  **相关度：** 13  |  **分类：** math.AG, math.NT
-- **作者：** Soham Ghosh, Ting Gong, Max Lieblich
-- **匹配主题：** moduli, moduli space, moduli spaces, moduli stack
-- **概述（原摘要节选）：** We prove Torelli theorems for moduli space of twisted vector bundles on smooth projective curves over an arbitrary field of characteristic $\neq 2$. A twisted Hitchin construction recovers the curve in higher rank and degree, with partial recovery of the twisting class.
-
-## [Non-existence of Negative Weight Derivations of the Moduli Algebras of Isolated Weighted Homogeneous Hypersurface Singularities](https://arxiv.org/abs/2610.25177)
-- **日期：** 2026-10-18  |  **相关度：** 6  |  **分类：** math.AG
-- **作者：** Guorui Ma
-- **匹配主题：** moduli
-- **概述（原摘要节选）：** Mather and Yau proved that the analytic isomorphism class of an isolated complex hypersurface singularity is determined by its dimension and its moduli algebra. Yau's conjecture asserts that the moduli algebra of an isolated weighted homogeneous hypersurface singularity over $\mathbb{C}$ has no nonzero derivation of negative degree.
-
-## [The center conjecture for cyclotomic Hecke algebras and cohomology of quiver varieties](https://arxiv.org/abs/2610.25101)
-- **日期：** 2026-10-18  |  **相关度：** 1  |  **分类：** math.RT, math.AG, math.QA
-- **作者：** Jun Hu, Andrew Mathas, Lei Shi, Ben Webster
-- **匹配主题：** quiver variety
-- **概述（原摘要节选）：** For a quiver without edge loops, we construct an isomorphism from the cohomology of a Nakajima quiver variety with coefficients in an arbitrary field to the Jucys--Murphy center of the corresponding cyclotomic KLR algebra over that field. In affine type $A^{(1)}_{e-1}$, combining this with a dimension count shows that this Jucys--Murphy center coincides with the full center in characteristic $0$, when the characteristic does not divide $e$, and when the characteristic…
-
-## [The section conjecture for generic pointed curves](https://arxiv.org/abs/2610.24986)
-- **日期：** 2026-10-18  |  **相关度：** 2  |  **分类：** math.AG
-- **作者：** Ma Luo, Tatsunari Watanabe
-- **匹配主题：** moduli, moduli stack
-- **概述（原摘要节选）：** Let $k/\mathbb Q$ be finitely generated, let $g\geq3$ and $n\geq1$, and let $\mathcal M_{g,n/k}$ be the moduli stack of smooth proper genus-$g$ curves with $n$ distinct ordered markings. Put $K=k(\mathcal M_{g,n/k})$.
-
-## [Eynard-Orantin Topological Recursion, Moduli-Space Virasoro Constraints, and Semisimple CohFTs](https://arxiv.org/abs/2610.24980)
-- **日期：** 2026-10-18  |  **相关度：** 6  |  **分类：** math-ph, math.AG
-- **作者：** Dingkang Xiong, Jian Zhou
-- **匹配主题：** moduli
-- **概述（原摘要节选）：** We use Virasoro constraints to prove Eynard's intersection-number formula for Eynard-Orantin topological recursion with several simple ramification points. The key construction couples the higher Weil-Petersson partition functions associated with the individual ramification points through a quadratic differential operator determined by the Bergman kernel.
 
 ---
 概述取自论文原摘要前两句，未使用生成式模型；建议点击标题查看原文及完整摘要。
