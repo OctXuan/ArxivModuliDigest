@@ -1,11 +1,26 @@
 {
   "version": "1.3",
-  "generated_at": "2026-10-25T16:23:31.387714+00:00",
+  "generated_at": "2026-10-26T18:42:12.373219+00:00",
   "period": {
-    "start": "2026-10-19",
-    "end": "2026-10-25"
+    "start": "2026-10-20",
+    "end": "2026-10-26"
   },
   "papers": [
+    {
+      "id": "2610.32975",
+      "url": "https://arxiv.org/abs/2610.32975",
+      "title": "Foliations on abelian surfaces in positive characteristic",
+      "abstract": "This paper studies foliations on abelian surfaces in positive characteristic. We provide an explicit description of all smooth foliations, linear and turbulent, and establish criteria for being $p$-closed. We explicitly determine the moduli spaces of such foliations. We give an application to the construction of $p$-closed foliations, with mild singularities, on Kummer $K3$-surfaces in positive characteristics.",
+      "authors": [
+        "Fabrizio Andreatta",
+        "Eyal Z. Goren"
+      ],
+      "published": "2026-10-23",
+      "updated": "2026-10-23",
+      "categories": [
+        "math.AG"
+      ]
+    },
     {
       "id": "2610.31619",
       "url": "https://arxiv.org/abs/2610.31619",
@@ -181,22 +196,6 @@
       ]
     },
     {
-      "id": "2610.28497",
-      "url": "https://arxiv.org/abs/2610.28497",
-      "title": "Matrix divisors, Christoffel transformations and symmetric $d$-connections",
-      "abstract": "The Christoffel transformation $w(x)\\mapsto x^2w(x)$ relates elementary bundle modifications to gap probability recurrences. The moment matrix determines normalization and the splitting type. We define the source and target moduli problems by their local data. The modifications identify common stable loci and conjugate their point-addition maps. For Pearson ratios $d(-z-1)/d(z)$ with $°d=1,2$, we construct rational spectral coordinates and compute the induced transformation. For positive even weights with finite moments, reweighting configurations yields the transformed gap probability recurrence. Its coefficient is a rational function of the transformed spectral coordinates. A local formula applies outside these charts under the stated hypotheses.",
-      "authors": [
-        "Anton Selemenchuk"
-      ],
-      "published": "2026-10-20",
-      "updated": "2026-10-20",
-      "categories": [
-        "math-ph",
-        "math.AG",
-        "math.PR"
-      ]
-    },
-    {
       "id": "2610.28156",
       "url": "https://arxiv.org/abs/2610.28156",
       "title": "A Twisted bidifferential, second fundamental form of Prym map and projective structures",
@@ -255,86 +254,6 @@
       "published": "2026-10-20",
       "updated": "2026-10-20",
       "categories": [
-        "math.AG"
-      ]
-    },
-    {
-      "id": "2610.27267",
-      "url": "https://arxiv.org/abs/2610.27267",
-      "title": "The integral $K_0$-ring of the stack of smooth hyperelliptic curves",
-      "abstract": "We compute the integral $K_0$-ring of the moduli stack $\\mathscr H_g$ of smooth hyperelliptic curves of genus $g\\ge2$ over a field of characteristic zero. We show that it is a free abelian group of rank $8g+2$ for even $g$ and $8g+4$ for odd $g$. We use the isotypic decomposition of the $K_0$ of a related $μ_{g+1}$-gerbe to obtain presentations for both even and odd $g$'s from the standard quotient presentation of $\\mathscr H_g$. Thus, our technique differs from the $CH^\\bullet(\\mathscr H_g)$ computations of Edidin--Fulghesu, Fulghesu--Viviani, Di Lorenzo, and the $K_0(\\mathscr M_2)$ computation of Edidin--Hu. Using Pagani's description of the inertia stack of $\\mathscr H_g$, we apply Riemann--Roch to interpret the rank of $K_0(\\mathscr H_g)$ as the number of inertia components. Finally, we compare the $K_0$ and Chow rings of $\\mathscr H_g$ through the gamma-filtration and give presentations to the associated graded rings $\\operatorname{gr}_γK_0(\\mathscr H_g)\\otimes\\mathbb F_p$ for every prime $p$.",
-      "authors": [
-        "Michael Ruofan Zeng"
-      ],
-      "published": "2026-10-19",
-      "updated": "2026-10-19",
-      "categories": [
-        "math.AG",
-        "math.KT"
-      ]
-    },
-    {
-      "id": "2610.27077",
-      "url": "https://arxiv.org/abs/2610.27077",
-      "title": "Flux Vacua, Asymptotic Periods, and Relatively Anosov Representations",
-      "abstract": "We develop a topological method to detect classical flux vacua of M-theory on Calabi-Yau fourfolds with a single complex structure modulus using only asymptotic period data and monodromy information. To this end, we express the index of the F-term of the flux superpotential as a winding number along the boundary of the universal cover of the complex structure moduli space. The index evaluates to a sum over zeros and poles of a suitably normalized boundary F-term, where local contributions can be computed algebraically on a dense set of boundary points. Assuming a conjectured bound on the remaining contributions, sufficiently many sign changes of the boundary F-term guarantee a flux vacuum in the interior. We illustrate the method on the mirror Fermat sextic with explicit examples and a systematic flux scan. A main technical ingredient in our construction is a continuity result for projective period maps: we prove that the non-holomorphic (3,1)-period map extends continuously to the boundary of the covering space if the monodromy representation is relatively Anosov. In general, this property does not hold for holomorphic (4,0)-periods.",
-      "authors": [
-        "Paul Balavoine",
-        "Severin Lüst"
-      ],
-      "published": "2026-10-19",
-      "updated": "2026-10-19",
-      "categories": [
-        "hep-th",
-        "math.AG",
-        "math.GT"
-      ]
-    },
-    {
-      "id": "2610.26580",
-      "url": "https://arxiv.org/abs/2610.26580",
-      "title": "Mellin transformed exponential volumes and probabilistic moduli spaces",
-      "abstract": "A decorated surface is a surface with boundary and a finite set of marked boundary points called cusps. We continue to study the exponential volumes E(S,K,L) of moduli spaces of ideal hyperbolic structures on a decorated surface S, with the given values of lengths of boundary geodesic circles L and boundary geodesic intervals K, introduced in our previous work: 1. We prove that the Mellin--Laplace transform of E(S,K,L) admits Barnes integral presentations, and satisfies recursions, generalising Mirzakhani's recursions. 2. We specify a subset I of the blue boundary intervals, and assign to them any collection of weights. We show that the Mellin transform of the function E(S,K,L) along the variables K at the blue intervals, evaluated at the weights values, calculates weighted exponential volumes of various moduli spaces. If all boundary intervals are blue and all weights are 1/2, we recover Chekhov's volumes of moduli spaces of hyperbolic surfaces with crowns, discretizing the Schwarzian action. We derive recursions for the weighted exponential volumes. 3. We introduce probabilistic Teichmuller spaces related to decorated surfaces S. They are infinite dimensional and carry canonical Wiener type measures. The definition of the measures builds on the works of Bauerschmidt - Losev - Wildemann and Losev. Their quotients by the action of the modular group of S are probabilistic moduli spaces. We show that their volumes are finite. We prove recursion formulas for these measures, and hence for the volumes. The emerging theory generalizes the Schwarzian field theory of Stanford - Witten from the disc to any decorated surfaces, i.e. to open string format. In particular, we get recursions for the Feynman integrals in Schwarzian field theory on decorated surfaces.",
-      "authors": [
-        "Alexander B. Goncharov",
-        "Zhe Sun"
-      ],
-      "published": "2026-10-19",
-      "updated": "2026-10-19",
-      "categories": [
-        "math.AG",
-        "math-ph",
-        "math.DG",
-        "math.PR"
-      ]
-    },
-    {
-      "id": "2610.26074",
-      "url": "https://arxiv.org/abs/2610.26074",
-      "title": "Gauss-Manin connection in disguise: limiting periods and quasi-Jacobi forms",
-      "abstract": "We construct a six-dimensional algebraic moduli space of elliptic curves equipped with two ordered marked points, an enhanced relative de Rham frame, and a nonzero tensor of endpoint tangents. Its normalized period map is a biholomorphism. On the classical period locus, the regular coordinates pull back under its inverse to Weierstrass, Eisenstein, and theta functions. The associated Gauss-Manin vector fields realize differential operators on quasi-Jacobi forms of integer index. To relate this elliptic space to the genus-two construction, we study a specified smoothing family over a five-dimensional space of limiting enhancements. For this family, we identify the regularized period matrix and the boundary pullback of the holomorphic part of the logarithmic connection with respect to the chosen plumbing parameter. We then compute the unit relating the algebraic smoothing parameter to the Siegel period parameter and the limits of the specified genus-two generators. Separately, we express classical Fourier-Jacobi coefficients in enhanced elliptic coordinates.",
-      "authors": [
-        "Jin Cao"
-      ],
-      "published": "2026-10-19",
-      "updated": "2026-10-19",
-      "categories": [
-        "math.AG",
-        "math.NT"
-      ]
-    },
-    {
-      "id": "2610.25772",
-      "url": "https://arxiv.org/abs/2610.25772",
-      "title": "A Fourier expansion principle for coherent cohomology of powers of Tate curves",
-      "abstract": "In the case of the totally degenerate split degenerations given by fibered powers of Tate curves over $\\mathbf{Z}[[q^{1/w}]]$, this article proves a Fourier expansion principle that applies to higher coherent (equivariant) cohomology classes of rigidified line bundles on the $\\mathbf{Z}((q^{1/w}))$-fiber. We do not require any ampleness hypotheses. This generalizes a previous Fourier expansion principle due to Faltings--Chai that applies only to sections of ample line bundles; that version was used as a key step in their proof of their classification of polarized degenerations and thus in the construction of toroidal compactifications of moduli spaces of polarized abelian varieties. This article can be considered as a theory of Fourier expansions for algebraic theta cocycles associated to possibly indefinite quadratic forms, and has application to arithmetic: in joint work with Venkatesh, we have used it to produce an algebraic theory of Kudla--Millson indefinite modular theta functions.",
-      "authors": [
-        "Kenz Kallal"
-      ],
-      "published": "2026-10-19",
-      "updated": "2026-10-19",
-      "categories": [
-        "math.NT",
         "math.AG"
       ]
     }

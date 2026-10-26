@@ -1,6 +1,12 @@
-# arXiv 代数几何模空间周报 (2026-10-19 至 2026-10-25)
+# arXiv 代数几何模空间周报 (2026-10-20 至 2026-10-26)
 
-共找到 **21** 篇候选论文。
+共找到 **16** 篇候选论文。
+
+## [Foliations on abelian surfaces in positive characteristic](https://arxiv.org/abs/2610.32975)
+- **日期：** 2026-10-23  |  **相关度：** 3  |  **分类：** math.AG
+- **作者：** Fabrizio Andreatta, Eyal Z. Goren
+- **匹配主题：** moduli, moduli space, moduli spaces
+- **概述（原摘要节选）：** This paper studies foliations on abelian surfaces in positive characteristic. We provide an explicit description of all smooth foliations, linear and turbulent, and establish criteria for being $p$-closed.
 
 ## [Leafrians, Poisson structures, and Frobenius splittings on moduli spaces](https://arxiv.org/abs/2610.31619)
 - **日期：** 2026-10-22  |  **相关度：** 12  |  **分类：** math.AG, math.AC, math.SG
@@ -68,12 +74,6 @@
 - **匹配主题：** moduli, moduli space, moduli spaces
 - **概述（原摘要节选）：** In this paper, we provide an explicit correspondence between moduli spaces of parabolic logarithmic connections on the projective line with spectral type $(2^2,1^4,1^4)$ and $(3^2, 2^3, 1^6)$, and the spaces of initial conditions for difference Painlevé equations with symmetry of type $E^{(1)}_7$ and $E^{(1)}_8$, respectively. Furthermore, we realize the extended affine Weyl group symmetries of the space of initial conditions in terms of connections.
 
-## [Matrix divisors, Christoffel transformations and symmetric $d$-connections](https://arxiv.org/abs/2610.28497)
-- **日期：** 2026-10-20  |  **相关度：** 1  |  **分类：** math-ph, math.AG, math.PR
-- **作者：** Anton Selemenchuk
-- **匹配主题：** moduli
-- **概述（原摘要节选）：** The Christoffel transformation $w(x)\mapsto x^2w(x)$ relates elementary bundle modifications to gap probability recurrences. The moment matrix determines normalization and the splitting type.
-
 ## [A Twisted bidifferential, second fundamental form of Prym map and projective structures](https://arxiv.org/abs/2610.28156)
 - **日期：** 2026-10-20  |  **相关度：** 2  |  **分类：** math.AG
 - **作者：** Indranil Biswas, Elisabetta Colombo, Paola Frediani, Alessandro Ghigi
@@ -97,36 +97,6 @@
 - **作者：** Mauricio Corrêa
 - **匹配主题：** moduli
 - **概述（原摘要节选）：** We study prescribed holomorphic lattices for regular-singular connections and residual factors of quantum $F$-bundles. For an arbitrary ordered monodromy spectrum, we classify the fully framed local groupoid: each residue fibre is a discrete affine space of dimension $r(r-1)$, with a unique normal form and trivial stabilisers.
-
-## [The integral $K_0$-ring of the stack of smooth hyperelliptic curves](https://arxiv.org/abs/2610.27267)
-- **日期：** 2026-10-19  |  **相关度：** 2  |  **分类：** math.AG, math.KT
-- **作者：** Michael Ruofan Zeng
-- **匹配主题：** moduli, moduli stack
-- **概述（原摘要节选）：** We compute the integral $K_0$-ring of the moduli stack $\mathscr H_g$ of smooth hyperelliptic curves of genus $g\ge2$ over a field of characteristic zero. We show that it is a free abelian group of rank $8g+2$ for even $g$ and $8g+4$ for odd $g$.
-
-## [Flux Vacua, Asymptotic Periods, and Relatively Anosov Representations](https://arxiv.org/abs/2610.27077)
-- **日期：** 2026-10-19  |  **相关度：** 2  |  **分类：** hep-th, math.AG, math.GT
-- **作者：** Paul Balavoine, Severin Lüst
-- **匹配主题：** moduli, moduli space
-- **概述（原摘要节选）：** We develop a topological method to detect classical flux vacua of M-theory on Calabi-Yau fourfolds with a single complex structure modulus using only asymptotic period data and monodromy information. To this end, we express the index of the F-term of the flux superpotential as a winding number along the boundary of the universal cover of the complex structure moduli space.
-
-## [Mellin transformed exponential volumes and probabilistic moduli spaces](https://arxiv.org/abs/2610.26580)
-- **日期：** 2026-10-19  |  **相关度：** 12  |  **分类：** math.AG, math-ph, math.DG, math.PR
-- **作者：** Alexander B. Goncharov, Zhe Sun
-- **匹配主题：** moduli, moduli space, moduli spaces
-- **概述（原摘要节选）：** A decorated surface is a surface with boundary and a finite set of marked boundary points called cusps. We continue to study the exponential volumes E(S,K,L) of moduli spaces of ideal hyperbolic structures on a decorated surface S, with the given values of lengths of boundary geodesic circles L and boundary geodesic intervals K, introduced in our previous work: 1.
-
-## [Gauss-Manin connection in disguise: limiting periods and quasi-Jacobi forms](https://arxiv.org/abs/2610.26074)
-- **日期：** 2026-10-19  |  **相关度：** 2  |  **分类：** math.AG, math.NT
-- **作者：** Jin Cao
-- **匹配主题：** moduli, moduli space
-- **概述（原摘要节选）：** We construct a six-dimensional algebraic moduli space of elliptic curves equipped with two ordered marked points, an enhanced relative de Rham frame, and a nonzero tensor of endpoint tangents. Its normalized period map is a biholomorphism.
-
-## [A Fourier expansion principle for coherent cohomology of powers of Tate curves](https://arxiv.org/abs/2610.25772)
-- **日期：** 2026-10-19  |  **相关度：** 3  |  **分类：** math.NT, math.AG
-- **作者：** Kenz Kallal
-- **匹配主题：** moduli, moduli space, moduli spaces
-- **概述（原摘要节选）：** In the case of the totally degenerate split degenerations given by fibered powers of Tate curves over $\mathbf{Z}[[q^{1/w}]]$, this article proves a Fourier expansion principle that applies to higher coherent (equivariant) cohomology classes of rigidified line bundles on the $\mathbf{Z}((q^{1/w}))$-fiber. We do not require any ampleness hypotheses.
 
 ---
 概述取自论文原摘要前两句，未使用生成式模型；建议点击标题查看原文及完整摘要。
