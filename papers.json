@@ -1,11 +1,131 @@
 {
   "version": "1.3",
-  "generated_at": "2026-10-26T18:42:12.373219+00:00",
+  "generated_at": "2026-10-27T18:03:02.854575+00:00",
   "period": {
-    "start": "2026-10-20",
-    "end": "2026-10-26"
+    "start": "2026-10-21",
+    "end": "2026-10-27"
   },
   "papers": [
+    {
+      "id": "2610.35492",
+      "url": "https://arxiv.org/abs/2610.35492",
+      "title": "Uniform large-genus asymptotics of Weil-Petersson volumes",
+      "abstract": "Let $V_{g,n}$ denote the Weil--Petersson volume of the moduli space of genus-$g$ hyperbolic surfaces with $n$ cusps. We obtain an asymptotic expansion in inverse powers of the genus as $g\\to\\infty$, uniformly for all $n\\ge0$. This includes cusp counts of order $\\sqrt g$ and larger, where the fixed-$n$ expansion of Mirzakhani and Zograf no longer gives a uniform approximation. The leading term is explicit and has relative error $O(g^{-1})$. Truncating the expansion at a suitably chosen order proportional to $\\sqrt g$ gives relative error $O(\\exp(-a\\sqrt g))$ for some $a>0$, with no restriction on the growth of $n$. For fixed $n$, the leading term identifies the universal constant in the Mirzakhani--Zograf asymptotics as $1/\\sqrtπ$, as conjectured by Zograf. We also answer two questions of Mirzakhani: we determine explicit asymptotic profiles for volume ratios uniformly in the number of cusps, and for adjacent coefficient ratios of the one-boundary volume polynomial uniformly over all degrees. The proof uses a positive recursion for mixed $κ_1$--$ψ$ intersection numbers, with the absolute normalization determined by comparison with the known asymptotics of pure $ψ$ intersection numbers.",
+      "authors": [
+        "Zhiyi Li",
+        "Qihang Wang"
+      ],
+      "published": "2026-10-26",
+      "updated": "2026-10-26",
+      "categories": [
+        "math.DG",
+        "math.AG"
+      ]
+    },
+    {
+      "id": "2610.35122",
+      "url": "https://arxiv.org/abs/2610.35122",
+      "title": "Universal polynomials for Gromov-Witten invariants on toric surfaces",
+      "abstract": "We study the polynomiality of combined logarithmic and ordinary Gromov-Witten invariants with a Lambda class insertion on toric surfaces $Δ(\\mathbf{c},\\mathbf{d})$. We show that the combined logarithmic Gromov-Witten invariants can be expressed in terms of universal relative node polynomials when the direction vector $\\mathbf{c}$ and length vector $\\mathbf{d}$ of the $h$-transverse lattice polygon $Δ(\\mathbf{c},\\mathbf{d})$ are sufficiently large and spread out. In particular, when the normal fan of the $h$-transverse lattice polygon $Δ(\\mathbf{c},\\mathbf{d})$ is smooth and its edges satisfy a length condition, we show that the combined Gromov-Witten invariants are equal to a universal node polynomial. We also show that the higher genus Block-Göttsche polynomials of smooth toric surfaces corresponding to these $h$-transverse lattice polygons, including toric blowups beyond Hirzebruch and toric del Pezzo surfaces, are equal to a generating function of higher genus Gromov-Witten invariants.",
+      "authors": [
+        "Yanqiao Ding",
+        "Dadi Ni"
+      ],
+      "published": "2026-10-26",
+      "updated": "2026-10-26",
+      "categories": [
+        "math.AG"
+      ]
+    },
+    {
+      "id": "2610.35086",
+      "url": "https://arxiv.org/abs/2610.35086",
+      "title": "Finiteness of algebraic Weil-Petersson totally geodesic curves in pointed moduli spaces",
+      "abstract": "For every pair $(g,n)$ with $2g-2+n>0$, we prove that $\\mathcal M_{g,n}$ contains only finitely many closed algebraic curves that are totally geodesic for the Weil-Petersson metric. We show that every such curve is an arithmetic quadratic Teichmüller curve and has equal heights for all marked maximal cylinders in every periodic direction. Although there are infinitely many arithmetic Teichmüller curves, we can bound the degree of the associated torus covering by the crucial equal-height property. This leads to the desired finiteness statement. We also prove that quadratic Teichmüller curves are characterized by the existence of a holomorphic splitting of the logarithmic cotangent Kodaira-Spencer map. This result is the analogue of Möller and Viehweg's characterization of Kobayashi geodesics in $\\mathcal A_g$.",
+      "authors": [
+        "Tianzhi Hu",
+        "Kang Zuo"
+      ],
+      "published": "2026-10-26",
+      "updated": "2026-10-26",
+      "categories": [
+        "math.AG"
+      ]
+    },
+    {
+      "id": "2610.35060",
+      "url": "https://arxiv.org/abs/2610.35060",
+      "title": "Mustafin degenerations of six points in the projective plane and self-duality",
+      "abstract": "Mustafin varieties provide a framework for degenerating the projective plane together with marked points, governed by the combinatorics of Bruhat-Tits buildings. Such limit objects are parametrized by the boundary points of a projective compactification of the moduli space of $n$ points in $\\mathbb{P}^2$ constructed by Schaffler-Tevelev. In this paper, we study the locus of this compactification generically parametrizing self-dual configurations, or equivalently, six points lying on a conic. We prove that this locus is a tropical compactification of the moduli space of self-dual configurations, with associated fan a refinement of the self-dual tropical Grassmannian introduced by Geiger-Hashimoto-Sturmfels-Vlad. We show that this compactification is a blow up of $\\overline{\\mathrm{M}}_{0,6}$ and we classify the objects it parametrizes: degenerations of $\\mathbb{P}^2$ equipped with a stable $6$-pointed rational curve that records the limiting conic.",
+      "authors": [
+        "Alheydis Geiger",
+        "Luca Schaffler"
+      ],
+      "published": "2026-10-26",
+      "updated": "2026-10-26",
+      "categories": [
+        "math.AG"
+      ]
+    },
+    {
+      "id": "2610.34676",
+      "url": "https://arxiv.org/abs/2610.34676",
+      "title": "Sheaves on nodal singularities I",
+      "abstract": "We study two families of moduli spaces of sheaves attached to the node, namely the punctual Hilbert schemes of the non-reduced plane curve $x^uy^v=0$, and the punctual Quot schemes of the module $k[[x]]^u\\oplus k[[y]]^v$ over the reduced node $xy=0$. We compute their motivic generating functions for all $u,v$ and over every field. Both are specializations of a single rational function whose numerator counts matrices by rank, and they are related by the substitution $\\mathbb{L}\\mapsto Q\\mathbb{L}$. This proves the Hilb--Quot correspondence for the node with independent ranks on the two branches. The main geometric ingredient is an elementary modification of an ideal along a branch of the curve, whose fibres are affine spaces of dimension equal to a contact length. We also construct stratifications of the Hilbert schemes into products of affine spaces and tori, and we formulate a branchwise Hilb--Quot--HOMFLY conjecture, which we test on the colored Hopf link.",
+      "authors": [
+        "Yifeng Huang",
+        "Ruofan Jiang",
+        "Alexei Oblomkov"
+      ],
+      "published": "2026-10-26",
+      "updated": "2026-10-26",
+      "categories": [
+        "math.AG"
+      ]
+    },
+    {
+      "id": "2610.34429",
+      "url": "https://arxiv.org/abs/2610.34429",
+      "title": "Indeterminacy of period map and Griffiths heights for hypersurfaces",
+      "abstract": "We prove that the period map $\\overline {\\mathcal P}$, from the GIT moduli space of degree $d$ hypersurface $X$ in $\\mathbb P^n$ to the Baily-Borel compactification of the period image associated to the middle cohomology $H^{n-1}_{\\rm prim}(X,\\mathbb Z)$, extends regularly to $X$ if and only if $X$ has at worst nodal singularities (resp. suspensions of slc surface singularities) when $n$ is even (resp. $n$ is odd). This verifies and generalizes Laza-O'Grady's prediction on the indeterminacy locus of the period map for quartic K3s to arbitrary hypersurfaces. For Calabi-Yau hypersurfaces, we prove that the birational map from the GIT moduli space to the BBH compactification extends regularly to $X$ if and only if $X$ has semi-log canonical singularities. The results apply to distinguish the Baily-Borel and BBH compactifications. In the process, we answer two questions of Mordant on the Griffiths height for families of hypersurfaces over curves, which are crucial to the proofs of the main results.",
+      "authors": [
+        "Sung Gi Park"
+      ],
+      "published": "2026-10-25",
+      "updated": "2026-10-25",
+      "categories": [
+        "math.AG"
+      ]
+    },
+    {
+      "id": "2610.33990",
+      "url": "https://arxiv.org/abs/2610.33990",
+      "title": "Fine points of the moduli space of cubic rational maps",
+      "abstract": "A rational point of the moduli space $\\mathcal{M}_3$ of cubic rational maps is fine if its conjugacy class contains a map defined over $\\mathbb{Q}$, and coarse otherwise. In the invariants $ξ_0,\\dots,ξ_5$ that embed $\\mathcal{M}_3$ in $\\mathbb{P}(2,2,3,3,4,6)$, we prove that a point with trivial automorphism group is fine if and only if the quaternion algebra $(-m_{12},-2ξ_0)_{\\mathbb{Q}}$ splits, where $m_{12}=\\frac{1}{3}ξ_0^2ξ_1+ξ_0ξ_4-ξ_3^2$; we give the analogous criterion on the locus $\\mathcal{L}_2$ of maps with an involution and show that all other strata are fine. The proof is constructive and yields an explicit descent. We prove that the obstruction class is unramified along every divisor of the compactification, that a prime $p\\ge 5$ obstructs only if the point reduces modulo $p$ into the closure of one of the two codimension-two loci $\\mathcal{L}_1$, $\\mathcal{L}_2$ of maps with an involution, and that $\\mathcal{M}_3$ has transverse $A_1$-singularities along both, above which the class ramifies; local densities predict that $\\mathcal{L}_2$ is met modulo $p$ with probability $\\asymp 1/p$, so that it carries the obstruction. A census of all 214,260,288 rational points of weighted moduli height at most 7 agrees with this mechanism and supports the conjecture that the proportion of fine points tends to zero like $(\\log B)^{-1/2}$.",
+      "authors": [
+        "Tanush Shaska"
+      ],
+      "published": "2026-10-25",
+      "updated": "2026-10-25",
+      "categories": [
+        "math.AG",
+        "math.NT"
+      ]
+    },
+    {
+      "id": "2610.33971",
+      "url": "https://arxiv.org/abs/2610.33971",
+      "title": "Hodge--Deligne polynomials and $S_n$-representations on the cohomology of $\\overline{\\mathcal M}_{2,n}$",
+      "abstract": "We compute the Hodge-Deligne polynomials of the moduli spaces $\\overline{\\mathcal M}_{2,n}$ of stable $n$-pointed curves of genus two, together with the action of the symmetric group $S_n$ on their cohomology, for all $n$. Using Hassett's moduli spaces of weighted pointed curves, we first show that the generating function of the $S_n$-equivariant Hodge-Deligne polynomials of $\\overline{\\mathcal M}_{g,n}$ is obtained from that of the moduli spaces of minimally weighted pointed curves by plethysm with the explicit symmetric function $Z=h_1-\\sum_{k\\ge3}(x+x^2+\\dots+x^{k-2})h_k$; numerically, this is an explicit change of variables. The latter spaces map to $\\overline{\\mathcal M}_g$, and over each boundary stratum they are built from punctured universal curves and Losev-Manin spaces. Combining the stratification by stable graphs with Burnside's formula and twisted characteristics, we obtain in genus two a closed formula whose only non-elementary input is the cohomology of symplectic local systems on $\\mathcal M_{1,1}$ and $\\mathscr A_2$, known by work of Eichler-Shimura and Petersen. This determines the $S_n$-representations on all $H^{p,q}(\\overline{\\mathcal M}_{2,n})$ for $n\\le 19$ and on all even degree $H^{p,q}(\\overline{\\mathcal M}_{2,n})$ for every $n$. We carry out the computation in all degrees for $n\\le 18$, where it agrees with an independent computation by point counts, and in even degrees for $n\\le 30$. As an application, we find that the even degree cohomology of $\\overline{\\mathcal M}_{2,n}$ is of Hodge-Tate type if and only if $n\\le 20$: the space $H^{23,1}(\\overline{\\mathcal M}_{2,21})$ is the multiplicity free $S_{21}$-representation with Frobenius characteristic $s_1\\cdot h_2[e_{10}]$, of dimension $1939938$, so that $H^{24}(\\overline{\\mathcal M}_{2,21})$ is not spanned by algebraic cycle classes.",
+      "authors": [
+        "Young-Hoon Kiem"
+      ],
+      "published": "2026-10-25",
+      "updated": "2026-10-25",
+      "categories": [
+        "math.AG"
+      ]
+    },
     {
       "id": "2610.32975",
       "url": "https://arxiv.org/abs/2610.32975",
@@ -24,13 +144,13 @@
     {
       "id": "2610.31619",
       "url": "https://arxiv.org/abs/2610.31619",
-      "title": "Leafrians, Poisson structures, and Frobenius splittings on moduli spaces",
-      "abstract": "The Poisson $T$-Pfaffians of Bott--Samelson varieties, $G/U$, and $G/B$ produce Frobenius splittings, but only by a local, coordinate-bound argument. We isolate the local mechanism: a weighted trace pairing on the deformation space of a fat point, whose top coefficient factors over the blocks. At the members of a presentation, polyvector fields on the base $X$ transfer to the moduli space $M$. Applied to a Poisson bivector, this produces a Poisson bivector, extending Bottacin's structure from surfaces to arbitrary dimension. Applied to a top degree polyvector $s$ and wedged with a transverse Euler frame, it produces an anticanonical section on $M$, which we call the \\emph{leafrian}. When $X$ is a Poisson surface, we prove that the leafrian splits the moduli of stable sheaves, of principal $G$-bundles, and of instantons if and only if $s$ Frobenius-splits the base. The mechanism itself is dimension-free. The construction also recovers and generalizes the splittings of the Lie-theoretic examples: the $r$-matrix need not satisfy the classical Yang--Baxter equation.",
+      "title": "Leafrians, Frobenius splittings, and moduli spaces over Poisson surfaces",
+      "abstract": "Let $X$ be a smooth projective Poisson surface over an algebraically closed field of characteristic $p>2$, and let $s\\in H^0(X,ω_X^{-1})$ be nonzero. We construct an anticanonical section associated to $s$, called the leafrian, on moduli spaces $M$ of stable objects on $X$, including the moduli of stable sheaves, of principal $G$-bundles, and of instantons. The leafrian splits $M$ if and only if $s^{p-1}$ Frobenius splits the base. It is invariant under the Hamiltonian flows of Bottacin's Poisson structure on $M$, so every compatibly split subvariety of $M$ is a Poisson subvariety. Furthermore, the leafrian extends to an anticanonical section on the Gieseker compactification $\\bar M$, and splits $\\bar M$ under the same criterion. As a consequence, for $X$ a rational surface, a ruled surface over an elliptic curve, a $K3$ surface, or an abelian surface, and $ρ>0$, the Gieseker compactification $\\bar M$ satisfies Kodaira-type cohomology vanishing, including singular $\\bar M$, and the same holds in characteristic zero.",
       "authors": [
         "Jun Peng"
       ],
       "published": "2026-10-22",
-      "updated": "2026-10-22",
+      "updated": "2026-10-26",
       "categories": [
         "math.AG",
         "math.AC",
@@ -193,68 +313,6 @@
       "categories": [
         "math.AG",
         "math.CA"
-      ]
-    },
-    {
-      "id": "2610.28156",
-      "url": "https://arxiv.org/abs/2610.28156",
-      "title": "A Twisted bidifferential, second fundamental form of Prym map and projective structures",
-      "abstract": "Given a point $[(\\widetilde{C},C)]$ of the moduli space ${\\mathcal R}_g$, where $\\widetilde{C}$ is an étale double cover of a smooth curve $C$ of genus $g \\,\\geq\\, 7$, we construct a twisted meromorphic bidifferential $\\widehatη_P$ on $C\\times C$ with a pole on the diagonal. It is shown that the second fundamental form $ρ_P$ of the Prym map from ${\\mathcal R}_g$ to ${\\mathcal A}_{g-1}$ at $[(\\widetilde{C},C)]$ is given by this $\\widehatη_P$. This allows us to compare $ρ_P$ with the second fundamental forms of the two Torelli maps, to ${\\mathcal A}_{2g-1}$ and ${\\mathcal A}_{g}$, at the points $[\\widetilde{C}]$ and $[C]$ respectively. It is shown that $\\widehatη_P$ induces a projective structure on $C$ that depends on the double cover $\\widetilde{C}\\, \\longrightarrow\\, C$; these projective structures together give a ${\\mathcal C}^{\\infty}$ section $β_P$ of the bundle of projective structures on the moduli space ${\\mathcal R}_g$. Finally, it is proved that the $(0,\\,1)$-component of the differential of the section $β_P$ is the pullback of the Kähler form of the Siegel metric on ${\\mathcal A}_{g-1}$ via the Prym map. This is a key ingredient in the proof that this section $β_P$ is not the pullback of a section of projective structures on ${\\mathcal M}_{g}$ and, in addition, that it differs from the known projective structures on ${\\mathcal R}_g$.",
-      "authors": [
-        "Indranil Biswas",
-        "Elisabetta Colombo",
-        "Paola Frediani",
-        "Alessandro Ghigi"
-      ],
-      "published": "2026-10-20",
-      "updated": "2026-10-20",
-      "categories": [
-        "math.AG"
-      ]
-    },
-    {
-      "id": "2610.28028",
-      "url": "https://arxiv.org/abs/2610.28028",
-      "title": "Harder-Narasimhan Filtrations of Hyperquiver Representations",
-      "abstract": "Hyperquiver representations are generalisations of quiver representations. They are directed hypergraphs with vector spaces assigned to vertices, and for every directed hyperedge, an assignment of a linear map from the tensor product of the source vector spaces to the tensor product of the target vector spaces. We study the moduli of hyperquiver representations, where we use affine GIT to describe the (in)stability of such objects under the action of a product of general linear groups. Our main result introduces the Harder-Narasimhan filtration of a hyperquiver representation. We also derive a formula for the weights of this unique filtration, which specialise to the Harder-Narasimhan slopes of a quiver representation.",
-      "authors": [
-        "Tommi Muller"
-      ],
-      "published": "2026-10-20",
-      "updated": "2026-10-20",
-      "categories": [
-        "math.AG",
-        "math.RT"
-      ]
-    },
-    {
-      "id": "2610.27934",
-      "url": "https://arxiv.org/abs/2610.27934",
-      "title": "Mass Deformations and Sheets in Logahoric Higgs Moduli",
-      "abstract": "We use the framework of the logahoric Hitchin integrable system introduced in our earlier work and the sheets of the Lie algebra in order to describe the tame defects in a six dimensional $\\mathcal{N}=(2,0)$ superconformal theory under mass deformations. We show that varying leaves of fixed dimension in the Hitchin system amounts to varying residue orbits of fixed dimension. Moreover, we verify the period and dimension conditions in mass-like deformations, as proposed by Balasubramanian--Distler, thus realizing the sheets of the Lie algebra on the Poisson moduli space of logahoric Higgs torsors.",
-      "authors": [
-        "Georgios Kydonakis",
-        "Lutian Zhao"
-      ],
-      "published": "2026-10-20",
-      "updated": "2026-10-20",
-      "categories": [
-        "math.AG",
-        "hep-th"
-      ]
-    },
-    {
-      "id": "2610.27723",
-      "url": "https://arxiv.org/abs/2610.27723",
-      "title": "Lattice Moduli and Residual Atoms",
-      "abstract": "We study prescribed holomorphic lattices for regular-singular connections and residual factors of quantum $F$-bundles. For an arbitrary ordered monodromy spectrum, we classify the fully framed local groupoid: each residue fibre is a discrete affine space of dimension $r(r-1)$, with a unique normal form and trivial stabilisers. We then analyse elementary changes of lattice. A strictly positive integral residue difference obstructs the oriented wall; otherwise, in arbitrary rank, the extending normal-form arcs form an affine torsor of relative dimension $r(r-1)$, and specialisation to the shifted residue slice is polynomial and triangular by root height. Adjacent walls exhibit the composite-root correction dictated by the type-$A$ root-subgroup relations, while an example over the dual numbers detects a nilpotent saturation defect. For one-branch $F$-bundles, the scalar branch is recovered from the residual trace, and scalar residualisation yields a symmetric monoidal equivalence with zero-branch $F$-bundles. This construction yields residual atoms, functorial Jordan strata, and a residual chemical formula compatible with blow-ups and projective bundles. In the $A$-model, residualisation removes the unit direction; the rationally marked large-radius residual germ recovers the divisor cubic and distinguishes the marked residual germs of the Pfaffian and Grassmannian Calabi--Yau threefolds.",
-      "authors": [
-        "Mauricio Corrêa"
-      ],
-      "published": "2026-10-20",
-      "updated": "2026-10-20",
-      "categories": [
-        "math.AG"
       ]
     }
   ]

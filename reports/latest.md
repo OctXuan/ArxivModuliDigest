@@ -1,6 +1,54 @@
-# arXiv 代数几何模空间周报 (2026-10-20 至 2026-10-26)
+# arXiv 代数几何模空间周报 (2026-10-21 至 2026-10-27)
 
-共找到 **16** 篇候选论文。
+共找到 **20** 篇候选论文。
+
+## [Uniform large-genus asymptotics of Weil-Petersson volumes](https://arxiv.org/abs/2610.35492)
+- **日期：** 2026-10-26  |  **相关度：** 2  |  **分类：** math.DG, math.AG
+- **作者：** Zhiyi Li, Qihang Wang
+- **匹配主题：** moduli, moduli space
+- **概述（原摘要节选）：** Let $V_{g,n}$ denote the Weil--Petersson volume of the moduli space of genus-$g$ hyperbolic surfaces with $n$ cusps. We obtain an asymptotic expansion in inverse powers of the genus as $g\to\infty$, uniformly for all $n\ge0$.
+
+## [Universal polynomials for Gromov-Witten invariants on toric surfaces](https://arxiv.org/abs/2610.35122)
+- **日期：** 2026-10-26  |  **相关度：** 3  |  **分类：** math.AG
+- **作者：** Yanqiao Ding, Dadi Ni
+- **匹配主题：** gromov-witten
+- **概述（原摘要节选）：** We study the polynomiality of combined logarithmic and ordinary Gromov-Witten invariants with a Lambda class insertion on toric surfaces $Δ(\mathbf{c},\mathbf{d})$. We show that the combined logarithmic Gromov-Witten invariants can be expressed in terms of universal relative node polynomials when the direction vector $\mathbf{c}$ and length vector $\mathbf{d}$ of the $h$-transverse lattice polygon $Δ(\mathbf{c},\mathbf{d})$ are sufficiently large and spread out.
+
+## [Finiteness of algebraic Weil-Petersson totally geodesic curves in pointed moduli spaces](https://arxiv.org/abs/2610.35086)
+- **日期：** 2026-10-26  |  **相关度：** 12  |  **分类：** math.AG
+- **作者：** Tianzhi Hu, Kang Zuo
+- **匹配主题：** moduli, moduli space, moduli spaces
+- **概述（原摘要节选）：** For every pair $(g,n)$ with $2g-2+n>0$, we prove that $\mathcal M_{g,n}$ contains only finitely many closed algebraic curves that are totally geodesic for the Weil-Petersson metric. We show that every such curve is an arithmetic quadratic Teichmüller curve and has equal heights for all marked maximal cylinders in every periodic direction.
+
+## [Mustafin degenerations of six points in the projective plane and self-duality](https://arxiv.org/abs/2610.35060)
+- **日期：** 2026-10-26  |  **相关度：** 2  |  **分类：** math.AG
+- **作者：** Alheydis Geiger, Luca Schaffler
+- **匹配主题：** moduli, moduli space
+- **概述（原摘要节选）：** Mustafin varieties provide a framework for degenerating the projective plane together with marked points, governed by the combinatorics of Bruhat-Tits buildings. Such limit objects are parametrized by the boundary points of a projective compactification of the moduli space of $n$ points in $\mathbb{P}^2$ constructed by Schaffler-Tevelev.
+
+## [Sheaves on nodal singularities I](https://arxiv.org/abs/2610.34676)
+- **日期：** 2026-10-26  |  **相关度：** 5  |  **分类：** math.AG
+- **作者：** Yifeng Huang, Ruofan Jiang, Alexei Oblomkov
+- **匹配主题：** moduli, moduli space, moduli spaces, hilbert scheme, hilbert schemes
+- **概述（原摘要节选）：** We study two families of moduli spaces of sheaves attached to the node, namely the punctual Hilbert schemes of the non-reduced plane curve $x^uy^v=0$, and the punctual Quot schemes of the module $k[[x]]^u\oplus k[[y]]^v$ over the reduced node $xy=0$. We compute their motivic generating functions for all $u,v$ and over every field.
+
+## [Indeterminacy of period map and Griffiths heights for hypersurfaces](https://arxiv.org/abs/2610.34429)
+- **日期：** 2026-10-25  |  **相关度：** 2  |  **分类：** math.AG
+- **作者：** Sung Gi Park
+- **匹配主题：** moduli, moduli space
+- **概述（原摘要节选）：** We prove that the period map $\overline {\mathcal P}$, from the GIT moduli space of degree $d$ hypersurface $X$ in $\mathbb P^n$ to the Baily-Borel compactification of the period image associated to the middle cohomology $H^{n-1}_{\rm prim}(X,\mathbb Z)$, extends regularly to $X$ if and only if $X$ has at worst nodal singularities (resp. suspensions of slc surface singularities) when $n$ is even (resp. $n$ is odd). This verifies and generalizes Laza-O'Grady's prediction on…
+
+## [Fine points of the moduli space of cubic rational maps](https://arxiv.org/abs/2610.33990)
+- **日期：** 2026-10-25  |  **相关度：** 9  |  **分类：** math.AG, math.NT
+- **作者：** Tanush Shaska
+- **匹配主题：** moduli, moduli space
+- **概述（原摘要节选）：** A rational point of the moduli space $\mathcal{M}_3$ of cubic rational maps is fine if its conjugacy class contains a map defined over $\mathbb{Q}$, and coarse otherwise. In the invariants $ξ_0,\dots,ξ_5$ that embed $\mathcal{M}_3$ in $\mathbb{P}(2,2,3,3,4,6)$, we prove that a point with trivial automorphism group is fine if and only if the quaternion algebra $(-m_{12},-2ξ_0)_{\mathbb{Q}}$ splits, where $m_{12}=\frac{1}{3}ξ_0^2ξ_1+ξ_0ξ_4-ξ_3^2$; we give the analogous…
+
+## [Hodge--Deligne polynomials and $S_n$-representations on the cohomology of $\overline{\mathcal M}_{2,n}$](https://arxiv.org/abs/2610.33971)
+- **日期：** 2026-10-25  |  **相关度：** 3  |  **分类：** math.AG
+- **作者：** Young-Hoon Kiem
+- **匹配主题：** moduli, moduli space, moduli spaces
+- **概述（原摘要节选）：** We compute the Hodge-Deligne polynomials of the moduli spaces $\overline{\mathcal M}_{2,n}$ of stable $n$-pointed curves of genus two, together with the action of the symmetric group $S_n$ on their cohomology, for all $n$. Using Hassett's moduli spaces of weighted pointed curves, we first show that the generating function of the $S_n$-equivariant Hodge-Deligne polynomials of $\overline{\mathcal M}_{g,n}$ is obtained from that of the moduli spaces of minimally weighted…
 
 ## [Foliations on abelian surfaces in positive characteristic](https://arxiv.org/abs/2610.32975)
 - **日期：** 2026-10-23  |  **相关度：** 3  |  **分类：** math.AG
@@ -8,11 +56,11 @@
 - **匹配主题：** moduli, moduli space, moduli spaces
 - **概述（原摘要节选）：** This paper studies foliations on abelian surfaces in positive characteristic. We provide an explicit description of all smooth foliations, linear and turbulent, and establish criteria for being $p$-closed.
 
-## [Leafrians, Poisson structures, and Frobenius splittings on moduli spaces](https://arxiv.org/abs/2610.31619)
+## [Leafrians, Frobenius splittings, and moduli spaces over Poisson surfaces](https://arxiv.org/abs/2610.31619)
 - **日期：** 2026-10-22  |  **相关度：** 12  |  **分类：** math.AG, math.AC, math.SG
 - **作者：** Jun Peng
 - **匹配主题：** moduli, moduli space, moduli spaces
-- **概述（原摘要节选）：** The Poisson $T$-Pfaffians of Bott--Samelson varieties, $G/U$, and $G/B$ produce Frobenius splittings, but only by a local, coordinate-bound argument. We isolate the local mechanism: a weighted trace pairing on the deformation space of a fat point, whose top coefficient factors over the blocks.
+- **概述（原摘要节选）：** Let $X$ be a smooth projective Poisson surface over an algebraically closed field of characteristic $p>2$, and let $s\in H^0(X,ω_X^{-1})$ be nonzero. We construct an anticanonical section associated to $s$, called the leafrian, on moduli spaces $M$ of stable objects on $X$, including the moduli of stable sheaves, of principal $G$-bundles, and of instantons.
 
 ## [The center is the formal internal automorphism group](https://arxiv.org/abs/2610.31411)
 - **日期：** 2026-10-22  |  **相关度：** 1  |  **分类：** math.AT, math.AG
@@ -73,30 +121,6 @@
 - **作者：** Takafumi Matsumoto
 - **匹配主题：** moduli, moduli space, moduli spaces
 - **概述（原摘要节选）：** In this paper, we provide an explicit correspondence between moduli spaces of parabolic logarithmic connections on the projective line with spectral type $(2^2,1^4,1^4)$ and $(3^2, 2^3, 1^6)$, and the spaces of initial conditions for difference Painlevé equations with symmetry of type $E^{(1)}_7$ and $E^{(1)}_8$, respectively. Furthermore, we realize the extended affine Weyl group symmetries of the space of initial conditions in terms of connections.
-
-## [A Twisted bidifferential, second fundamental form of Prym map and projective structures](https://arxiv.org/abs/2610.28156)
-- **日期：** 2026-10-20  |  **相关度：** 2  |  **分类：** math.AG
-- **作者：** Indranil Biswas, Elisabetta Colombo, Paola Frediani, Alessandro Ghigi
-- **匹配主题：** moduli, moduli space
-- **概述（原摘要节选）：** Given a point $[(\widetilde{C},C)]$ of the moduli space ${\mathcal R}_g$, where $\widetilde{C}$ is an étale double cover of a smooth curve $C$ of genus $g \,\geq\, 7$, we construct a twisted meromorphic bidifferential $\widehatη_P$ on $C\times C$ with a pole on the diagonal. It is shown that the second fundamental form $ρ_P$ of the Prym map from ${\mathcal R}_g$ to ${\mathcal A}_{g-1}$ at $[(\widetilde{C},C)]$ is given by this $\widehatη_P$.
-
-## [Harder-Narasimhan Filtrations of Hyperquiver Representations](https://arxiv.org/abs/2610.28028)
-- **日期：** 2026-10-20  |  **相关度：** 1  |  **分类：** math.AG, math.RT
-- **作者：** Tommi Muller
-- **匹配主题：** moduli
-- **概述（原摘要节选）：** Hyperquiver representations are generalisations of quiver representations. They are directed hypergraphs with vector spaces assigned to vertices, and for every directed hyperedge, an assignment of a linear map from the tensor product of the source vector spaces to the tensor product of the target vector spaces.
-
-## [Mass Deformations and Sheets in Logahoric Higgs Moduli](https://arxiv.org/abs/2610.27934)
-- **日期：** 2026-10-20  |  **相关度：** 7  |  **分类：** math.AG, hep-th
-- **作者：** Georgios Kydonakis, Lutian Zhao
-- **匹配主题：** moduli, moduli space
-- **概述（原摘要节选）：** We use the framework of the logahoric Hitchin integrable system introduced in our earlier work and the sheets of the Lie algebra in order to describe the tame defects in a six dimensional $\mathcal{N}=(2,0)$ superconformal theory under mass deformations. We show that varying leaves of fixed dimension in the Hitchin system amounts to varying residue orbits of fixed dimension.
-
-## [Lattice Moduli and Residual Atoms](https://arxiv.org/abs/2610.27723)
-- **日期：** 2026-10-20  |  **相关度：** 6  |  **分类：** math.AG
-- **作者：** Mauricio Corrêa
-- **匹配主题：** moduli
-- **概述（原摘要节选）：** We study prescribed holomorphic lattices for regular-singular connections and residual factors of quantum $F$-bundles. For an arbitrary ordered monodromy spectrum, we classify the fully framed local groupoid: each residue fibre is a discrete affine space of dimension $r(r-1)$, with a unique normal form and trivial stabilisers.
 
 ---
 概述取自论文原摘要前两句，未使用生成式模型；建议点击标题查看原文及完整摘要。
