@@ -1,22 +1,69 @@
 {
   "version": "1.3",
-  "generated_at": "2026-10-27T18:03:02.854575+00:00",
+  "generated_at": "2026-10-28T18:23:14.104887+00:00",
   "period": {
-    "start": "2026-10-21",
-    "end": "2026-10-27"
+    "start": "2026-10-22",
+    "end": "2026-10-28"
   },
   "papers": [
+    {
+      "id": "2610.37317",
+      "url": "https://arxiv.org/abs/2610.37317",
+      "title": "Localization of weighted Goldman volume on $\\mathrm{SL}(3,\\R)$-Hitchin Component",
+      "abstract": "We compute Goldman volume on the moduli space of convex real projective structures on a closed oriented surface of genus at least two, with exponential weight defined by the shifted Blaschke area. For every positive parameter, the integral converges and is a finite sum of inverse powers of that parameter. Its coefficients are intersection numbers involving the bundle of regular cubic differentials on the moduli stack of stable curves. The proof establishes absolute convergence and vanishing signed boundary integrals of the transgression under simultaneous plumbing degeneration. The pushforward of Goldman measure by the shifted Blaschke area therefore has a polynomial density on $[0,\\infty)$, and its sublevel volumes are polynomial in the threshold.",
+      "authors": [
+        "Shiyu Cao"
+      ],
+      "published": "2026-10-27",
+      "updated": "2026-10-27",
+      "categories": [
+        "math.DG",
+        "math.AG",
+        "math.GT"
+      ]
+    },
+    {
+      "id": "2610.37273",
+      "url": "https://arxiv.org/abs/2610.37273",
+      "title": "Effective Gromov-Witten computations for GKM spaces and a semisimple application",
+      "abstract": "We report a major update to our original software GKMtools and record multiple improvements in the computation of Gromov--Witten invariants of GKM spaces. This includes a refined divisor equation that reduces the complexity from exponential to linear in the number of marked points, three tricks to accelerate the computation of curve class relations in the GKM graph, and an implementation of Mihalcea's algorithm for homogeneous varieties using the equivariant quantum Chevalley formula. As an application, we prove that the small quantum cohomology of the type-$E$ generalized Grassmannians $E_7/P_2,E_7/P_4,E_7/P_5,E_8/P_6$ is generically semisimple. These are precisely the remaining exceptional Grassmannians for which generic semisimplicity of small quantum cohomology was still unknown.",
+      "authors": [
+        "Daniel Holmes",
+        "Giosuè Muratore"
+      ],
+      "published": "2026-10-27",
+      "updated": "2026-10-27",
+      "categories": [
+        "math.AG",
+        "math.SG"
+      ]
+    },
+    {
+      "id": "2610.36291",
+      "url": "https://arxiv.org/abs/2610.36291",
+      "title": "Pointwise to global good reduction problems",
+      "abstract": "Given a smooth proper family of varieties over some $p$-adic field, if (sufficiently many of) the closed fibers have good reduction, does the family as a whole have good reduction? This question is asked and positively answered in recent work of Cadoret-Tamagawa for curves in general, and abelian varieties if the base field has absolute ramification at most $p-1$. In this paper we define a general framework for studying this question, yielding new positive answers for families of K3 surfaces and cubic fourfoulds, again with ramification at most $p-1$. Our strategy is to study several extension properties of moduli spaces and how they transfer under various morphisms. Of particular importance are integral canonical models of Shimura varieties, and whether or not their extension properties are preserved under ramified scalar extension. Additionally, building on earlier counterexamples by Raynaud-Ogus-Gabber and Vasiu-Zink, we show that the ramification assumption is optimal for the result of Cadoret-Tamagawa on families of abelian varieties. This reflects the fact that the extension property of Siegel Shimura varieties no longer holds over a field of absolute ramification at least $p$.",
+      "authors": [
+        "François Gatine"
+      ],
+      "published": "2026-10-26",
+      "updated": "2026-10-26",
+      "categories": [
+        "math.NT",
+        "math.AG"
+      ]
+    },
     {
       "id": "2610.35492",
       "url": "https://arxiv.org/abs/2610.35492",
       "title": "Uniform large-genus asymptotics of Weil-Petersson volumes",
-      "abstract": "Let $V_{g,n}$ denote the Weil--Petersson volume of the moduli space of genus-$g$ hyperbolic surfaces with $n$ cusps. We obtain an asymptotic expansion in inverse powers of the genus as $g\\to\\infty$, uniformly for all $n\\ge0$. This includes cusp counts of order $\\sqrt g$ and larger, where the fixed-$n$ expansion of Mirzakhani and Zograf no longer gives a uniform approximation. The leading term is explicit and has relative error $O(g^{-1})$. Truncating the expansion at a suitably chosen order proportional to $\\sqrt g$ gives relative error $O(\\exp(-a\\sqrt g))$ for some $a>0$, with no restriction on the growth of $n$. For fixed $n$, the leading term identifies the universal constant in the Mirzakhani--Zograf asymptotics as $1/\\sqrtπ$, as conjectured by Zograf. We also answer two questions of Mirzakhani: we determine explicit asymptotic profiles for volume ratios uniformly in the number of cusps, and for adjacent coefficient ratios of the one-boundary volume polynomial uniformly over all degrees. The proof uses a positive recursion for mixed $κ_1$--$ψ$ intersection numbers, with the absolute normalization determined by comparison with the known asymptotics of pure $ψ$ intersection numbers.",
+      "abstract": "Let $V_{g,n}$ denote the Weil--Petersson volume of the moduli space of genus-$g$ hyperbolic surfaces with $n$ cusps. Mirzakhani and Zograf obtained a complete asymptotic expansion as $g\\to\\infty$ for fixed $n$; its terms are effectively powers of $n^2/g$, so it degenerates once $n$ is of order $\\sqrt g$. We prove an asymptotic expansion in inverse powers of the genus that is uniform in all $n\\ge0$. The leading term is an explicit saddle-point expression whose saddle moves with the cusp density $n/g$. It has relative error $O(g^{-1})$, and truncation at an order proportional to $\\sqrt g$ gives relative error $O(\\exp(-a\\sqrt g))$ for some $a>0$. For fixed $n$, the leading term confirms Zograf's conjecture that the constant in the Mirzakhani--Zograf asymptotics is $1/\\sqrtπ$. We also determine the asymptotic profiles of volume ratios, uniformly in the number of cusps, and of adjacent coefficients of the one-boundary volume polynomial, uniformly in the degree; this answers two questions of Mirzakhani. The proof uses a positive recursion for mixed $κ_1$--$ψ$ intersection numbers, normalized at the pure-$ψ$ endpoint, and a local limit theorem in the number of cusps.",
       "authors": [
         "Zhiyi Li",
         "Qihang Wang"
       ],
       "published": "2026-10-26",
-      "updated": "2026-10-26",
+      "updated": "2026-10-27",
       "categories": [
         "math.DG",
         "math.AG"
@@ -198,121 +245,6 @@
       "updated": "2026-10-22",
       "categories": [
         "math.AG"
-      ]
-    },
-    {
-      "id": "2610.30376",
-      "url": "https://arxiv.org/abs/2610.30376",
-      "title": "Isogenies of Oriented Elliptic Curves",
-      "abstract": "We construct and describe the moduli stack $\\mathrm{Isog}$ of isogenies between oriented elliptic curves. We show that $\\mathrm{Isog}$ is a spectral Deligne-Mumford stack and a relative spectral algebraic space over $\\mathcal{M}_{\\mathrm{ell}}^{\\mathrm{or}}$, and give a fiber product decomposition of $\\mathrm{Isog}$ corresponding to a connected-étale factorization on oriented elliptic curves. In the process of proving these results, we construct a theory of duality and quotients for spectral abelian varieties, prove a higher-algebraic version of Nakayama's lemma, and lift the rigidity theorem for morphisms of elliptic curves to the setting of spectral algebraic geometry.",
-      "authors": [
-        "Doron Grossman-Naples"
-      ],
-      "published": "2026-10-21",
-      "updated": "2026-10-21",
-      "categories": [
-        "math.AT",
-        "math.AG"
-      ]
-    },
-    {
-      "id": "2610.30366",
-      "url": "https://arxiv.org/abs/2610.30366",
-      "title": "Relative Hitchin fibrations and endoscopy for Unitary Friedberg--Jacquet varieties",
-      "abstract": "We prove a relative fundamental lemma for the unitary symmetric variety $GL_n(k')\\backslash U_{2n}$, proving a conjecture of Leslie, Xiao, and Zhang. Our proof reduces to the Lie algebra and argues over function fields in positive characteristic, using methods from Ngo-Laumon and Ngo. In particular, we reinterpret orbital integrals in terms of the cohomology of relative affine Springer fibers and globalize this using unitary versions of Hitchin moduli spaces for symmetric pairs via a product formula. As the main global input, we prove a matching of perverse sheaves between relative Hitchin moduli spaces and their corresponding endoscopic variants.",
-      "authors": [
-        "Thomas Hameister",
-        "Spencer Leslie"
-      ],
-      "published": "2026-10-21",
-      "updated": "2026-10-21",
-      "categories": [
-        "math.AG",
-        "math.NT"
-      ]
-    },
-    {
-      "id": "2610.30288",
-      "url": "https://arxiv.org/abs/2610.30288",
-      "title": "Quantum field theory and four-manifolds: Perspectives from physics and geometry",
-      "abstract": "These lecture notes are based on lecture series by the authors for the Summer School 2025 on ``Physical mathematics of quantum field theory\" at the University of Massachusetts Amherst organized by Owen Gwilliam, Chris Elliott, and Matteo Lotito. The lectures centred around algebraic structures arising from twists of supersymmetric quantum field theories, correlation functions of topologically twisted supersymmetric gauge theories, and their mathematical counterparts as intersection-theoretic invariants associated to moduli spaces of instantons, semistable sheaves, or Higgs sheaves on four-manifolds or complex projective surfaces.",
-      "authors": [
-        "Niklas Garner",
-        "Martijn Kool",
-        "Jan Manschot",
-        "Yuuji Tanaka"
-      ],
-      "published": "2026-10-21",
-      "updated": "2026-10-21",
-      "categories": [
-        "hep-th",
-        "math.AG",
-        "math.DG",
-        "math.GT",
-        "math.QA"
-      ]
-    },
-    {
-      "id": "2610.30069",
-      "url": "https://arxiv.org/abs/2610.30069",
-      "title": "Alternative moduli of twisted curves",
-      "abstract": "We define new Artin stack compactifications of the moduli of smooth curves, which parameterize \"relatively polarized curves\" consisting of stacky semistable curves equipped with line bundles that are trivialized away from the rational bridges. Using techniques from birational geometry, we prove that stacks of relatively polarized curves admit the classical coarse space $\\overline{M}_g$ of stable curves as a good moduli space. One of our main motivations is a companion paper where we construct a proper moduli space of $\\mathrm{SL}_N$-bundles on relatively polarized curves. This suggests the hypothesis that relatively polarized curves are suitable sources for defining Gromov-Witten theory for Artin stack targets.",
-      "authors": [
-        "Daniel Halpern-Leistner",
-        "Andres Fernandez Herrero",
-        "Giovanni Inchiostro",
-        "Sara Stephens"
-      ],
-      "published": "2026-10-21",
-      "updated": "2026-10-21",
-      "categories": [
-        "math.AG"
-      ]
-    },
-    {
-      "id": "2610.29970",
-      "url": "https://arxiv.org/abs/2610.29970",
-      "title": "Mackey formulas for smooth stacks",
-      "abstract": "We study parabolic induction and restriction functors on derived categories of constructible sheaves, D-modules, and other sheaf theories on smooth stacks with good or adequate moduli spaces. We prove a commutation rule between them in the form of a Mackey filtration, indexed by the set of relative positions of two elements in the component lattice, a combinatorial structure that characterizes inductions and restrictions on a given stack. This generalizes similar results for adjoint quotient stacks studied in generalized Springer theory and the theory of character sheaves, and for stacks of quiver representations appearing in Lusztig's categorification of quantum groups. We also apply our result to the stack of semistable principal bundles on a curve, as a first step towards Mackey formulas in geometric Langlands correspondences.",
-      "authors": [
-        "Chenjing Bu",
-        "Lucien Hennecart"
-      ],
-      "published": "2026-10-21",
-      "updated": "2026-10-21",
-      "categories": [
-        "math.RT",
-        "math.AG"
-      ]
-    },
-    {
-      "id": "2610.29912",
-      "url": "https://arxiv.org/abs/2610.29912",
-      "title": "Derived categories of threefolds near the Noether line",
-      "abstract": "We show that derived categories of canonical stacks associated to general threefolds in the principal component of the moduli space of canonical threefolds on the refined Noether line are semiorthogonally indecomposable. First we generalize a criterion of Kawatani-Okawa for the indecomposability of derived categories of surfaces of general type to higher-dimensional varieties and stacks. And then we generalize a construction of Kobayashi and Hu-Zhang and a classification result of Coughlan-Pignatelli to the second and third Noether lines to show that our criterion applies to these canonical stacks.",
-      "authors": [
-        "Jungkai Alfred Chen",
-        "Pedro Núñez"
-      ],
-      "published": "2026-10-21",
-      "updated": "2026-10-21",
-      "categories": [
-        "math.AG"
-      ]
-    },
-    {
-      "id": "2610.29698",
-      "url": "https://arxiv.org/abs/2610.29698",
-      "title": "Moduli spaces of logarithmic connections associated with difference Painlevé equations of type $E^{(1)}_n$",
-      "abstract": "In this paper, we provide an explicit correspondence between moduli spaces of parabolic logarithmic connections on the projective line with spectral type $(2^2,1^4,1^4)$ and $(3^2, 2^3, 1^6)$, and the spaces of initial conditions for difference Painlevé equations with symmetry of type $E^{(1)}_7$ and $E^{(1)}_8$, respectively. Furthermore, we realize the extended affine Weyl group symmetries of the space of initial conditions in terms of connections.",
-      "authors": [
-        "Takafumi Matsumoto"
-      ],
-      "published": "2026-10-21",
-      "updated": "2026-10-21",
-      "categories": [
-        "math.AG",
-        "math.CA"
       ]
     }
   ]

@@ -1,12 +1,30 @@
-# arXiv 代数几何模空间周报 (2026-10-21 至 2026-10-27)
+# arXiv 代数几何模空间周报 (2026-10-22 至 2026-10-28)
 
-共找到 **20** 篇候选论文。
+共找到 **16** 篇候选论文。
+
+## [Localization of weighted Goldman volume on $\mathrm{SL}(3,\R)$-Hitchin Component](https://arxiv.org/abs/2610.37317)
+- **日期：** 2026-10-27  |  **相关度：** 3  |  **分类：** math.DG, math.AG, math.GT
+- **作者：** Shiyu Cao
+- **匹配主题：** moduli, moduli space, moduli stack
+- **概述（原摘要节选）：** We compute Goldman volume on the moduli space of convex real projective structures on a closed oriented surface of genus at least two, with exponential weight defined by the shifted Blaschke area. For every positive parameter, the integral converges and is a finite sum of inverse powers of that parameter.
+
+## [Effective Gromov-Witten computations for GKM spaces and a semisimple application](https://arxiv.org/abs/2610.37273)
+- **日期：** 2026-10-27  |  **相关度：** 3  |  **分类：** math.AG, math.SG
+- **作者：** Daniel Holmes, Giosuè Muratore
+- **匹配主题：** gromov-witten
+- **概述（原摘要节选）：** We report a major update to our original software GKMtools and record multiple improvements in the computation of Gromov--Witten invariants of GKM spaces. This includes a refined divisor equation that reduces the complexity from exponential to linear in the number of marked points, three tricks to accelerate the computation of curve class relations in the GKM graph, and an implementation of Mihalcea's algorithm for homogeneous varieties using the equivariant quantum…
+
+## [Pointwise to global good reduction problems](https://arxiv.org/abs/2610.36291)
+- **日期：** 2026-10-26  |  **相关度：** 3  |  **分类：** math.NT, math.AG
+- **作者：** François Gatine
+- **匹配主题：** moduli, moduli space, moduli spaces
+- **概述（原摘要节选）：** Given a smooth proper family of varieties over some $p$-adic field, if (sufficiently many of) the closed fibers have good reduction, does the family as a whole have good reduction? This question is asked and positively answered in recent work of Cadoret-Tamagawa for curves in general, and abelian varieties if the base field has absolute ramification at most $p-1$.
 
 ## [Uniform large-genus asymptotics of Weil-Petersson volumes](https://arxiv.org/abs/2610.35492)
 - **日期：** 2026-10-26  |  **相关度：** 2  |  **分类：** math.DG, math.AG
 - **作者：** Zhiyi Li, Qihang Wang
 - **匹配主题：** moduli, moduli space
-- **概述（原摘要节选）：** Let $V_{g,n}$ denote the Weil--Petersson volume of the moduli space of genus-$g$ hyperbolic surfaces with $n$ cusps. We obtain an asymptotic expansion in inverse powers of the genus as $g\to\infty$, uniformly for all $n\ge0$.
+- **概述（原摘要节选）：** Let $V_{g,n}$ denote the Weil--Petersson volume of the moduli space of genus-$g$ hyperbolic surfaces with $n$ cusps. Mirzakhani and Zograf obtained a complete asymptotic expansion as $g\to\infty$ for fixed $n$; its terms are effectively powers of $n^2/g$, so it degenerates once $n$ is of order $\sqrt g$.
 
 ## [Universal polynomials for Gromov-Witten invariants on toric surfaces](https://arxiv.org/abs/2610.35122)
 - **日期：** 2026-10-26  |  **相关度：** 3  |  **分类：** math.AG
@@ -79,48 +97,6 @@
 - **作者：** Hirokazu Nasu
 - **匹配主题：** hilbert scheme
 - **概述（原摘要节选）：** Let $S=S_{2,\ldots,2}\subset\mathbb P^{n+2}$ be a smooth complete intersection of $n$ quadrics containing a line $E$, where $n\geq 3$, and set $D=(n-1)\mathbf h+E$, where $\mathbf h=[\mathcal O_S(1)]$. We study the deformations of smooth curves $C\in |mD|$ and their obstructions.
-
-## [Isogenies of Oriented Elliptic Curves](https://arxiv.org/abs/2610.30376)
-- **日期：** 2026-10-21  |  **相关度：** 2  |  **分类：** math.AT, math.AG
-- **作者：** Doron Grossman-Naples
-- **匹配主题：** moduli, moduli stack
-- **概述（原摘要节选）：** We construct and describe the moduli stack $\mathrm{Isog}$ of isogenies between oriented elliptic curves. We show that $\mathrm{Isog}$ is a spectral Deligne-Mumford stack and a relative spectral algebraic space over $\mathcal{M}_{\mathrm{ell}}^{\mathrm{or}}$, and give a fiber product decomposition of $\mathrm{Isog}$ corresponding to a connected-étale factorization on oriented elliptic curves.
-
-## [Relative Hitchin fibrations and endoscopy for Unitary Friedberg--Jacquet varieties](https://arxiv.org/abs/2610.30366)
-- **日期：** 2026-10-21  |  **相关度：** 3  |  **分类：** math.AG, math.NT
-- **作者：** Thomas Hameister, Spencer Leslie
-- **匹配主题：** moduli, moduli space, moduli spaces
-- **概述（原摘要节选）：** We prove a relative fundamental lemma for the unitary symmetric variety $GL_n(k')\backslash U_{2n}$, proving a conjecture of Leslie, Xiao, and Zhang. Our proof reduces to the Lie algebra and argues over function fields in positive characteristic, using methods from Ngo-Laumon and Ngo.
-
-## [Quantum field theory and four-manifolds: Perspectives from physics and geometry](https://arxiv.org/abs/2610.30288)
-- **日期：** 2026-10-21  |  **相关度：** 3  |  **分类：** hep-th, math.AG, math.DG, math.GT, math.QA
-- **作者：** Niklas Garner, Martijn Kool, Jan Manschot, Yuuji Tanaka
-- **匹配主题：** moduli, moduli space, moduli spaces
-- **概述（原摘要节选）：** These lecture notes are based on lecture series by the authors for the Summer School 2025 on ``Physical mathematics of quantum field theory" at the University of Massachusetts Amherst organized by Owen Gwilliam, Chris Elliott, and Matteo Lotito. The lectures centred around algebraic structures arising from twists of supersymmetric quantum field theories, correlation functions of topologically twisted supersymmetric gauge theories, and their mathematical counterparts as…
-
-## [Alternative moduli of twisted curves](https://arxiv.org/abs/2610.30069)
-- **日期：** 2026-10-21  |  **相关度：** 8  |  **分类：** math.AG
-- **作者：** Daniel Halpern-Leistner, Andres Fernandez Herrero, Giovanni Inchiostro, Sara Stephens
-- **匹配主题：** moduli, moduli space, gromov-witten
-- **概述（原摘要节选）：** We define new Artin stack compactifications of the moduli of smooth curves, which parameterize "relatively polarized curves" consisting of stacky semistable curves equipped with line bundles that are trivialized away from the rational bridges. Using techniques from birational geometry, we prove that stacks of relatively polarized curves admit the classical coarse space $\overline{M}_g$ of stable curves as a good moduli space.
-
-## [Mackey formulas for smooth stacks](https://arxiv.org/abs/2610.29970)
-- **日期：** 2026-10-21  |  **相关度：** 3  |  **分类：** math.RT, math.AG
-- **作者：** Chenjing Bu, Lucien Hennecart
-- **匹配主题：** moduli, moduli space, moduli spaces
-- **概述（原摘要节选）：** We study parabolic induction and restriction functors on derived categories of constructible sheaves, D-modules, and other sheaf theories on smooth stacks with good or adequate moduli spaces. We prove a commutation rule between them in the form of a Mackey filtration, indexed by the set of relative positions of two elements in the component lattice, a combinatorial structure that characterizes inductions and restrictions on a given stack.
-
-## [Derived categories of threefolds near the Noether line](https://arxiv.org/abs/2610.29912)
-- **日期：** 2026-10-21  |  **相关度：** 2  |  **分类：** math.AG
-- **作者：** Jungkai Alfred Chen, Pedro Núñez
-- **匹配主题：** moduli, moduli space
-- **概述（原摘要节选）：** We show that derived categories of canonical stacks associated to general threefolds in the principal component of the moduli space of canonical threefolds on the refined Noether line are semiorthogonally indecomposable. First we generalize a criterion of Kawatani-Okawa for the indecomposability of derived categories of surfaces of general type to higher-dimensional varieties and stacks.
-
-## [Moduli spaces of logarithmic connections associated with difference Painlevé equations of type $E^{(1)}_n$](https://arxiv.org/abs/2610.29698)
-- **日期：** 2026-10-21  |  **相关度：** 12  |  **分类：** math.AG, math.CA
-- **作者：** Takafumi Matsumoto
-- **匹配主题：** moduli, moduli space, moduli spaces
-- **概述（原摘要节选）：** In this paper, we provide an explicit correspondence between moduli spaces of parabolic logarithmic connections on the projective line with spectral type $(2^2,1^4,1^4)$ and $(3^2, 2^3, 1^6)$, and the spaces of initial conditions for difference Painlevé equations with symmetry of type $E^{(1)}_7$ and $E^{(1)}_8$, respectively. Furthermore, we realize the extended affine Weyl group symmetries of the space of initial conditions in terms of connections.
 
 ---
 概述取自论文原摘要前两句，未使用生成式模型；建议点击标题查看原文及完整摘要。
