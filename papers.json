@@ -1,9 +1,9 @@
 {
   "version": "1.3",
-  "generated_at": "2026-10-28T18:23:14.104887+00:00",
+  "generated_at": "2026-10-29T18:30:03.647218+00:00",
   "period": {
-    "start": "2026-10-22",
-    "end": "2026-10-28"
+    "start": "2026-10-23",
+    "end": "2026-10-29"
   },
   "papers": [
     {
@@ -184,65 +184,6 @@
       ],
       "published": "2026-10-23",
       "updated": "2026-10-23",
-      "categories": [
-        "math.AG"
-      ]
-    },
-    {
-      "id": "2610.31619",
-      "url": "https://arxiv.org/abs/2610.31619",
-      "title": "Leafrians, Frobenius splittings, and moduli spaces over Poisson surfaces",
-      "abstract": "Let $X$ be a smooth projective Poisson surface over an algebraically closed field of characteristic $p>2$, and let $s\\in H^0(X,ω_X^{-1})$ be nonzero. We construct an anticanonical section associated to $s$, called the leafrian, on moduli spaces $M$ of stable objects on $X$, including the moduli of stable sheaves, of principal $G$-bundles, and of instantons. The leafrian splits $M$ if and only if $s^{p-1}$ Frobenius splits the base. It is invariant under the Hamiltonian flows of Bottacin's Poisson structure on $M$, so every compatibly split subvariety of $M$ is a Poisson subvariety. Furthermore, the leafrian extends to an anticanonical section on the Gieseker compactification $\\bar M$, and splits $\\bar M$ under the same criterion. As a consequence, for $X$ a rational surface, a ruled surface over an elliptic curve, a $K3$ surface, or an abelian surface, and $ρ>0$, the Gieseker compactification $\\bar M$ satisfies Kodaira-type cohomology vanishing, including singular $\\bar M$, and the same holds in characteristic zero.",
-      "authors": [
-        "Jun Peng"
-      ],
-      "published": "2026-10-22",
-      "updated": "2026-10-26",
-      "categories": [
-        "math.AG",
-        "math.AC",
-        "math.SG"
-      ]
-    },
-    {
-      "id": "2610.31411",
-      "url": "https://arxiv.org/abs/2610.31411",
-      "title": "The center is the formal internal automorphism group",
-      "abstract": "We prove that the deformation functor associated to an algebra over a sufficiently nice Koszul operad can be lifted to an operadic formal moduli problem over the Koszul dual operad. We further show that this operadic formal moduli problem corresponds to the derived center of the algebra under the operadic Lurie-Pridham correspondence. As an application, we prove that the classical Gerstenhaber algebra structure on polyvector fields of a commutative algebra agrees with the derived center of the algebra as an abelian Poisson algebra.",
-      "authors": [
-        "Sonja Farr"
-      ],
-      "published": "2026-10-22",
-      "updated": "2026-10-22",
-      "categories": [
-        "math.AT",
-        "math.AG"
-      ]
-    },
-    {
-      "id": "2610.31399",
-      "url": "https://arxiv.org/abs/2610.31399",
-      "title": "An asymptotic $Γ$-BMT inequality",
-      "abstract": "We refine a bound of Cheng-Feyzbakhsh to prove an asymptotic $Γ$-Bayer-Macrì-Toda ($Γ$-BMT) inequality on every smooth polarized complex threefold. The proof relies on a reduction to small tilt stability parameters. Using this inequality we verify Feyzbakhsh-Thomas's condition $(wBG)$ whenever $K_{X}$ is numerically proportional to the polarization. For polarized Calabi-Yau threefolds, this yields a reduction of positive rank generalized Donaldson-Thomas (DT) invariants to those counting sheaves pure in codimension one. We further express these invariants in terms of rank one generalized DT invariants. Thus, the rank reductions of Feyzbakhsh-Thomas hold without assuming the BMT conjecture.",
-      "authors": [
-        "Nick Rekuski"
-      ],
-      "published": "2026-10-22",
-      "updated": "2026-10-22",
-      "categories": [
-        "math.AG"
-      ]
-    },
-    {
-      "id": "2610.30962",
-      "url": "https://arxiv.org/abs/2610.30962",
-      "title": "Obstructions to deforming space curves lying on a complete intersection of quadrics",
-      "abstract": "Let $S=S_{2,\\ldots,2}\\subset\\mathbb P^{n+2}$ be a smooth complete intersection of $n$ quadrics containing a line $E$, where $n\\geq 3$, and set $D=(n-1)\\mathbf h+E$, where $\\mathbf h=[\\mathcal O_S(1)]$. We study the deformations of smooth curves $C\\in |mD|$ and their obstructions. The linear system $|D|$ defines a birational morphism $f:S\\to\\overline S$ that contracts $E$ to a point and realizes an unprojection in the sense of Papadakis--Reid. When $n=3$, the surface $S=S_{2,2,2}\\subset\\mathbb P^5$ is a $K3$ surface and $E$ is a $(-2)$-curve. We prove that the complementary open surface $S\\setminus E$ admits first-order infinitesimal deformations in $\\mathbb P^5\\setminus E$ that are obstructed at the second order. Using these obstructions, we show that, for every sufficiently large $m$ with $\\operatorname{char} k\\nmid m$, there exists a generically non-reduced irreducible component $W_m$ of the Hilbert scheme $\\operatorname{Hilb}^{sc}\\mathbb P^5$ of smooth connected curves in $\\mathbb P^5$. Its general member $C$ lies on a complete intersection $S_{2,2,2}$ of three quadrics, satisfies $C\\sim mD$, and has $h^0(N_{C/\\mathbb P^5})-\\dim_{[C]}\\operatorname{Hilb}^{sc}\\mathbb P^5=3$. In contrast, when $n>3$, we prove that, for every sufficiently large $m$ with $\\operatorname{char} k\\nmid m$, the corresponding family of curves in $|mD|$ gives rise to a generically smooth irreducible component of $\\operatorname{Hilb}^{sc}\\mathbb P^{n+2}$.",
-      "authors": [
-        "Hirokazu Nasu"
-      ],
-      "published": "2026-10-22",
-      "updated": "2026-10-22",
       "categories": [
         "math.AG"
       ]

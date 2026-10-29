@@ -1,6 +1,6 @@
-# arXiv 代数几何模空间周报 (2026-10-22 至 2026-10-28)
+# arXiv 代数几何模空间周报 (2026-10-23 至 2026-10-29)
 
-共找到 **16** 篇候选论文。
+共找到 **12** 篇候选论文。
 
 ## [Localization of weighted Goldman volume on $\mathrm{SL}(3,\R)$-Hitchin Component](https://arxiv.org/abs/2610.37317)
 - **日期：** 2026-10-27  |  **相关度：** 3  |  **分类：** math.DG, math.AG, math.GT
@@ -73,30 +73,6 @@
 - **作者：** Fabrizio Andreatta, Eyal Z. Goren
 - **匹配主题：** moduli, moduli space, moduli spaces
 - **概述（原摘要节选）：** This paper studies foliations on abelian surfaces in positive characteristic. We provide an explicit description of all smooth foliations, linear and turbulent, and establish criteria for being $p$-closed.
-
-## [Leafrians, Frobenius splittings, and moduli spaces over Poisson surfaces](https://arxiv.org/abs/2610.31619)
-- **日期：** 2026-10-22  |  **相关度：** 12  |  **分类：** math.AG, math.AC, math.SG
-- **作者：** Jun Peng
-- **匹配主题：** moduli, moduli space, moduli spaces
-- **概述（原摘要节选）：** Let $X$ be a smooth projective Poisson surface over an algebraically closed field of characteristic $p>2$, and let $s\in H^0(X,ω_X^{-1})$ be nonzero. We construct an anticanonical section associated to $s$, called the leafrian, on moduli spaces $M$ of stable objects on $X$, including the moduli of stable sheaves, of principal $G$-bundles, and of instantons.
-
-## [The center is the formal internal automorphism group](https://arxiv.org/abs/2610.31411)
-- **日期：** 2026-10-22  |  **相关度：** 1  |  **分类：** math.AT, math.AG
-- **作者：** Sonja Farr
-- **匹配主题：** moduli
-- **概述（原摘要节选）：** We prove that the deformation functor associated to an algebra over a sufficiently nice Koszul operad can be lifted to an operadic formal moduli problem over the Koszul dual operad. We further show that this operadic formal moduli problem corresponds to the derived center of the algebra under the operadic Lurie-Pridham correspondence.
-
-## [An asymptotic $Γ$-BMT inequality](https://arxiv.org/abs/2610.31399)
-- **日期：** 2026-10-22  |  **相关度：** 1  |  **分类：** math.AG
-- **作者：** Nick Rekuski
-- **匹配主题：** donaldson-thomas
-- **概述（原摘要节选）：** We refine a bound of Cheng-Feyzbakhsh to prove an asymptotic $Γ$-Bayer-Macrì-Toda ($Γ$-BMT) inequality on every smooth polarized complex threefold. The proof relies on a reduction to small tilt stability parameters.
-
-## [Obstructions to deforming space curves lying on a complete intersection of quadrics](https://arxiv.org/abs/2610.30962)
-- **日期：** 2026-10-22  |  **相关度：** 1  |  **分类：** math.AG
-- **作者：** Hirokazu Nasu
-- **匹配主题：** hilbert scheme
-- **概述（原摘要节选）：** Let $S=S_{2,\ldots,2}\subset\mathbb P^{n+2}$ be a smooth complete intersection of $n$ quadrics containing a line $E$, where $n\geq 3$, and set $D=(n-1)\mathbf h+E$, where $\mathbf h=[\mathcal O_S(1)]$. We study the deformations of smooth curves $C\in |mD|$ and their obstructions.
 
 ---
 概述取自论文原摘要前两句，未使用生成式模型；建议点击标题查看原文及完整摘要。
