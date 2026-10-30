@@ -1,11 +1,166 @@
 {
   "version": "1.3",
-  "generated_at": "2026-10-29T18:30:03.647218+00:00",
+  "generated_at": "2026-10-30T18:02:40.018645+00:00",
   "period": {
-    "start": "2026-10-23",
-    "end": "2026-10-29"
+    "start": "2026-10-24",
+    "end": "2026-10-30"
   },
   "papers": [
+    {
+      "id": "2610.40352",
+      "url": "https://arxiv.org/abs/2610.40352",
+      "title": "Moduli space of irregular singular $λ$-connections and the relative symplectic form",
+      "abstract": "We study the moduli space of $λ$-connections with ramified singularities on a smooth projective curve $X$. We construct a quasi-projective relative moduli scheme $M^α_{\\mathrm{Hod}} \\to Λ$ of $α$-stable $λ$-connections over a base parameter space $Λ$. This moduli space connects the irregular de Rham moduli space ($λ=1$) and the irregular Dolbeault moduli space of Higgs bundles equipped with non-zero irregular local exponents ($λ=0$). Furthermore, we show that $M^α_{\\mathrm{Hod}}$ is smooth over $Λ$ and carries a canonical relative symplectic form $ω_{M^α_{\\mathrm{Hod}}/Λ}$, yielding a natural Poisson structure on the total space.",
+      "authors": [
+        "Michi-aki Inaba",
+        "Arata Komyo"
+      ],
+      "published": "2026-10-29",
+      "updated": "2026-10-29",
+      "categories": [
+        "math.AG"
+      ]
+    },
+    {
+      "id": "2610.40336",
+      "url": "https://arxiv.org/abs/2610.40336",
+      "title": "Degeneration of (-1)-shifted symplectic stacks and categorification of Donaldson-Thomas invariants",
+      "abstract": "We study cohomological Donaldson-Thomas invariants of perfect complexes in a semistable degeneration of projective Calabi-Yau threefolds, with smooth components $X_1,X_2$ meeting along a smooth anticanonical surface $S$. The generic fiber of degeneration family is a $(-1)$-shifted symplectic stack. Over the special fiber, the derived restriction to $S$ is derived Lagrangian, and its homotopy fiber product is also $(-1)$-shifted symplectic. Our goal is to relate the categorical DT invariants of the generic fiber moduli, induced by periodic cyclic homology of matrix factorization category of 0-shifted potential functions over such moduli, to that of the special fiber obtained via derived Lagrangian intersection and geometric quantization. This is achieved via construction of a flat Gauss-Manin connection that relates the generic fiber cohomological DT invariants to that of the special fiber. The geometric framework, universal trace diagrams, and fourfold foliation were developed jointly with Jacob Kryczka in arXiv:2510.20325. Here we construct ordinary critical realizations, oriented cyclic-to-bar comparisons, and Gauss-Manin operators, and verify finite specialization in explicit moduli problems. We workout our construction via several explicit examples such as Grassmannians, Relative Hilbert Schemes and moduli space of pure 2 dimensional sheaves with support moving in a fixed linear system of divisors in the ambient threefold.",
+      "authors": [
+        "Artan Sheshmani"
+      ],
+      "published": "2026-10-29",
+      "updated": "2026-10-29",
+      "categories": [
+        "math.AG",
+        "math.SG"
+      ]
+    },
+    {
+      "id": "2610.40136",
+      "url": "https://arxiv.org/abs/2610.40136",
+      "title": "The Kodaira dimension and minimal models of $\\mathcal{A}_6$",
+      "abstract": "We prove that the moduli space $\\mathcal{A}_6$ of principally polarized abelian sixfolds has Kodaira dimension zero, determining the remaining case in the Kodaira classification of the spaces $\\mathcal{A}_g$. More precisely, every nonzero scalar Siegel modular form of genus six, weight $k$ and positive boundary order $b$ satisfies $k\\geq 7b$, with equality precisely for powers of the weight-fourteen harmonic theta series of Dittmann, Salvati Manni and Scheithauer. The canonical ring is therefore a polynomial ring on one generator of degree two. We also prove numerical dimension zero and construct the unique projective $\\mathbb{Q}$-factorial terminal minimal model. Its Picard number is one and its canonical divisor has order two. The perfect cone compactification is a Mori dream space, and the birational automorphism group of $\\mathcal{A}_6$ is trivial. The proof combines normal vanishing on the Prym locus, polar intersections on abelian boundary fibers, and an exact theta calculation. A discrepancy estimate recovers the modular open subset from the minimal model.",
+      "authors": [
+        "Haowu Wang"
+      ],
+      "published": "2026-10-29",
+      "updated": "2026-10-29",
+      "categories": [
+        "math.AG",
+        "math.NT"
+      ]
+    },
+    {
+      "id": "2610.40035",
+      "url": "https://arxiv.org/abs/2610.40035",
+      "title": "Degenerate complex structures on surfaces and stability conditions",
+      "abstract": "Physical heuristics suggest that the space of Bridgeland stability conditions of a projective Calabi-Yau manifold $X$ should be related to the moduli space of complex structures on its mirror $X^\\vee$. On the other hand, recent work in the literature introduces a modular partial compactification, $\\mathcal{A}\\mathrm{Stab}(X)$, of a quotient of the space of stability conditions on $\\mathcal{D}^{b}(X)$. We provide some mathematical evidence for the aforementioned heuristics by proving that for curves and surfaces, certain boundary strata in $\\mathcal{A}\\mathrm{Stab}(X)$ describe degenerate complex structures on $X^\\vee$. Along the way, we introduce a criterion for producing boundary points of $\\mathcal{A}\\mathrm{Stab}(\\mathcal{D})$ when $\\mathcal{D}$ is an arbitrary $k$-linear triangulated category. As a byproduct, we deduce the existence of Bridgeland stability conditions on certain quotients of the derived categories of K3 and Enriques surfaces.",
+      "authors": [
+        "Antonios-Alexandros Robotis",
+        "Nicolás Vilches"
+      ],
+      "published": "2026-10-29",
+      "updated": "2026-10-29",
+      "categories": [
+        "math.AG",
+        "math-ph",
+        "math.SG"
+      ]
+    },
+    {
+      "id": "2610.39583",
+      "url": "https://arxiv.org/abs/2610.39583",
+      "title": "On equivariant affineness in elliptic cohomology",
+      "abstract": "We investigate equivariant affineness in spectral algebraic geometry: the phenomenon where $\\infty$-categories of quasi-coherent sheaves of a spectral stack are equivalent to $\\infty$-categories of modules over an equivariant ring spectrum. In the nonequivariant case, this is known as 0-affineness, and has been studied by Gaitsgory, Mathew--Meier, amongst others. Allowing for equivariant phenomena opens up a much wider class of spectral stacks to be studied through the lens of spectra. The spectral stacks at the heart of our analysis are oriented elliptic curves, their associated Hilbert schemes, and related constructions. When working over the universal base, so the moduli stack of oriented elliptic curves, we show that these spectral stacks are $U(1)$-, $U(n)$-, and $SU(n)$-equivariantly affine, with associated $G$-ring spectrum Gepner--Meier's equivariant topological modular forms $\\mathrm{TMF}_G$. Our results also encompass the groups $Sp(n)$ as well as all finite products of such groups. Our most general result is a relative statement over an arbitrary base stack. These results can be viewed as an integral and global refinement of Greenlees' algebraic model for modules over rational $U(1)$-equivariant elliptic cohomology.",
+      "authors": [
+        "Jack Morgan Davies",
+        "Sil Linskens",
+        "Leonard Tokic"
+      ],
+      "published": "2026-10-29",
+      "updated": "2026-10-29",
+      "categories": [
+        "math.AT",
+        "math.AG",
+        "math.KT"
+      ]
+    },
+    {
+      "id": "2610.39336",
+      "url": "https://arxiv.org/abs/2610.39336",
+      "title": "Point Corrections and Wall-Crossing Geometry on the Quintic del Pezzo Threefold",
+      "abstract": "Let $X=V_5$ be the quintic del Pezzo threefold. Along the negative zero-tilt-slope paths for rational-curve ideal classes, degree five is the first degree admitting a positive point correction. We determine the resulting degree-five outer good moduli space: it is reduced with exactly two irreducible components, a normal ten-dimensional principal branch and a smooth corrected branch $X\\times\\mathrm{Gr}(2,7)$. Their scheme-theoretic intersection is a normal determinantal ninefold. Along its singular locus, the principal branch has transverse rank-one $2\\times 4$ determinantal singularities, while the intersection has the corresponding $2\\times 3$ singularities. We construct an explicit small resolution of the principal branch as the projectivization of a rank-five extension bundle over the blow-up of the Altavilla--Petković--Rota Kuznetsov-component sixfold along its point locus. Uniform wall exclusion and point-correction bounds for degrees two through five establish the first correction threshold; the corrected degree-five factors are precisely the ideals of elliptic linear sections parametrized by $\\mathrm{Gr}(2,7)$.",
+      "authors": [
+        "Zheyuan Fu"
+      ],
+      "published": "2026-10-29",
+      "updated": "2026-10-29",
+      "categories": [
+        "math.AG"
+      ]
+    },
+    {
+      "id": "2610.38972",
+      "url": "https://arxiv.org/abs/2610.38972",
+      "title": "Spectral Structures on Vector Bundles",
+      "abstract": "We develop an intrinsic theory of spectral structures on holomorphic vector bundles over compact Riemann surfaces, generalising eigenspace decompositions without eigenvalues. Their geometric realisations are presentations of vector bundles as pushforwards of line bundles along finite branched covers. We construct their analytic moduli stack locally of finite presentation and identify it with the relative Picard stack of the universal family of finite covers. We prove that the forgetful morphism to the stack of vector bundles is representable by analytic spaces and is smooth and surjective on a distinguished smooth open substack. Consequently, every holomorphic family of vector bundles locally admits spectral presentations along smooth connected simply branched covers, and these presentations can be deformed alongside the underlying bundles. The relative Picard description yields explicit local dimension formulas and recovers the stack of regular Higgs bundles as base change along the Hitchin base. We also characterise the additional data supplied to a spectral structure by a regular Higgs field as a global twisted generator, and give examples of smooth connected spectral structures which cannot arise from any Higgs field.",
+      "authors": [
+        "Nikita Nikolaev"
+      ],
+      "published": "2026-10-28",
+      "updated": "2026-10-28",
+      "categories": [
+        "math.AG",
+        "math.CV"
+      ]
+    },
+    {
+      "id": "2610.38837",
+      "url": "https://arxiv.org/abs/2610.38837",
+      "title": "Intrinsic Non-Reductive Geometric Invariant Theory and Moduli Spaces of Principal Bundles with Non-Reductive Structure Groups",
+      "abstract": "We prove the existence of moduli spaces for algebraic stacks with a weak action of $Θ= [\\mathbb{A}^1/\\mathbb{G}_m]$ (including stacks of filtered objects and unstable $Θ$-strata) for which the center admits a good moduli space and the retraction to the center has flat, finitely presented relative inertia, providing a stack-intrinsic generalization of the existence of non-reductive Geometric Invariant Theory quotients. As an application, we construct quasi-projective coarse moduli spaces of principal bundles over a smooth projective curve with non-reductive structure groups, including moduli spaces of Ramanathan unstable principal bundles of fixed Harder--Narasimhan type.",
+      "authors": [
+        "George Cooper",
+        "Ludvig Modin"
+      ],
+      "published": "2026-10-28",
+      "updated": "2026-10-28",
+      "categories": [
+        "math.AG"
+      ]
+    },
+    {
+      "id": "2610.38161",
+      "url": "https://arxiv.org/abs/2610.38161",
+      "title": "Asymptotic distributions of the Betti and Hodge numbers of $\\overline{\\mathcal M}_{g,n}$",
+      "abstract": "We study the asymptotic distributions of the Betti and Hodge numbers of the moduli spaces $\\overline{\\mathcal M}_{g,n}$ of stable pointed curves and the all-light Hassett spaces $\\overline{\\mathcal M}_{g,0|n}$, for fixed genus $g\\ge1$ as the number of markings tends to infinity. We prove central limit theorems for the full Betti distributions, whose variances grow linearly in $n$ with leading coefficients independent of the genus. For the normalized even Betti numbers, we establish refined local limit theorems with estimates uniform in degree. These local estimates yield asymptotic formulas for individual even Betti numbers and determine the sharp central ultra-log-concavity thresholds $\\frac{3(e-2)}{2(3-e)}$ and $3$, respectively. For $g\\ge2$, the off-diagonal Hodge components form proportions of exact orders $n^{-1/2}$ and $n^{-1}$ of the total cohomology of the two spaces, respectively. The conditional distributions of the Hodge difference $p-q$ given $p\\ne q$ converge, for both spaces, to a single discrete law independent of the genus. We also prove that tautological classes account for all but a proportion of exact order $n^{-1}$ of the even cohomology of $\\overline{\\mathcal M}_{g,n}$. The tautological degree distribution converges to the standard Gaussian under the centering and scaling of the ambient even Betti distribution. An explicit asymptotic formula for the ratio of the ordinary Euler characteristics of the light and heavy spaces answers a question of Kannan, Serpente and Yun. The proofs combine the heavy/light substitution with a stratification of the light spaces by stable cores, singularity analysis of Hodge generating functions, and refined Fourier estimates exploiting Poincaré duality.",
+      "authors": [
+        "Jinwon Choi",
+        "Young-Hoon Kiem"
+      ],
+      "published": "2026-10-28",
+      "updated": "2026-10-28",
+      "categories": [
+        "math.AG",
+        "math.CO"
+      ]
+    },
+    {
+      "id": "2610.38115",
+      "url": "https://arxiv.org/abs/2610.38115",
+      "title": "Geometric properties of the analytic Emerton-Gee stack",
+      "abstract": "The analytic Emerton-Gee stack is a rigid analytic moduli stack of $(\\varphi,Γ)$-modules over the Robba ring, and is expected to play a fundamental role in the categorical $p$-adic local Langlands correspondence for locally analytic representations. In this paper, we establish the fundamental geometric properties of the analytic Emerton-Gee stack: it is a rigid analytic Artin stack, normal, a local complete intersection, and equidimensional of the expected dimension. As an application, our normality result removes the reducedness hypothesis in the paper of Le, Strauch, and Wang, thereby yielding an unconditional proof of the conjecture on the global sections of the analytic Emerton-Gee stack formulated by Emerton, Gee, and Hellmann.",
+      "authors": [
+        "Yutaro Mikami"
+      ],
+      "published": "2026-10-28",
+      "updated": "2026-10-28",
+      "categories": [
+        "math.NT",
+        "math.AG"
+      ]
+    },
     {
       "id": "2610.37317",
       "url": "https://arxiv.org/abs/2610.37317",
@@ -57,13 +212,13 @@
       "id": "2610.35492",
       "url": "https://arxiv.org/abs/2610.35492",
       "title": "Uniform large-genus asymptotics of Weil-Petersson volumes",
-      "abstract": "Let $V_{g,n}$ denote the Weil--Petersson volume of the moduli space of genus-$g$ hyperbolic surfaces with $n$ cusps. Mirzakhani and Zograf obtained a complete asymptotic expansion as $g\\to\\infty$ for fixed $n$; its terms are effectively powers of $n^2/g$, so it degenerates once $n$ is of order $\\sqrt g$. We prove an asymptotic expansion in inverse powers of the genus that is uniform in all $n\\ge0$. The leading term is an explicit saddle-point expression whose saddle moves with the cusp density $n/g$. It has relative error $O(g^{-1})$, and truncation at an order proportional to $\\sqrt g$ gives relative error $O(\\exp(-a\\sqrt g))$ for some $a>0$. For fixed $n$, the leading term confirms Zograf's conjecture that the constant in the Mirzakhani--Zograf asymptotics is $1/\\sqrtπ$. We also determine the asymptotic profiles of volume ratios, uniformly in the number of cusps, and of adjacent coefficients of the one-boundary volume polynomial, uniformly in the degree; this answers two questions of Mirzakhani. The proof uses a positive recursion for mixed $κ_1$--$ψ$ intersection numbers, normalized at the pure-$ψ$ endpoint, and a local limit theorem in the number of cusps.",
+      "abstract": "Let $V_{g,n}$ be the Weil--Petersson volume of the moduli space of hyperbolic surfaces of genus $g$ with $n$ cusps. The fixed-$n$ large-genus expansion of Mirzakhani and Zograf has correction terms polynomial in $n$ of degree $2i$ at order $g^{-i}$, and ceases to be uniform when $n$ is of order $\\sqrt g$. We prove an asymptotic expansion in powers of $1/g$ that holds uniformly in all $n\\ge0$, with coefficients analytic in a density parameter that ranges over a compact interval, including the limits $n/g\\to0$ and $n/g\\to\\infty$. Its leading term is explicit, contains no undetermined constant and has relative error $O(1/g)$; truncation at an order proportional to $\\sqrt g$ gives relative error $O(\\exp(-a\\sqrt g))$ for some $a>0$. For fixed $n$ this confirms Zograf's conjecture that the constant in the Mirzakhani--Zograf asymptotics is $1/\\sqrtπ$. We also determine, at every cusp density, the limits of the volume ratios $V_{g,n}/V_{g-1,n+2}$ and $V_{g,n+1}/(2gV_{g,n})$ and, in all degrees, the asymptotics of the ratios of adjacent coefficients of the one-boundary volume polynomial; this answers two questions of Mirzakhani. The proof deforms mixed $κ_1$--$ψ$ intersection numbers into pure $ψ$ intersection numbers along a family whose recursion has nonnegative coefficients, fixes the overall constant through Painlevé I without assuming resurgence, and recovers individual volumes by a local limit theorem in the number of cusps. As an application, the spectral gap of a Weil--Petersson random surface with $n\\gg\\sqrt g$ cusps tends to zero in probability; this removes the restriction $n/g\\to0$ from a theorem of Shen and Wu.",
       "authors": [
         "Zhiyi Li",
         "Qihang Wang"
       ],
       "published": "2026-10-26",
-      "updated": "2026-10-27",
+      "updated": "2026-10-29",
       "categories": [
         "math.DG",
         "math.AG"
@@ -169,21 +324,6 @@
       ],
       "published": "2026-10-25",
       "updated": "2026-10-25",
-      "categories": [
-        "math.AG"
-      ]
-    },
-    {
-      "id": "2610.32975",
-      "url": "https://arxiv.org/abs/2610.32975",
-      "title": "Foliations on abelian surfaces in positive characteristic",
-      "abstract": "This paper studies foliations on abelian surfaces in positive characteristic. We provide an explicit description of all smooth foliations, linear and turbulent, and establish criteria for being $p$-closed. We explicitly determine the moduli spaces of such foliations. We give an application to the construction of $p$-closed foliations, with mild singularities, on Kummer $K3$-surfaces in positive characteristics.",
-      "authors": [
-        "Fabrizio Andreatta",
-        "Eyal Z. Goren"
-      ],
-      "published": "2026-10-23",
-      "updated": "2026-10-23",
       "categories": [
         "math.AG"
       ]
