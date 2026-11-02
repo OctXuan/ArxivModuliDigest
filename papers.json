@@ -1,9 +1,9 @@
 {
   "version": "1.3",
-  "generated_at": "2026-11-01T17:56:53.455088+00:00",
+  "generated_at": "2026-11-02T21:43:51.926678+00:00",
   "period": {
-    "start": "2026-10-26",
-    "end": "2026-11-01"
+    "start": "2026-10-27",
+    "end": "2026-11-02"
   },
   "papers": [
     {
@@ -191,98 +191,6 @@
       "categories": [
         "math.AG",
         "math.SG"
-      ]
-    },
-    {
-      "id": "2610.36291",
-      "url": "https://arxiv.org/abs/2610.36291",
-      "title": "Pointwise to global good reduction problems",
-      "abstract": "Given a smooth proper family of varieties over some $p$-adic field, if (sufficiently many of) the closed fibers have good reduction, does the family as a whole have good reduction? This question is asked and positively answered in recent work of Cadoret-Tamagawa for curves in general, and abelian varieties if the base field has absolute ramification at most $p-1$. In this paper we define a general framework for studying this question, yielding new positive answers for families of K3 surfaces and cubic fourfoulds, again with ramification at most $p-1$. Our strategy is to study several extension properties of moduli spaces and how they transfer under various morphisms. Of particular importance are integral canonical models of Shimura varieties, and whether or not their extension properties are preserved under ramified scalar extension. Additionally, building on earlier counterexamples by Raynaud-Ogus-Gabber and Vasiu-Zink, we show that the ramification assumption is optimal for the result of Cadoret-Tamagawa on families of abelian varieties. This reflects the fact that the extension property of Siegel Shimura varieties no longer holds over a field of absolute ramification at least $p$.",
-      "authors": [
-        "François Gatine"
-      ],
-      "published": "2026-10-26",
-      "updated": "2026-10-26",
-      "categories": [
-        "math.NT",
-        "math.AG"
-      ]
-    },
-    {
-      "id": "2610.35492",
-      "url": "https://arxiv.org/abs/2610.35492",
-      "title": "Uniform large-genus asymptotics of Weil-Petersson volumes",
-      "abstract": "Let $V_{g,n}$ be the Weil--Petersson volume of the moduli space of hyperbolic surfaces of genus $g$ with $n$ cusps. The fixed-$n$ large-genus expansion of Mirzakhani and Zograf has correction terms polynomial in $n$ of degree $2i$ at order $g^{-i}$, and ceases to be uniform when $n$ is of order $\\sqrt g$. We prove an asymptotic expansion in powers of $1/g$ that holds uniformly in all $n\\ge0$, with coefficients analytic in a density parameter that ranges over a compact interval, including the limits $n/g\\to0$ and $n/g\\to\\infty$. Its leading term is explicit, contains no undetermined constant and has relative error $O(1/g)$; truncation at an order proportional to $\\sqrt g$ gives relative error $O(\\exp(-a\\sqrt g))$ for some $a>0$. For fixed $n$ this confirms Zograf's conjecture that the constant in the Mirzakhani--Zograf asymptotics is $1/\\sqrtπ$. We also determine, at every cusp density, the limits of the volume ratios $V_{g,n}/V_{g-1,n+2}$ and $V_{g,n+1}/(2gV_{g,n})$ and, in all degrees, the asymptotics of the ratios of adjacent coefficients of the one-boundary volume polynomial; this answers two questions of Mirzakhani. The proof deforms mixed $κ_1$--$ψ$ intersection numbers into pure $ψ$ intersection numbers along a family whose recursion has nonnegative coefficients, fixes the overall constant through Painlevé I without assuming resurgence, and recovers individual volumes by a local limit theorem in the number of cusps. As an application, the spectral gap of a Weil--Petersson random surface with $n\\gg\\sqrt g$ cusps tends to zero in probability; this removes the restriction $n/g\\to0$ from a theorem of Shen and Wu.",
-      "authors": [
-        "Zhiyi Li",
-        "Qihang Wang"
-      ],
-      "published": "2026-10-26",
-      "updated": "2026-10-29",
-      "categories": [
-        "math.DG",
-        "math.AG"
-      ]
-    },
-    {
-      "id": "2610.35122",
-      "url": "https://arxiv.org/abs/2610.35122",
-      "title": "Universal polynomials for Gromov-Witten invariants on toric surfaces",
-      "abstract": "We study the polynomiality of combined logarithmic and ordinary Gromov-Witten invariants with a Lambda class insertion on toric surfaces $Δ(\\mathbf{c},\\mathbf{d})$. We show that the combined logarithmic Gromov-Witten invariants can be expressed in terms of universal relative node polynomials when the direction vector $\\mathbf{c}$ and length vector $\\mathbf{d}$ of the $h$-transverse lattice polygon $Δ(\\mathbf{c},\\mathbf{d})$ are sufficiently large and spread out. In particular, when the normal fan of the $h$-transverse lattice polygon $Δ(\\mathbf{c},\\mathbf{d})$ is smooth and its edges satisfy a length condition, we show that the combined Gromov-Witten invariants are equal to a universal node polynomial. We also show that the higher genus Block-Göttsche polynomials of smooth toric surfaces corresponding to these $h$-transverse lattice polygons, including toric blowups beyond Hirzebruch and toric del Pezzo surfaces, are equal to a generating function of higher genus Gromov-Witten invariants.",
-      "authors": [
-        "Yanqiao Ding",
-        "Dadi Ni"
-      ],
-      "published": "2026-10-26",
-      "updated": "2026-10-26",
-      "categories": [
-        "math.AG"
-      ]
-    },
-    {
-      "id": "2610.35086",
-      "url": "https://arxiv.org/abs/2610.35086",
-      "title": "Finiteness of algebraic Weil-Petersson totally geodesic curves in pointed moduli spaces",
-      "abstract": "For every pair $(g,n)$ with $2g-2+n>0$, we prove that $\\mathcal M_{g,n}$ contains only finitely many closed algebraic curves that are totally geodesic for the Weil-Petersson metric. We show that every such curve is an arithmetic quadratic Teichmüller curve and has equal heights for all marked maximal cylinders in every periodic direction. Although there are infinitely many arithmetic Teichmüller curves, we can bound the degree of the associated torus covering by the crucial equal-height property. This leads to the desired finiteness statement. We also prove that quadratic Teichmüller curves are characterized by the existence of a holomorphic splitting of the logarithmic cotangent Kodaira-Spencer map. This result is the analogue of Möller and Viehweg's characterization of Kobayashi geodesics in $\\mathcal A_g$.",
-      "authors": [
-        "Tianzhi Hu",
-        "Kang Zuo"
-      ],
-      "published": "2026-10-26",
-      "updated": "2026-10-26",
-      "categories": [
-        "math.AG"
-      ]
-    },
-    {
-      "id": "2610.35060",
-      "url": "https://arxiv.org/abs/2610.35060",
-      "title": "Mustafin degenerations of six points in the projective plane and self-duality",
-      "abstract": "Mustafin varieties provide a framework for degenerating the projective plane together with marked points, governed by the combinatorics of Bruhat-Tits buildings. Such limit objects are parametrized by the boundary points of a projective compactification of the moduli space of $n$ points in $\\mathbb{P}^2$ constructed by Schaffler-Tevelev. In this paper, we study the locus of this compactification generically parametrizing self-dual configurations, or equivalently, six points lying on a conic. We prove that this locus is a tropical compactification of the moduli space of self-dual configurations, with associated fan a refinement of the self-dual tropical Grassmannian introduced by Geiger-Hashimoto-Sturmfels-Vlad. We show that this compactification is a blow up of $\\overline{\\mathrm{M}}_{0,6}$ and we classify the objects it parametrizes: degenerations of $\\mathbb{P}^2$ equipped with a stable $6$-pointed rational curve that records the limiting conic.",
-      "authors": [
-        "Alheydis Geiger",
-        "Luca Schaffler"
-      ],
-      "published": "2026-10-26",
-      "updated": "2026-10-26",
-      "categories": [
-        "math.AG"
-      ]
-    },
-    {
-      "id": "2610.34676",
-      "url": "https://arxiv.org/abs/2610.34676",
-      "title": "Sheaves on nodal singularities I",
-      "abstract": "We study two families of moduli spaces of sheaves attached to the node, namely the punctual Hilbert schemes of the non-reduced plane curve $x^uy^v=0$, and the punctual Quot schemes of the module $k[[x]]^u\\oplus k[[y]]^v$ over the reduced node $xy=0$. We compute their motivic generating functions for all $u,v$ and over every field. Both are specializations of a single rational function whose numerator counts matrices by rank, and they are related by the substitution $\\mathbb{L}\\mapsto Q\\mathbb{L}$. This proves the Hilb--Quot correspondence for the node with independent ranks on the two branches. The main geometric ingredient is an elementary modification of an ideal along a branch of the curve, whose fibres are affine spaces of dimension equal to a contact length. We also construct stratifications of the Hilbert schemes into products of affine spaces and tori, and we formulate a branchwise Hilb--Quot--HOMFLY conjecture, which we test on the colored Hopf link.",
-      "authors": [
-        "Yifeng Huang",
-        "Ruofan Jiang",
-        "Alexei Oblomkov"
-      ],
-      "published": "2026-10-26",
-      "updated": "2026-10-26",
-      "categories": [
-        "math.AG"
       ]
     }
   ]

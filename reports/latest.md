@@ -1,6 +1,6 @@
-# arXiv 代数几何模空间周报 (2026-10-26 至 2026-11-01)
+# arXiv 代数几何模空间周报 (2026-10-27 至 2026-11-02)
 
-共找到 **18** 篇候选论文。
+共找到 **12** 篇候选论文。
 
 ## [Moduli space of irregular singular $λ$-connections and the relative symplectic form](https://arxiv.org/abs/2610.40352)
 - **日期：** 2026-10-29  |  **相关度：** 9  |  **分类：** math.AG
@@ -73,42 +73,6 @@
 - **作者：** Daniel Holmes, Giosuè Muratore
 - **匹配主题：** gromov-witten
 - **概述（原摘要节选）：** We report a major update to our original software GKMtools and record multiple improvements in the computation of Gromov--Witten invariants of GKM spaces. This includes a refined divisor equation that reduces the complexity from exponential to linear in the number of marked points, three tricks to accelerate the computation of curve class relations in the GKM graph, and an implementation of Mihalcea's algorithm for homogeneous varieties using the equivariant quantum…
-
-## [Pointwise to global good reduction problems](https://arxiv.org/abs/2610.36291)
-- **日期：** 2026-10-26  |  **相关度：** 3  |  **分类：** math.NT, math.AG
-- **作者：** François Gatine
-- **匹配主题：** moduli, moduli space, moduli spaces
-- **概述（原摘要节选）：** Given a smooth proper family of varieties over some $p$-adic field, if (sufficiently many of) the closed fibers have good reduction, does the family as a whole have good reduction? This question is asked and positively answered in recent work of Cadoret-Tamagawa for curves in general, and abelian varieties if the base field has absolute ramification at most $p-1$.
-
-## [Uniform large-genus asymptotics of Weil-Petersson volumes](https://arxiv.org/abs/2610.35492)
-- **日期：** 2026-10-26  |  **相关度：** 2  |  **分类：** math.DG, math.AG
-- **作者：** Zhiyi Li, Qihang Wang
-- **匹配主题：** moduli, moduli space
-- **概述（原摘要节选）：** Let $V_{g,n}$ be the Weil--Petersson volume of the moduli space of hyperbolic surfaces of genus $g$ with $n$ cusps. The fixed-$n$ large-genus expansion of Mirzakhani and Zograf has correction terms polynomial in $n$ of degree $2i$ at order $g^{-i}$, and ceases to be uniform when $n$ is of order $\sqrt g$.
-
-## [Universal polynomials for Gromov-Witten invariants on toric surfaces](https://arxiv.org/abs/2610.35122)
-- **日期：** 2026-10-26  |  **相关度：** 3  |  **分类：** math.AG
-- **作者：** Yanqiao Ding, Dadi Ni
-- **匹配主题：** gromov-witten
-- **概述（原摘要节选）：** We study the polynomiality of combined logarithmic and ordinary Gromov-Witten invariants with a Lambda class insertion on toric surfaces $Δ(\mathbf{c},\mathbf{d})$. We show that the combined logarithmic Gromov-Witten invariants can be expressed in terms of universal relative node polynomials when the direction vector $\mathbf{c}$ and length vector $\mathbf{d}$ of the $h$-transverse lattice polygon $Δ(\mathbf{c},\mathbf{d})$ are sufficiently large and spread out.
-
-## [Finiteness of algebraic Weil-Petersson totally geodesic curves in pointed moduli spaces](https://arxiv.org/abs/2610.35086)
-- **日期：** 2026-10-26  |  **相关度：** 12  |  **分类：** math.AG
-- **作者：** Tianzhi Hu, Kang Zuo
-- **匹配主题：** moduli, moduli space, moduli spaces
-- **概述（原摘要节选）：** For every pair $(g,n)$ with $2g-2+n>0$, we prove that $\mathcal M_{g,n}$ contains only finitely many closed algebraic curves that are totally geodesic for the Weil-Petersson metric. We show that every such curve is an arithmetic quadratic Teichmüller curve and has equal heights for all marked maximal cylinders in every periodic direction.
-
-## [Mustafin degenerations of six points in the projective plane and self-duality](https://arxiv.org/abs/2610.35060)
-- **日期：** 2026-10-26  |  **相关度：** 2  |  **分类：** math.AG
-- **作者：** Alheydis Geiger, Luca Schaffler
-- **匹配主题：** moduli, moduli space
-- **概述（原摘要节选）：** Mustafin varieties provide a framework for degenerating the projective plane together with marked points, governed by the combinatorics of Bruhat-Tits buildings. Such limit objects are parametrized by the boundary points of a projective compactification of the moduli space of $n$ points in $\mathbb{P}^2$ constructed by Schaffler-Tevelev.
-
-## [Sheaves on nodal singularities I](https://arxiv.org/abs/2610.34676)
-- **日期：** 2026-10-26  |  **相关度：** 5  |  **分类：** math.AG
-- **作者：** Yifeng Huang, Ruofan Jiang, Alexei Oblomkov
-- **匹配主题：** moduli, moduli space, moduli spaces, hilbert scheme, hilbert schemes
-- **概述（原摘要节选）：** We study two families of moduli spaces of sheaves attached to the node, namely the punctual Hilbert schemes of the non-reduced plane curve $x^uy^v=0$, and the punctual Quot schemes of the module $k[[x]]^u\oplus k[[y]]^v$ over the reduced node $xy=0$. We compute their motivic generating functions for all $u,v$ and over every field.
 
 ---
 概述取自论文原摘要前两句，未使用生成式模型；建议点击标题查看原文及完整摘要。
