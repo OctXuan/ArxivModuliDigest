@@ -1,11 +1,73 @@
 {
   "version": "1.3",
-  "generated_at": "2026-11-03T19:30:43.505016+00:00",
+  "generated_at": "2026-11-04T19:47:38.785881+00:00",
   "period": {
-    "start": "2026-10-28",
-    "end": "2026-11-03"
+    "start": "2026-10-29",
+    "end": "2026-11-04"
   },
   "papers": [
+    {
+      "id": "2611.05350",
+      "url": "https://arxiv.org/abs/2611.05350",
+      "title": "Gepner stability conditions on hypersurface categories",
+      "abstract": "We construct numerical Bridgeland stability conditions on the category of graded matrix factorizations of every smooth complex projective hypersurface of degree $d\\ge2$. These conditions are of Gepner type $(τ,2/d)$, where $τ$ is the grading shift autoequivalence. By Orlov's theorem, this gives stability conditions of Gepner type on all Calabi--Yau hypersurfaces and on Kuznetsov components of all Fano hypersurfaces. These conditions satisfy a mass-Hom bound and the support property on the full numerical Grothendieck group. Semistable objects of fixed numerical class and phase admit proper good moduli spaces.",
+      "authors": [
+        "Anibal Aravena",
+        "Peize Liu",
+        "Jenia Tevelev"
+      ],
+      "published": "2026-11-03",
+      "updated": "2026-11-03",
+      "categories": [
+        "math.AG"
+      ]
+    },
+    {
+      "id": "2611.04862",
+      "url": "https://arxiv.org/abs/2611.04862",
+      "title": "On Douglas' conjecture for $m$-Kronecker quivers",
+      "abstract": "We prove Douglas' conjecture for $m$-Kronecker quivers for each $m \\geq 3$ on the normalized logarithms of Euler characteristics of moduli spaces. Also, we state a log-concavity conjecture on Euler characteristics near slope one for the 3-Kronecker quiver.",
+      "authors": [
+        "So Okada"
+      ],
+      "published": "2026-11-03",
+      "updated": "2026-11-03",
+      "categories": [
+        "math.RT",
+        "hep-th",
+        "math.AG",
+        "math.CO"
+      ]
+    },
+    {
+      "id": "2611.04314",
+      "url": "https://arxiv.org/abs/2611.04314",
+      "title": "Canonical Projectivization of Algebraic Varieties in Characteristic Zero",
+      "abstract": "We construct a canonical projectivization of every smooth proper algebraic variety $X$ in characteristic zero. Once a principalization procedure is fixed, the construction gives a finite sequence of blowups in smooth centers with smooth projective endpoint, natural under semilinear isomorphisms and preserving the quasi-projective core, the intersection of all maximal quasi-projective open subsets. At each stage we select finitely many ideals near the generic points of the image in $X$ of the boundary of a maximal quasi-projective open. Principalizing their product strictly lowers the dimension of that image. The selection is defined intrinsically, without a polarization or a chosen projective modification; a Hilbert scheme argument proves its finiteness. Naturality embeds the automorphism group in that of a smooth projective variety of the same dimension. We then extend the construction to smooth proper integral algebraic spaces, obtaining canonical projectivizations of all compact connected Moishezon manifolds.",
+      "authors": [
+        "Parsa Bakhtary"
+      ],
+      "published": "2026-11-03",
+      "updated": "2026-11-03",
+      "categories": [
+        "math.AG",
+        "math.CV"
+      ]
+    },
+    {
+      "id": "2611.04154",
+      "url": "https://arxiv.org/abs/2611.04154",
+      "title": "A Bubble Compactification of KSBA Moduli Space of Surfaces of General Type",
+      "abstract": "We construct a bubble-tree enhancement of the KSBA moduli space of surfaces of general type using index-one-cover Deligne--Mumford stacks. The construction is inspired by bubbling phenomena for Kähler--Einstein metrics. Non-klt semi-log-canonical singularities are replaced by admissible simple-normal-crossing configurations: the cusp and degenerate-cusp components are rational, while the simple-elliptic case also contains elliptic ruled components. A key feature is that the construction avoids lci covers. We construct the moduli stack of polarized bubble-tree index-one-cover Deligne-Mumford stacks. The stack is in general not separated, and we construct its underlying separated algebraic space. We also construct the moduli stack of bubble-tree index-one-cover Deligne-Mumford stacks with labeled sections that record algebraic bubbling centers and compare it with the pointed metric bubble tree. The labeled sections determine a numerical class whose stability proves the separatedness of the moduli stack. We establish a perfect obstruction theory and a virtual fundamental class on the bubble-tree moduli stacks. This provides a novel and geometric pathway to prove the existence of a virtual fundamental class on the original KSBA moduli space, thus offering a new approach to a conjecture of Donaldson. We expect that parts of the construction extend to higher dimensions.",
+      "authors": [
+        "Yunfeng Jiang"
+      ],
+      "published": "2026-11-03",
+      "updated": "2026-11-03",
+      "categories": [
+        "math.AG"
+      ]
+    },
     {
       "id": "2611.03311",
       "url": "https://arxiv.org/abs/2611.03311",
@@ -224,67 +286,6 @@
       "published": "2026-10-29",
       "updated": "2026-10-29",
       "categories": [
-        "math.AG"
-      ]
-    },
-    {
-      "id": "2610.38972",
-      "url": "https://arxiv.org/abs/2610.38972",
-      "title": "Spectral Structures on Vector Bundles",
-      "abstract": "We develop an intrinsic theory of spectral structures on holomorphic vector bundles over compact Riemann surfaces, generalising eigenspace decompositions without eigenvalues. Their geometric realisations are presentations of vector bundles as pushforwards of line bundles along finite branched covers. We construct their analytic moduli stack locally of finite presentation and identify it with the relative Picard stack of the universal family of finite covers. We prove that the forgetful morphism to the stack of vector bundles is representable by analytic spaces and is smooth and surjective on a distinguished smooth open substack. Consequently, every holomorphic family of vector bundles locally admits spectral presentations along smooth connected simply branched covers, and these presentations can be deformed alongside the underlying bundles. The relative Picard description yields explicit local dimension formulas and recovers the stack of regular Higgs bundles as base change along the Hitchin base. We also characterise the additional data supplied to a spectral structure by a regular Higgs field as a global twisted generator, and prove that every vector bundle of rank at least three admits smooth connected simply branched spectral structures which cannot arise from any Higgs field.",
-      "authors": [
-        "Nikita Nikolaev"
-      ],
-      "published": "2026-10-28",
-      "updated": "2026-11-02",
-      "categories": [
-        "math.AG",
-        "math.CV"
-      ]
-    },
-    {
-      "id": "2610.38837",
-      "url": "https://arxiv.org/abs/2610.38837",
-      "title": "Intrinsic Non-Reductive Geometric Invariant Theory and Moduli Spaces of Principal Bundles with Non-Reductive Structure Groups",
-      "abstract": "We prove the existence of moduli spaces for algebraic stacks with a weak action of $Θ= [\\mathbb{A}^1/\\mathbb{G}_m]$ (including stacks of filtered objects and unstable $Θ$-strata) for which the center admits a good moduli space and the retraction to the center has flat, finitely presented relative inertia, providing a stack-intrinsic generalization of the existence of non-reductive Geometric Invariant Theory quotients. As an application, we construct quasi-projective coarse moduli spaces of principal bundles over a smooth projective curve with non-reductive structure groups, including moduli spaces of Ramanathan unstable principal bundles of fixed Harder--Narasimhan type.",
-      "authors": [
-        "George Cooper",
-        "Ludvig Modin"
-      ],
-      "published": "2026-10-28",
-      "updated": "2026-10-28",
-      "categories": [
-        "math.AG"
-      ]
-    },
-    {
-      "id": "2610.38161",
-      "url": "https://arxiv.org/abs/2610.38161",
-      "title": "Asymptotic distributions of the Betti and Hodge numbers of $\\overline{\\mathcal M}_{g,n}$",
-      "abstract": "We study the asymptotic distributions of the Betti and Hodge numbers of the moduli spaces $\\overline{\\mathcal M}_{g,n}$ of stable pointed curves and the all-light Hassett spaces $\\overline{\\mathcal M}_{g,0|n}$, for fixed genus $g\\ge1$ as the number of markings tends to infinity. We prove central limit theorems for the full Betti distributions, whose variances grow linearly in $n$ with leading coefficients independent of the genus. For the normalized even Betti numbers, we establish refined local limit theorems with estimates uniform in degree. These local estimates yield asymptotic formulas for individual even Betti numbers and determine the sharp central ultra-log-concavity thresholds $\\frac{3(e-2)}{2(3-e)}$ and $3$, respectively. For $g\\ge2$, the off-diagonal Hodge components form proportions of exact orders $n^{-1/2}$ and $n^{-1}$ of the total cohomology of the two spaces, respectively. The conditional distributions of the Hodge difference $p-q$ given $p\\ne q$ converge, for both spaces, to a single discrete law independent of the genus. We also prove that tautological classes account for all but a proportion of exact order $n^{-1}$ of the even cohomology of $\\overline{\\mathcal M}_{g,n}$. The tautological degree distribution converges to the standard Gaussian under the centering and scaling of the ambient even Betti distribution. An explicit asymptotic formula for the ratio of the ordinary Euler characteristics of the light and heavy spaces answers a question of Kannan, Serpente and Yun. The proofs combine the heavy/light substitution with a stratification of the light spaces by stable cores, singularity analysis of Hodge generating functions, and refined Fourier estimates exploiting Poincaré duality.",
-      "authors": [
-        "Jinwon Choi",
-        "Young-Hoon Kiem"
-      ],
-      "published": "2026-10-28",
-      "updated": "2026-10-28",
-      "categories": [
-        "math.AG",
-        "math.CO"
-      ]
-    },
-    {
-      "id": "2610.38115",
-      "url": "https://arxiv.org/abs/2610.38115",
-      "title": "Geometric properties of the analytic Emerton-Gee stack",
-      "abstract": "The analytic Emerton-Gee stack is a rigid analytic moduli stack of $(\\varphi,Γ)$-modules over the Robba ring, and is expected to play a fundamental role in the categorical $p$-adic local Langlands correspondence for locally analytic representations. In this paper, we establish the fundamental geometric properties of the analytic Emerton-Gee stack: it is a rigid analytic Artin stack, normal, a local complete intersection, and equidimensional of the expected dimension. As an application, our normality result removes the reducedness hypothesis in the paper of Le, Strauch, and Wang, thereby yielding an unconditional proof of the conjecture on the global sections of the analytic Emerton-Gee stack formulated by Emerton, Gee, and Hellmann.",
-      "authors": [
-        "Yutaro Mikami"
-      ],
-      "published": "2026-10-28",
-      "updated": "2026-10-28",
-      "categories": [
-        "math.NT",
         "math.AG"
       ]
     }

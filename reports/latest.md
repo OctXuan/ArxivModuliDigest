@@ -1,6 +1,30 @@
-# arXiv 代数几何模空间周报 (2026-10-28 至 2026-11-03)
+# arXiv 代数几何模空间周报 (2026-10-29 至 2026-11-04)
 
 共找到 **18** 篇候选论文。
+
+## [Gepner stability conditions on hypersurface categories](https://arxiv.org/abs/2611.05350)
+- **日期：** 2026-11-03  |  **相关度：** 3  |  **分类：** math.AG
+- **作者：** Anibal Aravena, Peize Liu, Jenia Tevelev
+- **匹配主题：** moduli, moduli space, moduli spaces
+- **概述（原摘要节选）：** We construct numerical Bridgeland stability conditions on the category of graded matrix factorizations of every smooth complex projective hypersurface of degree $d\ge2$. These conditions are of Gepner type $(τ,2/d)$, where $τ$ is the grading shift autoequivalence.
+
+## [On Douglas' conjecture for $m$-Kronecker quivers](https://arxiv.org/abs/2611.04862)
+- **日期：** 2026-11-03  |  **相关度：** 3  |  **分类：** math.RT, hep-th, math.AG, math.CO
+- **作者：** So Okada
+- **匹配主题：** moduli, moduli space, moduli spaces
+- **概述（原摘要节选）：** We prove Douglas' conjecture for $m$-Kronecker quivers for each $m \geq 3$ on the normalized logarithms of Euler characteristics of moduli spaces. Also, we state a log-concavity conjecture on Euler characteristics near slope one for the 3-Kronecker quiver.
+
+## [Canonical Projectivization of Algebraic Varieties in Characteristic Zero](https://arxiv.org/abs/2611.04314)
+- **日期：** 2026-11-03  |  **相关度：** 1  |  **分类：** math.AG, math.CV
+- **作者：** Parsa Bakhtary
+- **匹配主题：** hilbert scheme
+- **概述（原摘要节选）：** We construct a canonical projectivization of every smooth proper algebraic variety $X$ in characteristic zero. Once a principalization procedure is fixed, the construction gives a finite sequence of blowups in smooth centers with smooth projective endpoint, natural under semilinear isomorphisms and preserving the quasi-projective core, the intersection of all maximal quasi-projective open subsets.
+
+## [A Bubble Compactification of KSBA Moduli Space of Surfaces of General Type](https://arxiv.org/abs/2611.04154)
+- **日期：** 2026-11-03  |  **相关度：** 11  |  **分类：** math.AG
+- **作者：** Yunfeng Jiang
+- **匹配主题：** moduli, moduli space, moduli stack, moduli stacks
+- **概述（原摘要节选）：** We construct a bubble-tree enhancement of the KSBA moduli space of surfaces of general type using index-one-cover Deligne--Mumford stacks. The construction is inspired by bubbling phenomena for Kähler--Einstein metrics.
 
 ## [The Universal Nilpotent Cone and a Canonical 1-form](https://arxiv.org/abs/2611.03311)
 - **日期：** 2026-11-02  |  **相关度：** 1  |  **分类：** math.AG
@@ -85,30 +109,6 @@
 - **作者：** Zheyuan Fu
 - **匹配主题：** moduli, moduli space
 - **概述（原摘要节选）：** Let $X=V_5$ be the quintic del Pezzo threefold. Along the negative zero-tilt-slope paths for rational-curve ideal classes, degree five is the first degree admitting a positive point correction.
-
-## [Spectral Structures on Vector Bundles](https://arxiv.org/abs/2610.38972)
-- **日期：** 2026-10-28  |  **相关度：** 2  |  **分类：** math.AG, math.CV
-- **作者：** Nikita Nikolaev
-- **匹配主题：** moduli, moduli stack
-- **概述（原摘要节选）：** We develop an intrinsic theory of spectral structures on holomorphic vector bundles over compact Riemann surfaces, generalising eigenspace decompositions without eigenvalues. Their geometric realisations are presentations of vector bundles as pushforwards of line bundles along finite branched covers.
-
-## [Intrinsic Non-Reductive Geometric Invariant Theory and Moduli Spaces of Principal Bundles with Non-Reductive Structure Groups](https://arxiv.org/abs/2610.38837)
-- **日期：** 2026-10-28  |  **相关度：** 12  |  **分类：** math.AG
-- **作者：** George Cooper, Ludvig Modin
-- **匹配主题：** moduli, moduli space, moduli spaces
-- **概述（原摘要节选）：** We prove the existence of moduli spaces for algebraic stacks with a weak action of $Θ= [\mathbb{A}^1/\mathbb{G}_m]$ (including stacks of filtered objects and unstable $Θ$-strata) for which the center admits a good moduli space and the retraction to the center has flat, finitely presented relative inertia, providing a stack-intrinsic generalization of the existence of non-reductive Geometric Invariant Theory quotients. As an application, we construct quasi-projective coarse…
-
-## [Asymptotic distributions of the Betti and Hodge numbers of $\overline{\mathcal M}_{g,n}$](https://arxiv.org/abs/2610.38161)
-- **日期：** 2026-10-28  |  **相关度：** 3  |  **分类：** math.AG, math.CO
-- **作者：** Jinwon Choi, Young-Hoon Kiem
-- **匹配主题：** moduli, moduli space, moduli spaces
-- **概述（原摘要节选）：** We study the asymptotic distributions of the Betti and Hodge numbers of the moduli spaces $\overline{\mathcal M}_{g,n}$ of stable pointed curves and the all-light Hassett spaces $\overline{\mathcal M}_{g,0|n}$, for fixed genus $g\ge1$ as the number of markings tends to infinity. We prove central limit theorems for the full Betti distributions, whose variances grow linearly in $n$ with leading coefficients independent of the genus.
-
-## [Geometric properties of the analytic Emerton-Gee stack](https://arxiv.org/abs/2610.38115)
-- **日期：** 2026-10-28  |  **相关度：** 2  |  **分类：** math.NT, math.AG
-- **作者：** Yutaro Mikami
-- **匹配主题：** moduli, moduli stack
-- **概述（原摘要节选）：** The analytic Emerton-Gee stack is a rigid analytic moduli stack of $(\varphi,Γ)$-modules over the Robba ring, and is expected to play a fundamental role in the categorical $p$-adic local Langlands correspondence for locally analytic representations. In this paper, we establish the fundamental geometric properties of the analytic Emerton-Gee stack: it is a rigid analytic Artin stack, normal, a local complete intersection, and equidimensional of the expected dimension.
 
 ---
 概述取自论文原摘要前两句，未使用生成式模型；建议点击标题查看原文及完整摘要。
