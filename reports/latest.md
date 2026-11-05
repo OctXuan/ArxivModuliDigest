@@ -1,6 +1,30 @@
-# arXiv 代数几何模空间周报 (2026-10-29 至 2026-11-04)
+# arXiv 代数几何模空间周报 (2026-10-30 至 2026-11-05)
 
-共找到 **18** 篇候选论文。
+共找到 **16** 篇候选论文。
+
+## [Heavy-Light Wall Crossings and Motivic Asymptotics of Moduli Spaces of Curves. Part I: Stabilization Graphs and Euler Characteristics](https://arxiv.org/abs/2611.06862)
+- **日期：** 2026-11-04  |  **相关度：** 12  |  **分类：** math.AG, math-ph, math.CO
+- **作者：** Giordano Cotti
+- **匹配主题：** moduli, moduli space, moduli spaces
+- **概述（原摘要节选）：** In this paper, we develop an explicit calculation of ordinary topological Euler characteristics of the coarse moduli spaces underlying Hassett spaces in the minimal all-light chamber and the Deligne-Mumford compactification. For genus $g\ge2$, we organize the calculation through a decomposition indexed by stabilization graphs and their decorations.
+
+## [The integral Chow rings of $\mathcal A_3$ and $\mathcal M_3$](https://arxiv.org/abs/2611.06014)
+- **日期：** 2026-11-04  |  **相关度：** 2  |  **分类：** math.AG
+- **作者：** Emma Bishop
+- **匹配主题：** moduli, moduli stack
+- **概述（原摘要节选）：** Over $\mathbb C$, we compute the integral Chow ring of $\mathcal A_3$, the moduli stack of principally polarized abelian threefolds. Along the way, we compute the integral Chow ring of $\mathcal M_3$, the moduli stack of smooth genus-three curves.
+
+## [Equivariant elliptic cohomology via loop spaces](https://arxiv.org/abs/2611.05707)
+- **日期：** 2026-11-03  |  **相关度：** 2  |  **分类：** math.AG, math.AT, math.RT
+- **作者：** Emile Bouaziz, Adeel A. Khan
+- **匹配主题：** moduli, moduli space
+- **概述（原摘要节选）：** We construct a cohomology theory $H_A(-)$ canonically attached to any 1-dimensional commutative group scheme A over a connective $E_\infty$-ring. The additive group in characteristic zero gives 2-periodic de Rham cohomology, the multiplicative group gives topological periodic cyclic homology, and an elliptic curve gives elliptic cohomology.
+
+## [Quantum error correcting codes from quiver moduli: Grassmannians, cyclic monodromy, and argyle collision divisors](https://arxiv.org/abs/2611.05526)
+- **日期：** 2026-11-03  |  **相关度：** 6  |  **分类：** quant-ph, hep-th, math.AG, math.CO, math.RT
+- **作者：** Steven Rayan, Evan Sundbo
+- **匹配主题：** moduli
+- **概述（原摘要节选）：** Building on aspects of a recent diagrammatic field-theory programme for quantum error correction put forward by the first-named author (arXiv:2607.08911), we construct exact finite-dimensional codes from twisted cyclic and argyle quiver moduli on the projective line. A regular fibre of the node-labelled cyclic Hitchin map records the ways to distribute simple spectral zeroes among the arrows with prescribed degrees.
 
 ## [Gepner stability conditions on hypersurface categories](https://arxiv.org/abs/2611.05350)
 - **日期：** 2026-11-03  |  **相关度：** 3  |  **分类：** math.AG
@@ -73,42 +97,6 @@
 - **作者：** Alexander Bertoloni Meli, Teruhisa Koshikawa
 - **匹配主题：** moduli, moduli stack
 - **概述（原摘要节选）：** We introduce the notion of cuspidal coherent sheaves on the moduli stack of local L-parameters. We give a complete classification and relate them to Lusztig's cuspidal local systems (or character sheaves).
-
-## [Moduli space of irregular singular $λ$-connections and the relative symplectic form](https://arxiv.org/abs/2610.40352)
-- **日期：** 2026-10-29  |  **相关度：** 9  |  **分类：** math.AG
-- **作者：** Michi-aki Inaba, Arata Komyo
-- **匹配主题：** moduli, moduli space
-- **概述（原摘要节选）：** We study the moduli space of $λ$-connections with ramified singularities on a smooth projective curve $X$. We construct a quasi-projective relative moduli scheme $M^α_{\mathrm{Hod}} \to Λ$ of $α$-stable $λ$-connections over a base parameter space $Λ$.
-
-## [Degeneration of (-1)-shifted symplectic stacks and categorification of Donaldson-Thomas invariants](https://arxiv.org/abs/2610.40336)
-- **日期：** 2026-10-29  |  **相关度：** 7  |  **分类：** math.AG, math.SG
-- **作者：** Artan Sheshmani
-- **匹配主题：** moduli, moduli space, hilbert scheme, hilbert schemes, donaldson-thomas
-- **概述（原摘要节选）：** We study cohomological Donaldson-Thomas invariants of perfect complexes in a semistable degeneration of projective Calabi-Yau threefolds, with smooth components $X_1,X_2$ meeting along a smooth anticanonical surface $S$. The generic fiber of degeneration family is a $(-1)$-shifted symplectic stack.
-
-## [The Kodaira dimension and minimal models of $\mathcal{A}_6$](https://arxiv.org/abs/2610.40136)
-- **日期：** 2026-10-29  |  **相关度：** 2  |  **分类：** math.AG, math.NT
-- **作者：** Haowu Wang
-- **匹配主题：** moduli, moduli space
-- **概述（原摘要节选）：** We prove that the moduli space $\mathcal{A}_6$ of principally polarized abelian sixfolds has Kodaira dimension zero, determining the remaining case in the Kodaira classification of the spaces $\mathcal{A}_g$. More precisely, every nonzero scalar Siegel modular form of genus six, weight $k$ and positive boundary order $b$ satisfies $k\geq 7b$, with equality precisely for powers of the weight-fourteen harmonic theta series of Dittmann, Salvati Manni and Scheithauer.
-
-## [Degenerate complex structures on surfaces and stability conditions](https://arxiv.org/abs/2610.40035)
-- **日期：** 2026-10-29  |  **相关度：** 2  |  **分类：** math.AG, math-ph, math.SG
-- **作者：** Antonios-Alexandros Robotis, Nicolás Vilches
-- **匹配主题：** moduli, moduli space
-- **概述（原摘要节选）：** Physical heuristics suggest that the space of Bridgeland stability conditions of a projective Calabi-Yau manifold $X$ should be related to the moduli space of complex structures on its mirror $X^\vee$. On the other hand, recent work in the literature introduces a modular partial compactification, $\mathcal{A}\mathrm{Stab}(X)$, of a quotient of the space of stability conditions on $\mathcal{D}^{b}(X)$.
-
-## [On equivariant affineness in elliptic cohomology](https://arxiv.org/abs/2610.39583)
-- **日期：** 2026-10-29  |  **相关度：** 4  |  **分类：** math.AT, math.AG, math.KT
-- **作者：** Jack Morgan Davies, Sil Linskens, Leonard Tokic
-- **匹配主题：** moduli, moduli stack, hilbert scheme, hilbert schemes
-- **概述（原摘要节选）：** We investigate equivariant affineness in spectral algebraic geometry: the phenomenon where $\infty$-categories of quasi-coherent sheaves of a spectral stack are equivalent to $\infty$-categories of modules over an equivariant ring spectrum. In the nonequivariant case, this is known as 0-affineness, and has been studied by Gaitsgory, Mathew--Meier, amongst others.
-
-## [Point Corrections and Wall-Crossing Geometry on the Quintic del Pezzo Threefold](https://arxiv.org/abs/2610.39336)
-- **日期：** 2026-10-29  |  **相关度：** 2  |  **分类：** math.AG
-- **作者：** Zheyuan Fu
-- **匹配主题：** moduli, moduli space
-- **概述（原摘要节选）：** Let $X=V_5$ be the quintic del Pezzo threefold. Along the negative zero-tilt-slope paths for rational-curve ideal classes, degree five is the first degree admitting a positive point correction.
 
 ---
 概述取自论文原摘要前两句，未使用生成式模型；建议点击标题查看原文及完整摘要。
