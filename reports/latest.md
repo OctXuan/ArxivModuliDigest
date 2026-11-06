@@ -1,6 +1,24 @@
-# arXiv 代数几何模空间周报 (2026-10-30 至 2026-11-05)
+# arXiv 代数几何模空间周报 (2026-10-31 至 2026-11-06)
 
-共找到 **16** 篇候选论文。
+共找到 **18** 篇候选论文。
+
+## [Kappa Classes on the KSBA Space of Stable Toric Pairs](https://arxiv.org/abs/2611.08337)
+- **日期：** 2026-11-05  |  **相关度：** 2  |  **分类：** math.AG
+- **作者：** Byeol Han
+- **匹配主题：** moduli, moduli space
+- **概述（原摘要节选）：** We study kappa classes on the normalization of the main component of the Kollár--Shepherd-Barron--Alexeev(KSBA) moduli space of stable toric pairs. Using a toric model obtained by a lattice modification, we compute all kappa classes on the moduli space by giving a combinatorial formula for their intersection numbers with all torus-invariant cycles.
+
+## [The Chow ring of a wonderful compactification](https://arxiv.org/abs/2611.07507)
+- **日期：** 2026-11-05  |  **相关度：** 2  |  **分类：** math.AG
+- **作者：** Patricio Gallardo, Javier González-Anaya, José Luis González
+- **匹配主题：** moduli, moduli space
+- **概述（原摘要节选）：** The theory of wonderful compactifications provides a common framework encompassing the constructions of important varieties such as the Fulton-MacPherson configuration spaces, the moduli space of $n$-pointed stable rational curves, and the De Concini-Procesi models of subspace arrangements, and, more generally, of smooth compactifications in which the subvarieties in a building set are replaced by a simple normal crossings boundary divisor. We give a presentation of the…
+
+## [The residual map as a stratified fibration over the resonance arrangement](https://arxiv.org/abs/2611.07499)
+- **日期：** 2026-11-05  |  **相关度：** 3  |  **分类：** math.GT, math.AG
+- **作者：** Dawei Chen, Scott Mullane, Nick Salter, Guillaume Tahar
+- **匹配主题：** moduli, moduli space, moduli spaces
+- **概述（原摘要节选）：** Given a stratum $\mathcal{H}(μ)$ of meromorphic one-forms on a Riemann surface with prescribed orders of zeros and poles, the residual map assigns to each differential the collection of its residues at the poles. In this paper, we prove that the residual map is a locally trivial topological fibration over each open flat of the stratification induced by the resonance arrangement.
 
 ## [Heavy-Light Wall Crossings and Motivic Asymptotics of Moduli Spaces of Curves. Part I: Stabilization Graphs and Euler Characteristics](https://arxiv.org/abs/2611.06862)
 - **日期：** 2026-11-04  |  **相关度：** 12  |  **分类：** math.AG, math-ph, math.CO
@@ -91,12 +109,6 @@
 - **作者：** Shuai Guo, Qingsheng Zhang
 - **匹配主题：** moduli
 - **概述（原摘要节选）：** We formulate a canonical quantum curve conjecture $\widehat HΨ_*=0$ for spectral curves of positive genus. Here $Ψ_*$ is the non-perturbative wave function associated with Eynard--Orantin topological recursion, specialized at the \emph{canonical vanishing point}, a distinguished zero of the closed non-perturbative partition function.
-
-## [Cuspidal sheaves on the stack of L-parameters](https://arxiv.org/abs/2611.00220)
-- **日期：** 2026-10-30  |  **相关度：** 2  |  **分类：** math.NT, math.AG, math.RT
-- **作者：** Alexander Bertoloni Meli, Teruhisa Koshikawa
-- **匹配主题：** moduli, moduli stack
-- **概述（原摘要节选）：** We introduce the notion of cuspidal coherent sheaves on the moduli stack of local L-parameters. We give a complete classification and relate them to Lusztig's cuspidal local systems (or character sheaves).
 
 ---
 概述取自论文原摘要前两句，未使用生成式模型；建议点击标题查看原文及完整摘要。
