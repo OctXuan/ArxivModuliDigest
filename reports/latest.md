@@ -1,6 +1,6 @@
-# arXiv 代数几何模空间周报 (2026-10-31 至 2026-11-06)
+# arXiv 代数几何模空间周报 (2026-11-01 至 2026-11-07)
 
-共找到 **18** 篇候选论文。
+共找到 **16** 篇候选论文。
 
 ## [Kappa Classes on the KSBA Space of Stable Toric Pairs](https://arxiv.org/abs/2611.08337)
 - **日期：** 2026-11-05  |  **相关度：** 2  |  **分类：** math.AG
@@ -97,18 +97,6 @@
 - **作者：** Dingkang Xiong, Jian Zhou
 - **匹配主题：** moduli, moduli space, moduli spaces
 - **概述（原摘要节选）：** We derive an Eynard-Orantin topological recursion for intersection numbers involving Norbury's $Θ$-class together with $ψ$-classes and higher $κ$-classes. These intersection numbers encode higher Weil-Petersson volumes of moduli spaces of super Riemann surfaces.
-
-## [Gromov-Witten theory of the local model of the standard flop](https://arxiv.org/abs/2611.01260)
-- **日期：** 2026-10-31  |  **相关度：** 3  |  **分类：** math.AG
-- **作者：** Alex Dänzer, Yannik Schuler
-- **匹配主题：** gromov-witten
-- **概述（原摘要节选）：** We conjecture that the generating series of equivariant Gromov-Witten invariants of the local Calabi-Yau $(2n-1)$-fold $\operatorname{Tot} \mathcal{O}_{\mathbb{P}^{n-1}} (-1)^{\oplus n}$ at fixed genus can be presented as a linear combination of polylogarithms, generalising a well-known property of the resolved conifold. We prove this conjecture for two specialisations of the equivariant parameters.
-
-## [Canonical quantum curve I](https://arxiv.org/abs/2611.00997)
-- **日期：** 2026-10-31  |  **相关度：** 1  |  **分类：** math-ph, math.AG
-- **作者：** Shuai Guo, Qingsheng Zhang
-- **匹配主题：** moduli
-- **概述（原摘要节选）：** We formulate a canonical quantum curve conjecture $\widehat HΨ_*=0$ for spectral curves of positive genus. Here $Ψ_*$ is the non-perturbative wave function associated with Eynard--Orantin topological recursion, specialized at the \emph{canonical vanishing point}, a distinguished zero of the closed non-perturbative partition function.
 
 ---
 概述取自论文原摘要前两句，未使用生成式模型；建议点击标题查看原文及完整摘要。
