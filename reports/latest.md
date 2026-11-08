@@ -1,6 +1,6 @@
-# arXiv 代数几何模空间周报 (2026-11-01 至 2026-11-07)
+# arXiv 代数几何模空间周报 (2026-11-02 至 2026-11-08)
 
-共找到 **16** 篇候选论文。
+共找到 **13** 篇候选论文。
 
 ## [Kappa Classes on the KSBA Space of Stable Toric Pairs](https://arxiv.org/abs/2611.08337)
 - **日期：** 2026-11-05  |  **相关度：** 2  |  **分类：** math.AG
@@ -79,24 +79,6 @@
 - **作者：** Ivan Karpov, Felix Thimm
 - **匹配主题：** gromov-witten
 - **概述（原摘要节选）：** Recently, Pardon introduced a universal curve counting framework, which allows him to show that curve counting on 3-folds is "generated" by local curves (in a precise sense). We implement this universal curve counting program for Calabi-Yau 4-folds, where a significant technical difficulty comes from the dependence of the virtual dimension on the genus, which leads to more complicated generators than just local curves.
-
-## [Moduli spaces of rank 2 sheaves on $\mathbb P^3$ via Quot schemes](https://arxiv.org/abs/2611.01961)
-- **日期：** 2026-11-01  |  **相关度：** 12  |  **分类：** math.AG
-- **作者：** Charles Almeida, Nicolò Bignami, Marcos Jardim, Andrea T. Ricolfi
-- **匹配主题：** moduli, moduli space, moduli spaces
-- **概述（原摘要节选）：** We study the Gieseker--Maruyama moduli space $M_{c_3}$ of stable rank 2 torsion-free sheaves on $\mathbb{P}^3$ with Chern classes $c_1=-1$, $c_2=1$, and odd $c_3 \le 1$. Every such sheaf $E$ has reflexive hull $E^{\ast\ast}$ parametrised by $M_1$, and the quotient $E^{\ast\ast}/E$ is a 0-dimensional sheaf of length $n = (1-c_3)/2$.
-
-## [Derived Torelli for Kuznetsov components of cubic fourfolds](https://arxiv.org/abs/2611.01716)
-- **日期：** 2026-11-01  |  **相关度：** 2  |  **分类：** math.AG
-- **作者：** Hanfei Guo, Ruxuan Zhang
-- **匹配主题：** moduli, moduli space
-- **概述（原摘要节选）：** We prove that every orientation-preserving Hodge isometry between the integral Mukai lattices of the Kuznetsov components of two smooth cubic fourfolds is induced by an exact equivalence. The proof uses Markman--Mehrotra's comonad reconstruction method to recover both Kuznetsov components from a common Fourier--Mukai comonad on a moduli space of stable objects.
-
-## [Eynard-Orantin Topological Recursions for Higher Weil-Petersson Volumes on Moduli Spaces of Super Riemann Surfaces](https://arxiv.org/abs/2611.01497)
-- **日期：** 2026-11-01  |  **相关度：** 12  |  **分类：** math-ph, math.AG
-- **作者：** Dingkang Xiong, Jian Zhou
-- **匹配主题：** moduli, moduli space, moduli spaces
-- **概述（原摘要节选）：** We derive an Eynard-Orantin topological recursion for intersection numbers involving Norbury's $Θ$-class together with $ψ$-classes and higher $κ$-classes. These intersection numbers encode higher Weil-Petersson volumes of moduli spaces of super Riemann surfaces.
 
 ---
 概述取自论文原摘要前两句，未使用生成式模型；建议点击标题查看原文及完整摘要。
