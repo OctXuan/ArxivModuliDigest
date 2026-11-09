@@ -1,6 +1,18 @@
-# arXiv 代数几何模空间周报 (2026-11-02 至 2026-11-08)
+# arXiv 代数几何模空间周报 (2026-11-03 至 2026-11-09)
 
 共找到 **13** 篇候选论文。
+
+## [Macdonald intersections and the $N!/k$ conjecture](https://arxiv.org/abs/2611.09638)
+- **日期：** 2026-11-06  |  **相关度：** 1  |  **分类：** math.CO, math.AG
+- **作者：** Peter L. Guo, Mingyang Kang, Changjian Su, Rui Xiong
+- **匹配主题：** hilbert scheme
+- **概述（原摘要节选）：** We prove the Frobenius characteristic formula for the intersection of Garsia--Haiman modules predicted in the Science Fiction of Bergeron and Garsia. As a consequence, we resolve the $N!/k$ conjecture.
+
+## [Multi-monopoles and monodromy around the wobbly divisor](https://arxiv.org/abs/2611.08760)
+- **日期：** 2026-11-05  |  **相关度：** 3  |  **分类：** math.AG, math.DG
+- **作者：** Brad Wilson
+- **匹配主题：** moduli, moduli space, moduli spaces
+- **概述（原摘要节选）：** The multi-monopole equations are a generalisation of the Seiberg--Witten equations where the spinor is coupled to an auxiliary vector bundle. The signed count of multi-monopoles on a 3-manifold can vary according to a new type of wall-crossing phenomenon.
 
 ## [Kappa Classes on the KSBA Space of Stable Toric Pairs](https://arxiv.org/abs/2611.08337)
 - **日期：** 2026-11-05  |  **相关度：** 2  |  **分类：** math.AG
@@ -67,18 +79,6 @@
 - **作者：** Yunfeng Jiang
 - **匹配主题：** moduli, moduli space, moduli stack, moduli stacks
 - **概述（原摘要节选）：** We construct a bubble-tree enhancement of the KSBA moduli space of surfaces of general type using index-one-cover Deligne--Mumford stacks. The construction is inspired by bubbling phenomena for Kähler--Einstein metrics.
-
-## [The Universal Nilpotent Cone and a Canonical 1-form](https://arxiv.org/abs/2611.03311)
-- **日期：** 2026-11-02  |  **相关度：** 1  |  **分类：** math.AG
-- **作者：** Marius Kjærsgaard
-- **匹配主题：** moduli
-- **概述（原摘要节选）：** We construct a canonical Du Bois 1-form on the nilpotent cone in the dual Lie algebra of any reductive group. Using this 1-form we give an intrinsic construction of Nadler and Yun's universal global nilpotent cone.
-
-## [Universal Curve Counting in Calabi-Yau 4-folds](https://arxiv.org/abs/2611.02717)
-- **日期：** 2026-11-02  |  **相关度：** 1  |  **分类：** math.AG, hep-th, math.SG
-- **作者：** Ivan Karpov, Felix Thimm
-- **匹配主题：** gromov-witten
-- **概述（原摘要节选）：** Recently, Pardon introduced a universal curve counting framework, which allows him to show that curve counting on 3-folds is "generated" by local curves (in a precise sense). We implement this universal curve counting program for Calabi-Yau 4-folds, where a significant technical difficulty comes from the dependence of the virtual dimension on the genus, which leads to more complicated generators than just local curves.
 
 ---
 概述取自论文原摘要前两句，未使用生成式模型；建议点击标题查看原文及完整摘要。

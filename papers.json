@@ -1,11 +1,44 @@
 {
   "version": "1.3",
-  "generated_at": "2026-11-08T17:57:19.872139+00:00",
+  "generated_at": "2026-11-09T22:24:02.077114+00:00",
   "period": {
-    "start": "2026-11-02",
-    "end": "2026-11-08"
+    "start": "2026-11-03",
+    "end": "2026-11-09"
   },
   "papers": [
+    {
+      "id": "2611.09638",
+      "url": "https://arxiv.org/abs/2611.09638",
+      "title": "Macdonald intersections and the $N!/k$ conjecture",
+      "abstract": "We prove the Frobenius characteristic formula for the intersection of Garsia--Haiman modules predicted in the Science Fiction of Bergeron and Garsia. As a consequence, we resolve the $N!/k$ conjecture. The proof uses the geometry of the Hilbert scheme of points on the plane developed by Haiman.",
+      "authors": [
+        "Peter L. Guo",
+        "Mingyang Kang",
+        "Changjian Su",
+        "Rui Xiong"
+      ],
+      "published": "2026-11-06",
+      "updated": "2026-11-06",
+      "categories": [
+        "math.CO",
+        "math.AG"
+      ]
+    },
+    {
+      "id": "2611.08760",
+      "url": "https://arxiv.org/abs/2611.08760",
+      "title": "Multi-monopoles and monodromy around the wobbly divisor",
+      "abstract": "The multi-monopole equations are a generalisation of the Seiberg--Witten equations where the spinor is coupled to an auxiliary vector bundle. The signed count of multi-monopoles on a 3-manifold can vary according to a new type of wall-crossing phenomenon. For products $S^1\\times C$, where $C$ is a closed Riemann surface, we relate the wall and chamber structure to loops in the complement of the wobbly divisor of $C$. Such a loop induces a monodromy map on the multi-vortex moduli space, and the count of its fixed points is expected to agree with the count of multi-monopoles on $S^1\\times C$ in the given chamber. By studying singularities of framed multi-vortex moduli spaces, we are able to understand these monodromy maps for various loops. Counting fixed points suggests that product 3-manifolds display incredibly rich wall-crossing behaviour.",
+      "authors": [
+        "Brad Wilson"
+      ],
+      "published": "2026-11-05",
+      "updated": "2026-11-05",
+      "categories": [
+        "math.AG",
+        "math.DG"
+      ]
+    },
     {
       "id": "2611.08337",
       "url": "https://arxiv.org/abs/2611.08337",
@@ -180,37 +213,6 @@
       "updated": "2026-11-03",
       "categories": [
         "math.AG"
-      ]
-    },
-    {
-      "id": "2611.03311",
-      "url": "https://arxiv.org/abs/2611.03311",
-      "title": "The Universal Nilpotent Cone and a Canonical 1-form",
-      "abstract": "We construct a canonical Du Bois 1-form on the nilpotent cone in the dual Lie algebra of any reductive group. Using this 1-form we give an intrinsic construction of Nadler and Yun's universal global nilpotent cone. In particular, we obtain a moduli interpretation of the universal nilpotent cone.",
-      "authors": [
-        "Marius Kjærsgaard"
-      ],
-      "published": "2026-11-02",
-      "updated": "2026-11-02",
-      "categories": [
-        "math.AG"
-      ]
-    },
-    {
-      "id": "2611.02717",
-      "url": "https://arxiv.org/abs/2611.02717",
-      "title": "Universal Curve Counting in Calabi-Yau 4-folds",
-      "abstract": "Recently, Pardon introduced a universal curve counting framework, which allows him to show that curve counting on 3-folds is \"generated\" by local curves (in a precise sense). We implement this universal curve counting program for Calabi-Yau 4-folds, where a significant technical difficulty comes from the dependence of the virtual dimension on the genus, which leads to more complicated generators than just local curves. Our main techniques are combinations of deformation-theoretic and homotopy-theoretic methods with an adaptation of Pardon's generic transversality results, which allow us to establish a full set of (computable) generators for CY4 curve counting. As a result, we prove (a slight correction of) the Gromov-Witten/Pandharipande-Thomas correspondence with primary descendents for CY4-folds, formulated by Cao, Maulik, and Toda. From this, we additionally obtain integrality of Gopakumar-Vafa style invariants for CY4-folds, as conjectured by Klemm-Pandharipande.",
-      "authors": [
-        "Ivan Karpov",
-        "Felix Thimm"
-      ],
-      "published": "2026-11-02",
-      "updated": "2026-11-02",
-      "categories": [
-        "math.AG",
-        "hep-th",
-        "math.SG"
       ]
     }
   ]
