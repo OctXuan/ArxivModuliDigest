@@ -1,11 +1,126 @@
 {
   "version": "1.3",
-  "generated_at": "2026-11-09T22:24:02.077114+00:00",
+  "generated_at": "2026-11-10T19:46:08.438720+00:00",
   "period": {
-    "start": "2026-11-03",
-    "end": "2026-11-09"
+    "start": "2026-11-04",
+    "end": "2026-11-10"
   },
   "papers": [
+    {
+      "id": "2611.12744",
+      "url": "https://arxiv.org/abs/2611.12744",
+      "title": "Semiampleness of Hodge line bundles and b-semiampleness of the moduli part",
+      "abstract": "We give proofs of Hodge semiampleness and b-semiampleness without using o-minimality. We establish a geometric semiampleness criterion for line bundles on proper algebraic spaces. Let $(X,D)$ be a log smooth pair with $X$ a proper algebraic space. For an integral polarizable pure variation of Calabi--Yau type on $X\\setminus D$ with unipotent local monodromy, let $L$ be its extended highest Hodge line. If $L$ is numerically integrable and has torsion combinatorial monodromy, then $L$ is semiample. We also prove semiampleness of extended Griffiths lines. We construct normal projective period compactifications on which a positive power of the Griffiths line extends to an ample line bundle. As an application, we prove that the moduli b-divisor $\\mathbf{M}$ of a projective lc-trivial fibration over a normal algebraic variety is b-semiample, provided that the generic boundary is effective. Suppose further that the geometric generic pair is klt and its boundary is big, with nonzero coefficients in a fixed finite set $I\\subset(0,1)\\cap\\mathbb{Q}$. Then $c\\mathbf{M}$ is b-Cartier and b-free for an integer $c>0$ depending only on the relative dimension and $I$. We extend b-semiampleness to analogous projective fibrations over normal complex analytic bases, assuming a global relative polarization and an invertible log pluricanonical sheaf pulled back from the base.",
+      "authors": [
+        "Zhengyu Hu",
+        "Kefeng Liu",
+        "Yang Shen"
+      ],
+      "published": "2026-11-09",
+      "updated": "2026-11-09",
+      "categories": [
+        "math.AG"
+      ]
+    },
+    {
+      "id": "2611.12450",
+      "url": "https://arxiv.org/abs/2611.12450",
+      "title": "$λ_g$-Integrals on triple, one-part admissible covers",
+      "abstract": "We effectively compute all intersection numbers of the form $λ_gψ^d$ on moduli spaces of genus $g$ admissible covers with one point of full ramification and two additional branch points with arbitrary profile. We encode these invariants in appropriate generating functions, which we relate to the Hamiltonians of the KdV hierarchy.",
+      "authors": [
+        "Renzo Cavalieri",
+        "David Klompenhouwer",
+        "Paolo Rossi"
+      ],
+      "published": "2026-11-09",
+      "updated": "2026-11-09",
+      "categories": [
+        "math.AG",
+        "math-ph"
+      ]
+    },
+    {
+      "id": "2611.11660",
+      "url": "https://arxiv.org/abs/2611.11660",
+      "title": "On sinks and mirrors",
+      "abstract": "Given a full rank sink recurrent cluster $\\mathcal{A}$ variety, we prove that its wrapped Fukaya category is equivalent to the category of coherent sheaves on a stacky elaboration of the dual Fock-Goncharov cluster $\\mathcal{X}$ variety. In particular, braid varieties for a semisimple group are mirror to the braid varieties for the Langlands dual group. Another example: for compact surfaces with no interior marked points, a least one marked point on each boundary component, and at least two marked points in total, the Fock-Goncharov moduli for SL(2) and PGL(2) are homologically mirror. The results were obtained in communion with ChatGPT Astra.",
+      "authors": [
+        "Mingyuan Hu",
+        "Vivek Shende"
+      ],
+      "published": "2026-11-08",
+      "updated": "2026-11-08",
+      "categories": [
+        "math.SG",
+        "math.AG",
+        "math.CO",
+        "math.RT"
+      ]
+    },
+    {
+      "id": "2611.11407",
+      "url": "https://arxiv.org/abs/2611.11407",
+      "title": "Classification of 3-dimensional complex nilmanifolds - Teichmüller and moduli spaces",
+      "abstract": "We classify complex nilmanifolds of dimension three by describing the Teichmüller and moduli spaces of left-invariant complex structures for every real six-dimensional nilmanifold.",
+      "authors": [
+        "Konstantin Wehler"
+      ],
+      "published": "2026-11-08",
+      "updated": "2026-11-08",
+      "categories": [
+        "math.AG",
+        "math.DG"
+      ]
+    },
+    {
+      "id": "2611.10879",
+      "url": "https://arxiv.org/abs/2611.10879",
+      "title": "The moduli stack of affine bundles with fixed linearisation type",
+      "abstract": "The goal of this article is the classification of affine bundles with fixed linearisation type over a compact complex manifold $X$. More precisely, let $E$ be a fixed holomorphic vector bundle over $X$ and $\\mathcal{E}$ the associated locally free sheaf. We will assume that there exists an effective divisor $D$ on $X$ such that $H^1(X,\\mathcal{E}(D))=0$. This condition is always satisfied when $X$ is a projective complex manifold. We define in a natural way the moduli stack of affine bundles on $X$ whose linearisation is isomorphic to $E$, and we prove that this moduli stack is isomorphic to the quotient stack $\\big[H^0(X,\\mathcal{E}(D)_D)/H^0(X,\\mathcal{E}(D))\\ltimes \\mathrm{Aut}(E)\\big]$ of the complex vector space $H^0(X,\\mathcal{E}(D)_D)$ by the semi-direct product of the automorphism group $\\mathrm{Aut}(E)$ (which is always an affine algebraic group) by the complex vector space $H^0(X,{\\cal E}(D))$. Our isomorphism is obtained by constructing explicitly comparison functors $\\mathscr{A}$, $\\mathscr{T}$ between the two stacks and explicit natural isomorphisms $\\mathscr{A}\\circ\\mathscr{T}\\stackrel{\\simeq}{\\longrightarrow} \\mathrm{id}$, $\\mathrm{id} \\stackrel{\\simeq}{\\longrightarrow}\\mathscr{T}\\circ\\mathscr{A}$.",
+      "authors": [
+        "Naoufal Bouchareb",
+        "Andrei Teleman"
+      ],
+      "published": "2026-11-07",
+      "updated": "2026-11-07",
+      "categories": [
+        "math.AG",
+        "math.CV"
+      ]
+    },
+    {
+      "id": "2611.10426",
+      "url": "https://arxiv.org/abs/2611.10426",
+      "title": "Extendability of general prime $K3$ surfaces without Gaussian maps and classification of prime Fano threefolds",
+      "abstract": "In arXiv:2409.03960 an approach to the question of extendability of projective varieties via degeneration to ribbons was introduced, and in arXiv:2503.12661 it was used to give a new proof of optimal results on the extendability of general non-prime $K3$ surfaces and the classification of non-prime Fano threefolds. In this article we treat the prime case. We give a new proof of the optimal results on the extendability of general prime $K3$ surfaces of every genus, of the classification of prime Fano threefolds of Picard rank one due to Fano, Iskovskikh and Mukai, and of the irreducibility of their Hilbert schemes. This involves degenerations of $K3$ surfaces to ribbons on embedded rational normal scrolls, called $K3$ carpets. We compute exactly the cohomology of the twisted normal bundle of these $K3$ carpets, instead of computing coranks of Gaussian maps of the canonical curve sections. The key challenge is to analyze the coboundary map of the sequence relating the normal bundle of the $K3$ carpet to the normal bundle of the scroll. We give a deformation theoretic interpretation of this map. Given such a $K3$ carpet and its hyperplane section, which is a canonical ribbon, we show that the coboundary map corresponds to the obstruction to lifting a first order deformation of the underlying scroll fixing the underlying rational normal curve to a first order deformation of the $K3$ carpet fixing the canonical ribbon. To compute the obstruction, we use a result on extensions of non-split ribbons on any curve to a unique $K$-trivial carpet in a canonical way.",
+      "authors": [
+        "Jayan Mukherjee",
+        "with an appendix written jointly with Anand Deopurkar"
+      ],
+      "published": "2026-11-07",
+      "updated": "2026-11-07",
+      "categories": [
+        "math.AG"
+      ]
+    },
+    {
+      "id": "2611.10415",
+      "url": "https://arxiv.org/abs/2611.10415",
+      "title": "Birational Geometry of K-Moduli Spaces of Genus Four Curves",
+      "abstract": "We study the wall-crossings for K-moduli spaces of (3,3)-curves on $\\mathbb{P}^1\\times\\mathbb{P}^1$. Together with the boundary polarized Calabi--Yau moduli space, these spaces interpolate between the GIT moduli space of (3,3)-curves and the Baily--Borel compactification of the moduli space of K3 surfaces arising as cyclic triple covers of $\\mathbb{P}^1\\times\\mathbb{P}^1$ branched along such curves. As applications, we describe the corresponding birational models in the Hassett--Keel--Looijenga program and realize the K-moduli space of degree one del Pezzo surfaces through explicit wall-crossings.",
+      "authors": [
+        "Kenneth Ascher",
+        "Kristin DeVleming",
+        "Hongyu Luo",
+        "Yuchen Liu",
+        "Junyan Zhao"
+      ],
+      "published": "2026-11-07",
+      "updated": "2026-11-07",
+      "categories": [
+        "math.AG"
+      ]
+    },
     {
       "id": "2611.09638",
       "url": "https://arxiv.org/abs/2611.09638",
@@ -113,104 +228,6 @@
       ],
       "published": "2026-11-04",
       "updated": "2026-11-04",
-      "categories": [
-        "math.AG"
-      ]
-    },
-    {
-      "id": "2611.05707",
-      "url": "https://arxiv.org/abs/2611.05707",
-      "title": "Equivariant elliptic cohomology via loop spaces",
-      "abstract": "We construct a cohomology theory $H_A(-)$ canonically attached to any 1-dimensional commutative group scheme A over a connective $E_\\infty$-ring. The additive group in characteristic zero gives 2-periodic de Rham cohomology, the multiplicative group gives topological periodic cyclic homology, and an elliptic curve gives elliptic cohomology. The construction extends to the G-equivariant setting for an algebraic group G, yielding in the elliptic case a theory of equivariant elliptic cohomology on algebraic varieties with G-action that takes values in sheaves on the stack of G-bundles. Over the complex numbers, and for G connected reductive, this lifts Grojnowski's theory from the moduli space of G-bundles to the stack. The key player is the category of perfect complexes on A with 0-dimensional support, equipped with the convolution product induced by the group law of A. It plays the role of a categorified circle and is used to define a loop space $L_A^G(X)$, whose structure sheaf gives rise to $H_A^G(X)$ after periodization. Sheaves on $L_A^G(X)$ equivariant under loop rotation provide a category of coefficients for $H_A^G(-)$ in the same way that D-modules provide coefficients for de Rham cohomology. At the point X = *, the theory also gives rise to an $E_\\infty$-ring spectrum (or sheaf thereof) $K_A$, which recovers complex K-theory for $A = \\mathbf{G}_m$, and the sheaf $\\mathcal{O}^{top}$ of topological modular forms for the universal elliptic curve.",
-      "authors": [
-        "Emile Bouaziz",
-        "Adeel A. Khan"
-      ],
-      "published": "2026-11-03",
-      "updated": "2026-11-03",
-      "categories": [
-        "math.AG",
-        "math.AT",
-        "math.RT"
-      ]
-    },
-    {
-      "id": "2611.05526",
-      "url": "https://arxiv.org/abs/2611.05526",
-      "title": "Quantum error correcting codes from quiver moduli: Grassmannians, cyclic monodromy, and argyle collision divisors",
-      "abstract": "Building on aspects of a recent diagrammatic field-theory programme for quantum error correction put forward by the first-named author (arXiv:2607.08911), we construct exact finite-dimensional codes from twisted cyclic and argyle quiver moduli on the projective line. A regular fibre of the node-labelled cyclic Hitchin map records the ways to distribute simple spectral zeroes among the arrows with prescribed degrees. The Hilbert space spanned by these allocations is a Young permutation module. Root monodromy acts on its Specht factors and leaves their multiplicity spaces noiseless. Resetting the Specht factor therefore recovers the encoded state for every channel in the monodromy noise model. We prove that the largest Kostka multiplicity is the optimal dimension of a subspace code correcting the full monodromy algebra, even among codes spanning several isotypic blocks. Quantizing an argyle master space recovers the cyclic sheet space as a weight sector of a tensor power, with the identification preserving monodromy. For the balanced three-cycle with $t$ zeroes per arrow, the multiplicity of a partition $(a,b,c)$ of $3t$ is $1+\\min(a-b,b-c)$. The optimal logical dimension is thus $t+1$, attained uniquely by the block indexed by $(2t,t)$. At $t=1$ we give explicit codewords for a qubit on six sheets. The commuting right action generates its full logical algebra, yielding errors outside the monodromy model that leave the measured footprint statistics unchanged yet require different recoveries. We also compute collision-parity ranks, give a higher-rank Grassmannian example, and derive a conditional criterion for recovery across splitting types.",
-      "authors": [
-        "Steven Rayan",
-        "Evan Sundbo"
-      ],
-      "published": "2026-11-03",
-      "updated": "2026-11-03",
-      "categories": [
-        "quant-ph",
-        "hep-th",
-        "math.AG",
-        "math.CO",
-        "math.RT"
-      ]
-    },
-    {
-      "id": "2611.05350",
-      "url": "https://arxiv.org/abs/2611.05350",
-      "title": "Gepner stability conditions on hypersurface categories",
-      "abstract": "We construct numerical Bridgeland stability conditions on the category of graded matrix factorizations of every smooth complex projective hypersurface of degree $d\\ge2$. These conditions are of Gepner type $(τ,2/d)$, where $τ$ is the grading shift autoequivalence. By Orlov's theorem, this gives stability conditions of Gepner type on all Calabi--Yau hypersurfaces and on Kuznetsov components of all Fano hypersurfaces. These conditions satisfy a mass-Hom bound and the support property on the full numerical Grothendieck group. Semistable objects of fixed numerical class and phase admit proper good moduli spaces.",
-      "authors": [
-        "Anibal Aravena",
-        "Peize Liu",
-        "Jenia Tevelev"
-      ],
-      "published": "2026-11-03",
-      "updated": "2026-11-03",
-      "categories": [
-        "math.AG"
-      ]
-    },
-    {
-      "id": "2611.04862",
-      "url": "https://arxiv.org/abs/2611.04862",
-      "title": "On Douglas' conjecture for $m$-Kronecker quivers",
-      "abstract": "We prove Douglas' conjecture for $m$-Kronecker quivers for each $m \\geq 3$ on the normalized logarithms of Euler characteristics of moduli spaces. Also, we state a log-concavity conjecture on Euler characteristics near slope one for the 3-Kronecker quiver.",
-      "authors": [
-        "So Okada"
-      ],
-      "published": "2026-11-03",
-      "updated": "2026-11-03",
-      "categories": [
-        "math.RT",
-        "hep-th",
-        "math.AG",
-        "math.CO"
-      ]
-    },
-    {
-      "id": "2611.04314",
-      "url": "https://arxiv.org/abs/2611.04314",
-      "title": "Canonical Projectivization of Algebraic Varieties in Characteristic Zero",
-      "abstract": "We construct a canonical projectivization of every smooth proper algebraic variety $X$ in characteristic zero. Once a principalization procedure is fixed, the construction gives a finite sequence of blowups in smooth centers with smooth projective endpoint, natural under semilinear isomorphisms and preserving the quasi-projective core, the intersection of all maximal quasi-projective open subsets. At each stage we select finitely many ideals near the generic points of the image in $X$ of the boundary of a maximal quasi-projective open. Principalizing their product strictly lowers the dimension of that image. The selection is defined intrinsically, without a polarization or a chosen projective modification; a Hilbert scheme argument proves its finiteness. Naturality embeds the automorphism group in that of a smooth projective variety of the same dimension. We then extend the construction to smooth proper integral algebraic spaces, obtaining canonical projectivizations of all compact connected Moishezon manifolds.",
-      "authors": [
-        "Parsa Bakhtary"
-      ],
-      "published": "2026-11-03",
-      "updated": "2026-11-03",
-      "categories": [
-        "math.AG",
-        "math.CV"
-      ]
-    },
-    {
-      "id": "2611.04154",
-      "url": "https://arxiv.org/abs/2611.04154",
-      "title": "A Bubble Compactification of KSBA Moduli Space of Surfaces of General Type",
-      "abstract": "We construct a bubble-tree enhancement of the KSBA moduli space of surfaces of general type using index-one-cover Deligne--Mumford stacks. The construction is inspired by bubbling phenomena for Kähler--Einstein metrics. Non-klt semi-log-canonical singularities are replaced by admissible simple-normal-crossing configurations: the cusp and degenerate-cusp components are rational, while the simple-elliptic case also contains elliptic ruled components. A key feature is that the construction avoids lci covers. We construct the moduli stack of polarized bubble-tree index-one-cover Deligne-Mumford stacks. The stack is in general not separated, and we construct its underlying separated algebraic space. We also construct the moduli stack of bubble-tree index-one-cover Deligne-Mumford stacks with labeled sections that record algebraic bubbling centers and compare it with the pointed metric bubble tree. The labeled sections determine a numerical class whose stability proves the separatedness of the moduli stack. We establish a perfect obstruction theory and a virtual fundamental class on the bubble-tree moduli stacks. This provides a novel and geometric pathway to prove the existence of a virtual fundamental class on the original KSBA moduli space, thus offering a new approach to a conjecture of Donaldson. We expect that parts of the construction extend to higher dimensions.",
-      "authors": [
-        "Yunfeng Jiang"
-      ],
-      "published": "2026-11-03",
-      "updated": "2026-11-03",
       "categories": [
         "math.AG"
       ]
