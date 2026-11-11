@@ -1,11 +1,121 @@
 {
   "version": "1.3",
-  "generated_at": "2026-11-10T19:46:08.438720+00:00",
+  "generated_at": "2026-11-11T19:37:56.066140+00:00",
   "period": {
-    "start": "2026-11-04",
-    "end": "2026-11-10"
+    "start": "2026-11-05",
+    "end": "2026-11-11"
   },
   "papers": [
+    {
+      "id": "2611.14453",
+      "url": "https://arxiv.org/abs/2611.14453",
+      "title": "Shifted Lagrangian structures and syzygies on Calabi--Yau varieties",
+      "abstract": "In \\cite{FMR25}, Fantechi--Miró-Roig show how to construct new Lagrangian subspaces of the moduli of simple perfect sheaves on a K3 surface from a given one. We reinterpret their construction using the tools and flexibility of derived algebraic geometry. This allows us to generalize from K3 surfaces to (possibly singular) Calabi--Yau schemes of arbitrary dimensions.",
+      "authors": [
+        "Enrico Lampetti",
+        "Luca Morstabilini"
+      ],
+      "published": "2026-11-10",
+      "updated": "2026-11-10",
+      "categories": [
+        "math.AG"
+      ]
+    },
+    {
+      "id": "2611.14402",
+      "url": "https://arxiv.org/abs/2611.14402",
+      "title": "Canonical Volumes of Threefolds with Positive Geometric Genus",
+      "abstract": "We prove that a complex projective threefold of general type with canonical singularities and positive geometric genus has canonical volume at least $1/30$, with strict inequality when its Euler characteristic is positive. We describe the equality cases as canonical hypersurfaces of degree $28$ in $\\mathbb P(1,3,4,5,14)$. These canonical models and their smooth projective resolutions are simply connected. Their coarse moduli space is irreducible and rational of dimension $103$, with finite quotient singularities; all admissible $\\mathbb Q$-Gorenstein deformations are unobstructed and arise by varying the equation.",
+      "authors": [
+        "Pinxian Bie",
+        "Peien Du",
+        "Zhengjie Yu"
+      ],
+      "published": "2026-11-10",
+      "updated": "2026-11-10",
+      "categories": [
+        "math.AG"
+      ]
+    },
+    {
+      "id": "2611.14294",
+      "url": "https://arxiv.org/abs/2611.14294",
+      "title": "Irrationality and Noether--Lefschetz loci in the moduli space of K3 surfaces",
+      "abstract": "The goal of this paper is twofold. First, we construct examples of families of surfaces where the locus of points in the base with constant degree of irrationality is not constructible. Second, we explore the notion of gonality loci in the moduli space of K3 surfaces, which are characterized by the existence of a smooth curve with fixed gonality. Among various results, we prove that polarized gonality loci are always unions of Noether--Lefschetz divisors.",
+      "authors": [
+        "Dori Bejleri",
+        "Nathan Chen",
+        "Benjamin Church",
+        "Kristin DeVleming"
+      ],
+      "published": "2026-11-10",
+      "updated": "2026-11-10",
+      "categories": [
+        "math.AG"
+      ]
+    },
+    {
+      "id": "2611.14190",
+      "url": "https://arxiv.org/abs/2611.14190",
+      "title": "Affine Springer fibers, Cherednik algebra modules and Hilbert schemes: torus link case",
+      "abstract": "For a pair of positive integers $M,N$ with GCD $d$, we relate the bigraded $S_N\\times S_d$-Frobenius characters of the homology of the positive part of a homogeneous affine Springer fiber for $\\mathrm{GL}_N$ of slope $M/N$ to a direct sum of the associated graded of minimal supported modules of type $A_{N-1}$ rational Cherednik algebra at the same slope, and to the equivariant K-theory of a coherent sheaf on the Hilbert scheme of points on the plane. For the first object, we use the Hessenberg paving of Goresky-Kottwitz-Macpherson; for the second and third objects, we resort to an explicit Hodge module on $\\mathfrak{sl}_N$. The bridge between them is a non-coprime shuffle theorem of Kim-Oh.",
+      "authors": [
+        "Pablo Boixeda Alvarez",
+        "Thomas Hameister",
+        "Xinchun Ma"
+      ],
+      "published": "2026-11-10",
+      "updated": "2026-11-10",
+      "categories": [
+        "math.AG",
+        "math.CO"
+      ]
+    },
+    {
+      "id": "2611.14020",
+      "url": "https://arxiv.org/abs/2611.14020",
+      "title": "Hamiltonian GKM spaces via Gromov-Witten theory",
+      "abstract": "We use equivariant Gromov-Witten theory to prove the generalised symplectic Mukai inequality for Hamiltonian GKM spaces with large pseudoindex or a special vertex, including smooth Schubert varieties. We also classify all Hamiltonian GKM graphs when the pseudoindex is at least the complex dimension, obtaining a Hamiltonian GKM analogue of the classical Kobayashi-Ochiai classification of complex projective space and complex quadrics. Of independent interest are our connectivity theorem for a low-magnitude subgraph of the GKM graph (reminiscent of Campana and Kollár-Miyaoka-Mori's rational chain connectedness of Fano manifolds), and a local Mukai-type theorem that applies at each vertex. We obtain corollaries on reflexive Delzant polytopes that are purely combinatorial in nature.",
+      "authors": [
+        "Daniel Holmes"
+      ],
+      "published": "2026-11-10",
+      "updated": "2026-11-10",
+      "categories": [
+        "math.SG",
+        "math.AG"
+      ]
+    },
+    {
+      "id": "2611.13422",
+      "url": "https://arxiv.org/abs/2611.13422",
+      "title": "Gromov-Witten Nonvanishing and Symplectic Deformations of Toric Varieties",
+      "abstract": "Let $A$ be nonzero in the cohomology ring of a smooth projective toric variety $X$. In this note, we observe the existence of a nonzero Gromov-Witten invariant of the form $\\langle A, A, \\ldots\\rangle_{0, n,β}^X$ as a consequence of Iritani's work on the big quantum cohomology ring of $X$. This implies Kollár's conjecture on the symplectic deformation invariance of rational connectedness in the case where $X$ is toric. If $X$ is moreover Fano and $B$ is also nonzero in the cohomology ring, we prove the existence of a nonzero Gromov-Witten invariant of the form $\\langle A,B,*\\rangle_{0,3,β}^X$ using Batyrev's presentation of the small quantum cohomology ring of $X$. We conclude with a few consequences of this nonvanishing result.",
+      "authors": [
+        "Nathan Tausik"
+      ],
+      "published": "2026-11-10",
+      "updated": "2026-11-10",
+      "categories": [
+        "math.AG"
+      ]
+    },
+    {
+      "id": "2611.13126",
+      "url": "https://arxiv.org/abs/2611.13126",
+      "title": "Reciprocal mirror map derivatives, euler-twisted Gromov-Witten invariants, and instanton counts via quantum Serre duality",
+      "abstract": "We study mirror map derivatives as a means of relating the genus zero Gromov-Witten theories of an anticanonical Calabi-Yau hypersurface in a smooth, almost minimal Fano variety and the local Calabi-Yau formed from the total space of the Fano's canonical bundle with the euler-twisted theory of the ambient Fano. A precise relationship between reciprocal mirror map derivatives is obtained from the non-equivariant limit of quantum Serre duality for the euler-twisted theory of the ambient Fano as formulated by Iritani, Mann, & Mignon. This allows us to express the generating series of 3-point euler-twisted invariants as the derivative of the local mirror map with respect to the closed one. In low dimensions, this series is shown to be a modular form of Eisenstein type which has arisen before in this area. We prove integrality of the twisted invariants from this identification. The regularized small quantum $D$-module of the Fano is reducible, and we show it is equivalent to an inhomogeneous Picard-Fuchs equation governed by this generating series. The reciprocal mirror map derivative is then shown to be a generating function of local 3-point invariants, which recovers some known results for local Calabi-Yau threefolds and proves a conjecture of the second named author and A. Malmendier in previous work on local fourfolds. Explicit calculations for $\\mathbb{P}^2,\\mathbb{P}^3$ and $\\mathbb{P}^4$ illustrate these relationships, which includes the vanishing of positive-degree ordinary genus-zero invariants for anticanonical elliptic curves and K3 surfaces, the recovery of the quintic threefold's instanton numbers, and finally some formulas for genus-zero invariants of local projective spaces.",
+      "authors": [
+        "Irit Huq-Kuruvilla",
+        "Michael T. Schultz"
+      ],
+      "published": "2026-11-09",
+      "updated": "2026-11-09",
+      "categories": [
+        "math.AG",
+        "hep-th"
+      ]
+    },
     {
       "id": "2611.12744",
       "url": "https://arxiv.org/abs/2611.12744",
@@ -199,36 +309,6 @@
       "updated": "2026-11-05",
       "categories": [
         "math.GT",
-        "math.AG"
-      ]
-    },
-    {
-      "id": "2611.06862",
-      "url": "https://arxiv.org/abs/2611.06862",
-      "title": "Heavy-Light Wall Crossings and Motivic Asymptotics of Moduli Spaces of Curves. Part I: Stabilization Graphs and Euler Characteristics",
-      "abstract": "In this paper, we develop an explicit calculation of ordinary topological Euler characteristics of the coarse moduli spaces underlying Hassett spaces in the minimal all-light chamber and the Deligne-Mumford compactification. For genus $g\\ge2$, we organize the calculation through a decomposition indexed by stabilization graphs and their decorations. The Burnside-Lefschetz formula allows us to compute the resulting contributions, taking into account graph symmetries and their fixed loci. The calculation in genus two illustrates the method explicitly and, in the Deligne-Mumford case, recovers the generating function of G. Bini, G. Gaiffi, and M. Polito (arXiv:math/9806048), with the corrections of G. Bini and J. Harer (arXiv:math/0506083), providing a check on the construction. We also carry out the calculation in genus three in an appendix. Together with an elementary genus-one calculation based on collision partitions and rational necklaces, these formulas yield complete asymptotic expansions as the number of labeled markings tends to infinity. The passage from all-light to ordinary Euler characteristics is governed by the universal change of variables $Φ(z)=(2-z)e^z-2$, which we derive by a direct wall-crossing argument. For arbitrary fixed genus $g\\ge2$, the same framework identifies the leading contribution of rational trivalent graphs and gives the ordinary asymptotic scale $n!(e-2)^{-n}n^{(3g-5)/2}$. The leading constants are the symmetry weights of these graphs; we derive their generating function, recurrence, and large-genus behavior. We also determine the asymptotic ratio of all-light to ordinary Euler characteristics, answering a question of S. Kannan, S. Serpente, and C. H. Yun (arXiv:2207.02800).",
-      "authors": [
-        "Giordano Cotti"
-      ],
-      "published": "2026-11-04",
-      "updated": "2026-11-04",
-      "categories": [
-        "math.AG",
-        "math-ph",
-        "math.CO"
-      ]
-    },
-    {
-      "id": "2611.06014",
-      "url": "https://arxiv.org/abs/2611.06014",
-      "title": "The integral Chow rings of $\\mathcal A_3$ and $\\mathcal M_3$",
-      "abstract": "Over $\\mathbb C$, we compute the integral Chow ring of $\\mathcal A_3$, the moduli stack of principally polarized abelian threefolds. Along the way, we compute the integral Chow ring of $\\mathcal M_3$, the moduli stack of smooth genus-three curves. The ring $\\CH(\\mathcal A_3)$ is generated by the Chern classes of the Hodge bundle, along with three classes supported on the locus of decomposable abelian varieties, subject to 16 relations. The ring $\\CH(\\mathcal M_3)$ is generated by the Chern classes of the Hodge bundle, with five relations. In particular, we find that the top Chern class of the Hodge bundle, $λ_3$, has order 504 on $\\mathcal A_3$ and 252 on $\\mathcal M_3$. For $\\mathcal A_3$, this removes the factor of 4 from the bound $252\\mid\\operatorname{ord}(λ_3)\\mid 1008$ of Ekedahl and van der Geer.",
-      "authors": [
-        "Emma Bishop"
-      ],
-      "published": "2026-11-04",
-      "updated": "2026-11-04",
-      "categories": [
         "math.AG"
       ]
     }

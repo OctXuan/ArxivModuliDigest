@@ -1,6 +1,48 @@
-# arXiv 代数几何模空间周报 (2026-11-04 至 2026-11-10)
+# arXiv 代数几何模空间周报 (2026-11-05 至 2026-11-11)
 
-共找到 **14** 篇候选论文。
+共找到 **19** 篇候选论文。
+
+## [Shifted Lagrangian structures and syzygies on Calabi--Yau varieties](https://arxiv.org/abs/2611.14453)
+- **日期：** 2026-11-10  |  **相关度：** 1  |  **分类：** math.AG
+- **作者：** Enrico Lampetti, Luca Morstabilini
+- **匹配主题：** moduli
+- **概述（原摘要节选）：** In \cite{FMR25}, Fantechi--Miró-Roig show how to construct new Lagrangian subspaces of the moduli of simple perfect sheaves on a K3 surface from a given one. We reinterpret their construction using the tools and flexibility of derived algebraic geometry.
+
+## [Canonical Volumes of Threefolds with Positive Geometric Genus](https://arxiv.org/abs/2611.14402)
+- **日期：** 2026-11-10  |  **相关度：** 2  |  **分类：** math.AG
+- **作者：** Pinxian Bie, Peien Du, Zhengjie Yu
+- **匹配主题：** moduli, moduli space
+- **概述（原摘要节选）：** We prove that a complex projective threefold of general type with canonical singularities and positive geometric genus has canonical volume at least $1/30$, with strict inequality when its Euler characteristic is positive. We describe the equality cases as canonical hypersurfaces of degree $28$ in $\mathbb P(1,3,4,5,14)$.
+
+## [Irrationality and Noether--Lefschetz loci in the moduli space of K3 surfaces](https://arxiv.org/abs/2611.14294)
+- **日期：** 2026-11-10  |  **相关度：** 9  |  **分类：** math.AG
+- **作者：** Dori Bejleri, Nathan Chen, Benjamin Church, Kristin DeVleming
+- **匹配主题：** moduli, moduli space
+- **概述（原摘要节选）：** The goal of this paper is twofold. First, we construct examples of families of surfaces where the locus of points in the base with constant degree of irrationality is not constructible.
+
+## [Affine Springer fibers, Cherednik algebra modules and Hilbert schemes: torus link case](https://arxiv.org/abs/2611.14190)
+- **日期：** 2026-11-10  |  **相关度：** 6  |  **分类：** math.AG, math.CO
+- **作者：** Pablo Boixeda Alvarez, Thomas Hameister, Xinchun Ma
+- **匹配主题：** hilbert scheme, hilbert schemes
+- **概述（原摘要节选）：** For a pair of positive integers $M,N$ with GCD $d$, we relate the bigraded $S_N\times S_d$-Frobenius characters of the homology of the positive part of a homogeneous affine Springer fiber for $\mathrm{GL}_N$ of slope $M/N$ to a direct sum of the associated graded of minimal supported modules of type $A_{N-1}$ rational Cherednik algebra at the same slope, and to the equivariant K-theory of a coherent sheaf on the Hilbert scheme of points on the plane. For the first object,…
+
+## [Hamiltonian GKM spaces via Gromov-Witten theory](https://arxiv.org/abs/2611.14020)
+- **日期：** 2026-11-10  |  **相关度：** 3  |  **分类：** math.SG, math.AG
+- **作者：** Daniel Holmes
+- **匹配主题：** gromov-witten
+- **概述（原摘要节选）：** We use equivariant Gromov-Witten theory to prove the generalised symplectic Mukai inequality for Hamiltonian GKM spaces with large pseudoindex or a special vertex, including smooth Schubert varieties. We also classify all Hamiltonian GKM graphs when the pseudoindex is at least the complex dimension, obtaining a Hamiltonian GKM analogue of the classical Kobayashi-Ochiai classification of complex projective space and complex quadrics.
+
+## [Gromov-Witten Nonvanishing and Symplectic Deformations of Toric Varieties](https://arxiv.org/abs/2611.13422)
+- **日期：** 2026-11-10  |  **相关度：** 3  |  **分类：** math.AG
+- **作者：** Nathan Tausik
+- **匹配主题：** gromov-witten
+- **概述（原摘要节选）：** Let $A$ be nonzero in the cohomology ring of a smooth projective toric variety $X$. In this note, we observe the existence of a nonzero Gromov-Witten invariant of the form $\langle A, A, \ldots\rangle_{0, n,β}^X$ as a consequence of Iritani's work on the big quantum cohomology ring of $X$.
+
+## [Reciprocal mirror map derivatives, euler-twisted Gromov-Witten invariants, and instanton counts via quantum Serre duality](https://arxiv.org/abs/2611.13126)
+- **日期：** 2026-11-09  |  **相关度：** 3  |  **分类：** math.AG, hep-th
+- **作者：** Irit Huq-Kuruvilla, Michael T. Schultz
+- **匹配主题：** gromov-witten
+- **概述（原摘要节选）：** We study mirror map derivatives as a means of relating the genus zero Gromov-Witten theories of an anticanonical Calabi-Yau hypersurface in a smooth, almost minimal Fano variety and the local Calabi-Yau formed from the total space of the Fano's canonical bundle with the euler-twisted theory of the ambient Fano. A precise relationship between reciprocal mirror map derivatives is obtained from the non-equivariant limit of quantum Serre duality for the euler-twisted theory of…
 
 ## [Semiampleness of Hodge line bundles and b-semiampleness of the moduli part](https://arxiv.org/abs/2611.12744)
 - **日期：** 2026-11-09  |  **相关度：** 6  |  **分类：** math.AG
@@ -73,18 +115,6 @@
 - **作者：** Dawei Chen, Scott Mullane, Nick Salter, Guillaume Tahar
 - **匹配主题：** moduli, moduli space, moduli spaces
 - **概述（原摘要节选）：** Given a stratum $\mathcal{H}(μ)$ of meromorphic one-forms on a Riemann surface with prescribed orders of zeros and poles, the residual map assigns to each differential the collection of its residues at the poles. In this paper, we prove that the residual map is a locally trivial topological fibration over each open flat of the stratification induced by the resonance arrangement.
-
-## [Heavy-Light Wall Crossings and Motivic Asymptotics of Moduli Spaces of Curves. Part I: Stabilization Graphs and Euler Characteristics](https://arxiv.org/abs/2611.06862)
-- **日期：** 2026-11-04  |  **相关度：** 12  |  **分类：** math.AG, math-ph, math.CO
-- **作者：** Giordano Cotti
-- **匹配主题：** moduli, moduli space, moduli spaces
-- **概述（原摘要节选）：** In this paper, we develop an explicit calculation of ordinary topological Euler characteristics of the coarse moduli spaces underlying Hassett spaces in the minimal all-light chamber and the Deligne-Mumford compactification. For genus $g\ge2$, we organize the calculation through a decomposition indexed by stabilization graphs and their decorations.
-
-## [The integral Chow rings of $\mathcal A_3$ and $\mathcal M_3$](https://arxiv.org/abs/2611.06014)
-- **日期：** 2026-11-04  |  **相关度：** 2  |  **分类：** math.AG
-- **作者：** Emma Bishop
-- **匹配主题：** moduli, moduli stack
-- **概述（原摘要节选）：** Over $\mathbb C$, we compute the integral Chow ring of $\mathcal A_3$, the moduli stack of principally polarized abelian threefolds. Along the way, we compute the integral Chow ring of $\mathcal M_3$, the moduli stack of smooth genus-three curves.
 
 ---
 概述取自论文原摘要前两句，未使用生成式模型；建议点击标题查看原文及完整摘要。
