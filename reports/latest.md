@@ -1,6 +1,6 @@
-# arXiv 代数几何模空间周报 (2026-11-05 至 2026-11-11)
+# arXiv 代数几何模空间周报 (2026-11-06 至 2026-11-12)
 
-共找到 **19** 篇候选论文。
+共找到 **15** 篇候选论文。
 
 ## [Shifted Lagrangian structures and syzygies on Calabi--Yau varieties](https://arxiv.org/abs/2611.14453)
 - **日期：** 2026-11-10  |  **相关度：** 1  |  **分类：** math.AG
@@ -91,30 +91,6 @@
 - **作者：** Peter L. Guo, Mingyang Kang, Changjian Su, Rui Xiong
 - **匹配主题：** hilbert scheme
 - **概述（原摘要节选）：** We prove the Frobenius characteristic formula for the intersection of Garsia--Haiman modules predicted in the Science Fiction of Bergeron and Garsia. As a consequence, we resolve the $N!/k$ conjecture.
-
-## [Multi-monopoles and monodromy around the wobbly divisor](https://arxiv.org/abs/2611.08760)
-- **日期：** 2026-11-05  |  **相关度：** 3  |  **分类：** math.AG, math.DG
-- **作者：** Brad Wilson
-- **匹配主题：** moduli, moduli space, moduli spaces
-- **概述（原摘要节选）：** The multi-monopole equations are a generalisation of the Seiberg--Witten equations where the spinor is coupled to an auxiliary vector bundle. The signed count of multi-monopoles on a 3-manifold can vary according to a new type of wall-crossing phenomenon.
-
-## [Kappa Classes on the KSBA Space of Stable Toric Pairs](https://arxiv.org/abs/2611.08337)
-- **日期：** 2026-11-05  |  **相关度：** 2  |  **分类：** math.AG
-- **作者：** Byeol Han
-- **匹配主题：** moduli, moduli space
-- **概述（原摘要节选）：** We study kappa classes on the normalization of the main component of the Kollár--Shepherd-Barron--Alexeev(KSBA) moduli space of stable toric pairs. Using a toric model obtained by a lattice modification, we compute all kappa classes on the moduli space by giving a combinatorial formula for their intersection numbers with all torus-invariant cycles.
-
-## [The Chow ring of a wonderful compactification](https://arxiv.org/abs/2611.07507)
-- **日期：** 2026-11-05  |  **相关度：** 2  |  **分类：** math.AG
-- **作者：** Patricio Gallardo, Javier González-Anaya, José Luis González
-- **匹配主题：** moduli, moduli space
-- **概述（原摘要节选）：** The theory of wonderful compactifications provides a common framework encompassing the constructions of important varieties such as the Fulton-MacPherson configuration spaces, the moduli space of $n$-pointed stable rational curves, and the De Concini-Procesi models of subspace arrangements, and, more generally, of smooth compactifications in which the subvarieties in a building set are replaced by a simple normal crossings boundary divisor. We give a presentation of the…
-
-## [The residual map as a stratified fibration over the resonance arrangement](https://arxiv.org/abs/2611.07499)
-- **日期：** 2026-11-05  |  **相关度：** 3  |  **分类：** math.GT, math.AG
-- **作者：** Dawei Chen, Scott Mullane, Nick Salter, Guillaume Tahar
-- **匹配主题：** moduli, moduli space, moduli spaces
-- **概述（原摘要节选）：** Given a stratum $\mathcal{H}(μ)$ of meromorphic one-forms on a Riemann surface with prescribed orders of zeros and poles, the residual map assigns to each differential the collection of its residues at the poles. In this paper, we prove that the residual map is a locally trivial topological fibration over each open flat of the stratification induced by the resonance arrangement.
 
 ---
 概述取自论文原摘要前两句，未使用生成式模型；建议点击标题查看原文及完整摘要。

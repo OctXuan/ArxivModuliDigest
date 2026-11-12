@@ -1,9 +1,9 @@
 {
   "version": "1.3",
-  "generated_at": "2026-11-11T19:37:56.066140+00:00",
+  "generated_at": "2026-11-12T19:56:09.436252+00:00",
   "period": {
-    "start": "2026-11-05",
-    "end": "2026-11-11"
+    "start": "2026-11-06",
+    "end": "2026-11-12"
   },
   "papers": [
     {
@@ -246,69 +246,6 @@
       "updated": "2026-11-06",
       "categories": [
         "math.CO",
-        "math.AG"
-      ]
-    },
-    {
-      "id": "2611.08760",
-      "url": "https://arxiv.org/abs/2611.08760",
-      "title": "Multi-monopoles and monodromy around the wobbly divisor",
-      "abstract": "The multi-monopole equations are a generalisation of the Seiberg--Witten equations where the spinor is coupled to an auxiliary vector bundle. The signed count of multi-monopoles on a 3-manifold can vary according to a new type of wall-crossing phenomenon. For products $S^1\\times C$, where $C$ is a closed Riemann surface, we relate the wall and chamber structure to loops in the complement of the wobbly divisor of $C$. Such a loop induces a monodromy map on the multi-vortex moduli space, and the count of its fixed points is expected to agree with the count of multi-monopoles on $S^1\\times C$ in the given chamber. By studying singularities of framed multi-vortex moduli spaces, we are able to understand these monodromy maps for various loops. Counting fixed points suggests that product 3-manifolds display incredibly rich wall-crossing behaviour.",
-      "authors": [
-        "Brad Wilson"
-      ],
-      "published": "2026-11-05",
-      "updated": "2026-11-05",
-      "categories": [
-        "math.AG",
-        "math.DG"
-      ]
-    },
-    {
-      "id": "2611.08337",
-      "url": "https://arxiv.org/abs/2611.08337",
-      "title": "Kappa Classes on the KSBA Space of Stable Toric Pairs",
-      "abstract": "We study kappa classes on the normalization of the main component of the Kollár--Shepherd-Barron--Alexeev(KSBA) moduli space of stable toric pairs. Using a toric model obtained by a lattice modification, we compute all kappa classes on the moduli space by giving a combinatorial formula for their intersection numbers with all torus-invariant cycles. In particular, we identify the first normalized kappa class with the GKZ polarization of the toric variety corresponding to the secondary polytope. For interval configurations, we also obtain a closed formula for all top intersection products of normalized kappa classes.",
-      "authors": [
-        "Byeol Han"
-      ],
-      "published": "2026-11-05",
-      "updated": "2026-11-05",
-      "categories": [
-        "math.AG"
-      ]
-    },
-    {
-      "id": "2611.07507",
-      "url": "https://arxiv.org/abs/2611.07507",
-      "title": "The Chow ring of a wonderful compactification",
-      "abstract": "The theory of wonderful compactifications provides a common framework encompassing the constructions of important varieties such as the Fulton-MacPherson configuration spaces, the moduli space of $n$-pointed stable rational curves, and the De Concini-Procesi models of subspace arrangements, and, more generally, of smooth compactifications in which the subvarieties in a building set are replaced by a simple normal crossings boundary divisor. We give a presentation of the Chow ring of a wonderful compactification, assuming only that the Chow ring of the ambient variety surjects onto that of each subvariety in the induced arrangement. Our results recover and extend many previously known presentations and apply to a broad range of new examples.",
-      "authors": [
-        "Patricio Gallardo",
-        "Javier González-Anaya",
-        "José Luis González"
-      ],
-      "published": "2026-11-05",
-      "updated": "2026-11-05",
-      "categories": [
-        "math.AG"
-      ]
-    },
-    {
-      "id": "2611.07499",
-      "url": "https://arxiv.org/abs/2611.07499",
-      "title": "The residual map as a stratified fibration over the resonance arrangement",
-      "abstract": "Given a stratum $\\mathcal{H}(μ)$ of meromorphic one-forms on a Riemann surface with prescribed orders of zeros and poles, the residual map assigns to each differential the collection of its residues at the poles. In this paper, we prove that the residual map is a locally trivial topological fibration over each open flat of the stratification induced by the resonance arrangement. To give an algebro-geometric proof of this result, we introduce a refined compactification of the projectivized stratum $\\mathbb{P}\\mathcal{H}(μ)$, namely the moduli space of residue-aligned multi-scale differentials $\\operatorname{RAMS}(μ)$. We prove that the projectivized residual map extends to $\\operatorname{RAMS}(μ)$ as a stratified fibration over the projectivized resonance arrangement, thereby yielding a resolution of the projectivized residual map. This approach naturally extends to the analogue of the residual map for strata of $k$-differentials. Complementing the algebro-geometric approach, we also develop a flat-geometric point of view. In genus zero, each isoresidual fiber carries a canonical higher-dimensional analogue of a translation structure. These fibers admit a metric completion whose boundary has a modular interpretation in terms of the WYSIWYG compactification, for which we provide explicit local models. Isoresidual fibers admit a polyhedral cell decomposition whose geometry varies linearly with the underlying configuration of residues in period coordinates. Degenerations of these cells occur precisely when resonance conditions are satisfied, providing a geometric proof that the residual map is a stratified fibration. Finally, certain isoresidual fibers admit natural interpretations as Hurwitz spaces of branched covers, yielding unexpected homeomorphisms between moduli spaces of covers with prescribed ramification profiles.",
-      "authors": [
-        "Dawei Chen",
-        "Scott Mullane",
-        "Nick Salter",
-        "Guillaume Tahar"
-      ],
-      "published": "2026-11-05",
-      "updated": "2026-11-05",
-      "categories": [
-        "math.GT",
         "math.AG"
       ]
     }
