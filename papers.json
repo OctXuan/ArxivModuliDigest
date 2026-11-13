@@ -1,11 +1,149 @@
 {
   "version": "1.3",
-  "generated_at": "2026-11-12T19:56:09.436252+00:00",
+  "generated_at": "2026-11-13T19:44:38.579400+00:00",
   "period": {
-    "start": "2026-11-06",
-    "end": "2026-11-12"
+    "start": "2026-11-07",
+    "end": "2026-11-13"
   },
   "papers": [
+    {
+      "id": "2611.17149",
+      "url": "https://arxiv.org/abs/2611.17149",
+      "title": "K3 tails in the KSBA moduli of Kunev surfaces",
+      "abstract": "In the context of compact moduli spaces of Kollár, Shepherd-Barron, and Alexeev stable surfaces, a degeneration can acquire an exceptional K3 component in the limit, or more simply a K3 tail. We study this phenomenon for Kunev surfaces: minimal surfaces of general type with $K^2=p_g=1$ that arise as $(\\mathbb{Z}/2\\mathbb{Z})^2$-covers of the projective plane branched along two general cubics and a line. We classify the K3 tails that occur when the branch curve degenerates to a singular curve with a non-log canonical isolated semi-quasihomogeneous singularity, and describe the corresponding boundary strata. This builds on the Kerr-Laza classification of K3 tails arising from isolated semi-quasihomogeneous hypersurface singularities.",
+      "authors": [
+        "Yongnam Lee",
+        "Elisa Scattone",
+        "Luca Schaffler"
+      ],
+      "published": "2026-11-12",
+      "updated": "2026-11-12",
+      "categories": [
+        "math.AG"
+      ]
+    },
+    {
+      "id": "2611.17120",
+      "url": "https://arxiv.org/abs/2611.17120",
+      "title": "Equidistribution of curves in hypersurfaces of low degree",
+      "abstract": "We prove that over $\\mathbb{C}$, for any smooth projective curve $\\mathscr{C}$ and any smooth hypersurface $V \\subset \\mathbb{P}^n$ of degree $d$ such that $n \\geq 2^d(d-1)$, Faisant's equidistribution principle holds for $(\\mathscr{C},V)$. In other words, for any reasonable set of jet conditions $W$, the moduli space $\\mathrm{Hom}^e(\\mathscr{C},V|W)$ of degree $e$ maps $\\mathscr{C} \\to V$ satisfying conditions $W$ converges in the Grothendieck ring of complex varieties, after renormalisation, as $e \\to \\infty$. This provides the dimension and decomposition into irreducible components of $\\mathrm{Hom}^e(\\mathscr{C},V|W)$ for $e$ large enough. The strategy follows Bilu and Browning's motivic version of the circle method, and Hase-Liu's framework for genus $\\geq 1$.",
+      "authors": [
+        "Ariane Burel"
+      ],
+      "published": "2026-11-12",
+      "updated": "2026-11-12",
+      "categories": [
+        "math.AG"
+      ]
+    },
+    {
+      "id": "2611.16784",
+      "url": "https://arxiv.org/abs/2611.16784",
+      "title": "Intrinsic reduction data and the loci related to indeterminacy of iterate maps for rational functions",
+      "abstract": "Let $k$ be an algebraically closed field of not necessarily characteristic $0$, and $d,n$ be integers $\\ge 2$. We first formulate the dynamical moduli spaces of rational functions defined over $k$ in terms of the intrinsic reduction data of non-archimedean rational functions. As an application, we show that the locus $C_{d,n}$ of semistable intrinsic reduction data in degree $d$ whose $n$th iteration is defined and unstable is of codimension $d$ in the intrinsic reduction data space of degree $d$, settling a conjecture of Kiwi and Nie, and show that the image of $C_{d,n}$ in the compactified dynamical moduli $\\overline{\\mathrm{M}}_{d,k}$ is of dimension $\\le d-2$ and the equality holds precisely either if $d$ is even or if $d\\ge 5$ is odd and $(4/d)^n<1/(d-3)$ and determine the dimensions even for all the five exceptional pairs $(d,n)$, in addition describing the images of $C_{3,n}$ themselves. We also determine the indeterminacy of iterate maps either on the intrinsic reduction data spaces or on the compactified dynamical moduli spaces.",
+      "authors": [
+        "Yûsuke Okuyama"
+      ],
+      "published": "2026-11-12",
+      "updated": "2026-11-12",
+      "categories": [
+        "math.AG",
+        "math.CV",
+        "math.DS"
+      ]
+    },
+    {
+      "id": "2611.16768",
+      "url": "https://arxiv.org/abs/2611.16768",
+      "title": "Integrals over Hilbert schemes and multiple $q$-zeta values",
+      "abstract": "We establish a version of Okounkov's conjecture on multiple $q$-zeta values arising from integrals over Hilbert schemes of points on smooth projective surfaces. We prove that normalized generating series of integrals involving products of Chern characters of tautological bundles belong to the algebra $\\mathcal Z_q$ of multiple $q$-zeta values, without restrictions on the canonical class of the surface. The proof combines vertex-operator methods with a reduction to graph sums, whose arithmetic structure is governed by the cohomology of the surface. We also derive a closed universal formula for the Chern character operators acting on the cohomology of Hilbert schemes by solving a system of differential equations arising from Lehn's commutator relations.",
+      "authors": [
+        "Sergey Mozgovoy"
+      ],
+      "published": "2026-11-12",
+      "updated": "2026-11-12",
+      "categories": [
+        "math.AG",
+        "math.QA"
+      ]
+    },
+    {
+      "id": "2611.16593",
+      "url": "https://arxiv.org/abs/2611.16593",
+      "title": "A locally complete family of Kummer type hyperkähler fourfolds",
+      "abstract": "We construct a 4-dimensional family of projective hyperkähler fourfolds of Kummer type. A general member of this family can be described as an irreducible component of a complete intersection of Heisenberg-invariant cubics in an 8-dimensional projective space. Several properties of the corresponding moduli space are also obtained. Our arguments rely on specializing to the case of generalized Kummer fourfolds of genus-two Jacobians, and make use of classical results dating back to Burkhardt and Coble.",
+      "authors": [
+        "Franco Giovenzana",
+        "Andrés Rojas",
+        "Jieao Song"
+      ],
+      "published": "2026-11-12",
+      "updated": "2026-11-12",
+      "categories": [
+        "math.AG"
+      ]
+    },
+    {
+      "id": "2611.16449",
+      "url": "https://arxiv.org/abs/2611.16449",
+      "title": "A sharp bound for the $a$-number of a cyclic cover of $\\mathbb{P}^1$",
+      "abstract": "Let $X$ be a smooth projective curve of genus $g$ over an algebraically closed field $k$ of characteristic $p>2$. We give upper bounds for the $a$-number $a(X)$ when $X$ is hyperelliptic or, more generally, a tame cyclic cover of the projective line. For hyperelliptic curves, writing $g=pm+r$ with $0\\le r<p$ and $n=(p-1)/2$, we prove the sharp bound $a(X)\\le nm+\\min\\{n,r\\}$. For tame cyclic covers, we refine previously known upper bounds and give curves attaining the resulting bound in infinitely many genera in characteristics $3$ and $5$. The proofs combine an alternating pairing on the bundle of locally exact differentials, originally due to Raynaud, with an explicit polynomial description of the Cartier operator. We also produce an explicit locus of hyperelliptic curves $X$ with $a(X)\\ge a_g$, where $\\frac{a_g}{g}$ converges to $\\frac{p-1}{2p}$ as $g$ goes to $\\infty$, whose dimension grows linearly with the genus $g$. These families exhibit excess intersections of the Torelli locus with loci of large $a$-number in the moduli space of principally polarized abelian varieties.",
+      "authors": [
+        "Shiva Chidambaram"
+      ],
+      "published": "2026-11-12",
+      "updated": "2026-11-12",
+      "categories": [
+        "math.NT",
+        "math.AG"
+      ]
+    },
+    {
+      "id": "2611.16036",
+      "url": "https://arxiv.org/abs/2611.16036",
+      "title": "Tautological generation of preprojective BPS cohomology",
+      "abstract": "Let $Q$ be a quiver and let $\\mathbf{d}$ be a dimension vector. We prove that the affinized BPS cohomology of the stack of $\\mathbf{d}$-dimensional representations of the preprojective algebra $Π_Q$ is generated by its reduced virtual fundamental class under the action of tautological classes. This is a generalisation to singular quiver varieties of the Kirwan surjectivity statement of McGerty-Nevins for smooth framed quiver varieties. We prove that the statement holds for every King stability condition. To prove this, we attach legs to vertices of $Q$ and construct a correspondence with a smooth quiver variety for the extended quiver. This correspondence sends the reduced virtual fundamental class of the singular preprojective quiver stack to the Vandermonde determinant capped with the fundamental class of the smooth preprojective quiver stack for the leg-extended quiver. We construct the Weyl group action by the simultaneous Springer resolution of Dobrovolska-Ginzburg-Travkin, providing a comparison of the cohomology of fibres. This comparison preserves the tautological Chern classes. The sign-isotypic formula involving Kac polynomials of Hausel-Letellier-Rodriguez-Villegas, combined with Kirwan surjectivity for smooth framed quiver varieties of McGerty-Nevins, then implies the tautological generation theorem. We also describe the sign isotypic component of the cohomology of quiver varieties using the real-root subalgebras of the BPS Lie algebra. The tautological generation result can be extended via similar methods to deformed preprojective algebras of Crawley-Boevey-Holland at central parameters.",
+      "authors": [
+        "Ben Davison",
+        "Lucien Hennecart"
+      ],
+      "published": "2026-11-11",
+      "updated": "2026-11-11",
+      "categories": [
+        "math.RT",
+        "math.AG"
+      ]
+    },
+    {
+      "id": "2611.15908",
+      "url": "https://arxiv.org/abs/2611.15908",
+      "title": "Some families of birational cubic and Verra fourfolds",
+      "abstract": "We study the birational relationship between cubic fourfolds and Verra fourfolds, which are double covers of the product of two projective planes. We show that in?nitely many divisors in the moduli space of cubic fourfolds containing a plane parametrize cubic fourfolds birational to Verra fourfolds. Our approach relies on the geometry of quadric surface bundles and their associated K3 surfaces, together with the study of Brauer classes. We also investigate two particularly interesting families, providing explicit geometric descriptions and equations for the associated varieties. In one case, the cubic fourfolds have two planes and the two projections from these planes directly show the existence of birational isomorphisms with Verra fourfolds.",
+      "authors": [
+        "Federica Galluzzi",
+        "Bert Van Geemen"
+      ],
+      "published": "2026-11-11",
+      "updated": "2026-11-11",
+      "categories": [
+        "math.AG"
+      ]
+    },
+    {
+      "id": "2611.15330",
+      "url": "https://arxiv.org/abs/2611.15330",
+      "title": "K-stable Fano varieties can have obstructed deformations",
+      "abstract": "We exhibit examples of K-stable Fano varieties with obstructed qG-deformations; more precisely, their miniversal qG-deformation spaces can be non-reduced. As a consequence, we show that both the K-moduli stack and the K-moduli space can be non-reduced, and hence non-smooth, at points corresponding to K-stable Fano varieties.",
+      "authors": [
+        "Andrea Petracci",
+        "Alice Villa"
+      ],
+      "published": "2026-11-11",
+      "updated": "2026-11-11",
+      "categories": [
+        "math.AG"
+      ]
+    },
     {
       "id": "2611.14453",
       "url": "https://arxiv.org/abs/2611.14453",
@@ -228,24 +366,6 @@
       "published": "2026-11-07",
       "updated": "2026-11-07",
       "categories": [
-        "math.AG"
-      ]
-    },
-    {
-      "id": "2611.09638",
-      "url": "https://arxiv.org/abs/2611.09638",
-      "title": "Macdonald intersections and the $N!/k$ conjecture",
-      "abstract": "We prove the Frobenius characteristic formula for the intersection of Garsia--Haiman modules predicted in the Science Fiction of Bergeron and Garsia. As a consequence, we resolve the $N!/k$ conjecture. The proof uses the geometry of the Hilbert scheme of points on the plane developed by Haiman.",
-      "authors": [
-        "Peter L. Guo",
-        "Mingyang Kang",
-        "Changjian Su",
-        "Rui Xiong"
-      ],
-      "published": "2026-11-06",
-      "updated": "2026-11-06",
-      "categories": [
-        "math.CO",
         "math.AG"
       ]
     }
