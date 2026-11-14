@@ -1,9 +1,9 @@
 {
   "version": "1.3",
-  "generated_at": "2026-11-13T19:44:38.579400+00:00",
+  "generated_at": "2026-11-14T18:04:40.224166+00:00",
   "period": {
-    "start": "2026-11-07",
-    "end": "2026-11-13"
+    "start": "2026-11-08",
+    "end": "2026-11-14"
   },
   "papers": [
     {
@@ -318,55 +318,6 @@
       "categories": [
         "math.AG",
         "math.DG"
-      ]
-    },
-    {
-      "id": "2611.10879",
-      "url": "https://arxiv.org/abs/2611.10879",
-      "title": "The moduli stack of affine bundles with fixed linearisation type",
-      "abstract": "The goal of this article is the classification of affine bundles with fixed linearisation type over a compact complex manifold $X$. More precisely, let $E$ be a fixed holomorphic vector bundle over $X$ and $\\mathcal{E}$ the associated locally free sheaf. We will assume that there exists an effective divisor $D$ on $X$ such that $H^1(X,\\mathcal{E}(D))=0$. This condition is always satisfied when $X$ is a projective complex manifold. We define in a natural way the moduli stack of affine bundles on $X$ whose linearisation is isomorphic to $E$, and we prove that this moduli stack is isomorphic to the quotient stack $\\big[H^0(X,\\mathcal{E}(D)_D)/H^0(X,\\mathcal{E}(D))\\ltimes \\mathrm{Aut}(E)\\big]$ of the complex vector space $H^0(X,\\mathcal{E}(D)_D)$ by the semi-direct product of the automorphism group $\\mathrm{Aut}(E)$ (which is always an affine algebraic group) by the complex vector space $H^0(X,{\\cal E}(D))$. Our isomorphism is obtained by constructing explicitly comparison functors $\\mathscr{A}$, $\\mathscr{T}$ between the two stacks and explicit natural isomorphisms $\\mathscr{A}\\circ\\mathscr{T}\\stackrel{\\simeq}{\\longrightarrow} \\mathrm{id}$, $\\mathrm{id} \\stackrel{\\simeq}{\\longrightarrow}\\mathscr{T}\\circ\\mathscr{A}$.",
-      "authors": [
-        "Naoufal Bouchareb",
-        "Andrei Teleman"
-      ],
-      "published": "2026-11-07",
-      "updated": "2026-11-07",
-      "categories": [
-        "math.AG",
-        "math.CV"
-      ]
-    },
-    {
-      "id": "2611.10426",
-      "url": "https://arxiv.org/abs/2611.10426",
-      "title": "Extendability of general prime $K3$ surfaces without Gaussian maps and classification of prime Fano threefolds",
-      "abstract": "In arXiv:2409.03960 an approach to the question of extendability of projective varieties via degeneration to ribbons was introduced, and in arXiv:2503.12661 it was used to give a new proof of optimal results on the extendability of general non-prime $K3$ surfaces and the classification of non-prime Fano threefolds. In this article we treat the prime case. We give a new proof of the optimal results on the extendability of general prime $K3$ surfaces of every genus, of the classification of prime Fano threefolds of Picard rank one due to Fano, Iskovskikh and Mukai, and of the irreducibility of their Hilbert schemes. This involves degenerations of $K3$ surfaces to ribbons on embedded rational normal scrolls, called $K3$ carpets. We compute exactly the cohomology of the twisted normal bundle of these $K3$ carpets, instead of computing coranks of Gaussian maps of the canonical curve sections. The key challenge is to analyze the coboundary map of the sequence relating the normal bundle of the $K3$ carpet to the normal bundle of the scroll. We give a deformation theoretic interpretation of this map. Given such a $K3$ carpet and its hyperplane section, which is a canonical ribbon, we show that the coboundary map corresponds to the obstruction to lifting a first order deformation of the underlying scroll fixing the underlying rational normal curve to a first order deformation of the $K3$ carpet fixing the canonical ribbon. To compute the obstruction, we use a result on extensions of non-split ribbons on any curve to a unique $K$-trivial carpet in a canonical way.",
-      "authors": [
-        "Jayan Mukherjee",
-        "with an appendix written jointly with Anand Deopurkar"
-      ],
-      "published": "2026-11-07",
-      "updated": "2026-11-07",
-      "categories": [
-        "math.AG"
-      ]
-    },
-    {
-      "id": "2611.10415",
-      "url": "https://arxiv.org/abs/2611.10415",
-      "title": "Birational Geometry of K-Moduli Spaces of Genus Four Curves",
-      "abstract": "We study the wall-crossings for K-moduli spaces of (3,3)-curves on $\\mathbb{P}^1\\times\\mathbb{P}^1$. Together with the boundary polarized Calabi--Yau moduli space, these spaces interpolate between the GIT moduli space of (3,3)-curves and the Baily--Borel compactification of the moduli space of K3 surfaces arising as cyclic triple covers of $\\mathbb{P}^1\\times\\mathbb{P}^1$ branched along such curves. As applications, we describe the corresponding birational models in the Hassett--Keel--Looijenga program and realize the K-moduli space of degree one del Pezzo surfaces through explicit wall-crossings.",
-      "authors": [
-        "Kenneth Ascher",
-        "Kristin DeVleming",
-        "Hongyu Luo",
-        "Yuchen Liu",
-        "Junyan Zhao"
-      ],
-      "published": "2026-11-07",
-      "updated": "2026-11-07",
-      "categories": [
-        "math.AG"
       ]
     }
   ]
