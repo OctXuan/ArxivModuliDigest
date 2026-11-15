@@ -1,6 +1,6 @@
-# arXiv 代数几何模空间周报 (2026-11-08 至 2026-11-14)
+# arXiv 代数几何模空间周报 (2026-11-09 至 2026-11-15)
 
-共找到 **20** 篇候选论文。
+共找到 **18** 篇候选论文。
 
 ## [K3 tails in the KSBA moduli of Kunev surfaces](https://arxiv.org/abs/2611.17149)
 - **日期：** 2026-11-12  |  **相关度：** 8  |  **分类：** math.AG
@@ -109,18 +109,6 @@
 - **作者：** Renzo Cavalieri, David Klompenhouwer, Paolo Rossi
 - **匹配主题：** moduli, moduli space, moduli spaces
 - **概述（原摘要节选）：** We effectively compute all intersection numbers of the form $λ_gψ^d$ on moduli spaces of genus $g$ admissible covers with one point of full ramification and two additional branch points with arbitrary profile. We encode these invariants in appropriate generating functions, which we relate to the Hamiltonians of the KdV hierarchy.
-
-## [On sinks and mirrors](https://arxiv.org/abs/2611.11660)
-- **日期：** 2026-11-08  |  **相关度：** 1  |  **分类：** math.SG, math.AG, math.CO, math.RT
-- **作者：** Mingyuan Hu, Vivek Shende
-- **匹配主题：** moduli
-- **概述（原摘要节选）：** Given a full rank sink recurrent cluster $\mathcal{A}$ variety, we prove that its wrapped Fukaya category is equivalent to the category of coherent sheaves on a stacky elaboration of the dual Fock-Goncharov cluster $\mathcal{X}$ variety. In particular, braid varieties for a semisimple group are mirror to the braid varieties for the Langlands dual group.
-
-## [Classification of 3-dimensional complex nilmanifolds - Teichmüller and moduli spaces](https://arxiv.org/abs/2611.11407)
-- **日期：** 2026-11-08  |  **相关度：** 12  |  **分类：** math.AG, math.DG
-- **作者：** Konstantin Wehler
-- **匹配主题：** moduli, moduli space, moduli spaces
-- **概述（原摘要节选）：** We classify complex nilmanifolds of dimension three by describing the Teichmüller and moduli spaces of left-invariant complex structures for every real six-dimensional nilmanifold.
 
 ---
 概述取自论文原摘要前两句，未使用生成式模型；建议点击标题查看原文及完整摘要。

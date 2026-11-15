@@ -1,9 +1,9 @@
 {
   "version": "1.3",
-  "generated_at": "2026-11-14T18:04:40.224166+00:00",
+  "generated_at": "2026-11-15T18:52:59.337433+00:00",
   "period": {
-    "start": "2026-11-08",
-    "end": "2026-11-14"
+    "start": "2026-11-09",
+    "end": "2026-11-15"
   },
   "papers": [
     {
@@ -285,39 +285,6 @@
       "categories": [
         "math.AG",
         "math-ph"
-      ]
-    },
-    {
-      "id": "2611.11660",
-      "url": "https://arxiv.org/abs/2611.11660",
-      "title": "On sinks and mirrors",
-      "abstract": "Given a full rank sink recurrent cluster $\\mathcal{A}$ variety, we prove that its wrapped Fukaya category is equivalent to the category of coherent sheaves on a stacky elaboration of the dual Fock-Goncharov cluster $\\mathcal{X}$ variety. In particular, braid varieties for a semisimple group are mirror to the braid varieties for the Langlands dual group. Another example: for compact surfaces with no interior marked points, a least one marked point on each boundary component, and at least two marked points in total, the Fock-Goncharov moduli for SL(2) and PGL(2) are homologically mirror. The results were obtained in communion with ChatGPT Astra.",
-      "authors": [
-        "Mingyuan Hu",
-        "Vivek Shende"
-      ],
-      "published": "2026-11-08",
-      "updated": "2026-11-08",
-      "categories": [
-        "math.SG",
-        "math.AG",
-        "math.CO",
-        "math.RT"
-      ]
-    },
-    {
-      "id": "2611.11407",
-      "url": "https://arxiv.org/abs/2611.11407",
-      "title": "Classification of 3-dimensional complex nilmanifolds - Teichmüller and moduli spaces",
-      "abstract": "We classify complex nilmanifolds of dimension three by describing the Teichmüller and moduli spaces of left-invariant complex structures for every real six-dimensional nilmanifold.",
-      "authors": [
-        "Konstantin Wehler"
-      ],
-      "published": "2026-11-08",
-      "updated": "2026-11-08",
-      "categories": [
-        "math.AG",
-        "math.DG"
       ]
     }
   ]
