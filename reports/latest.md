@@ -1,6 +1,30 @@
-# arXiv 代数几何模空间周报 (2026-11-09 至 2026-11-15)
+# arXiv 代数几何模空间周报 (2026-11-10 至 2026-11-16)
 
-共找到 **18** 篇候选论文。
+共找到 **19** 篇候选论文。
+
+## [On the pure part of the cohomology of character varieties](https://arxiv.org/abs/2611.18560)
+- **日期：** 2026-11-13  |  **相关度：** 1  |  **分类：** math.AG, math.RT
+- **作者：** Olivier Schiffmann, Eric Vasserot
+- **匹配主题：** quiver variety
+- **概述（原摘要节选）：** We prove the purity conjecture of Hausel and Rodriguez-Villegas relating the graded dimension of the pure part of the cohomology of the twisted character variety $M^B(r,d)$ of $GL(r)$ of genus $g$ with the cohomology of a suitable quiver variety associated to the quiver $S_g$ with one vertex and $g$ loops. In particular, this provides an explicit formula for the pure part of the mixed Hodge polynomial of $M^B(r,d)$ in terms of the Kac polynomial $A_{S_g,r}(q)$.
+
+## [The Moduli of Canonical Threefolds of Minimum Volume](https://arxiv.org/abs/2611.18357)
+- **日期：** 2026-11-13  |  **相关度：** 7  |  **分类：** math.AG
+- **作者：** Pinxian Bie, Peien Du, Zhengjie Yu
+- **匹配主题：** moduli, moduli space
+- **概述（原摘要节选）：** We determine the moduli space of complex projective canonical threefolds of volume $1/420$. It consists of an irreducible rational component of dimension $33$ and two isolated points, represented by the explicitly constructed rigid threefolds Vega and Altair.
+
+## [Global generation of coinvariant vector bundles on $\overline{\mathrm{M}}_{0,n}$](https://arxiv.org/abs/2611.17734)
+- **日期：** 2026-11-13  |  **相关度：** 2  |  **分类：** math.AG, math.QA
+- **作者：** Avik Chakravarty, Jianqi Liu
+- **匹配主题：** moduli, moduli space
+- **概述（原摘要节选）：** Using fusion closed-ness and strong generation properties, we identify collections of modules over vertex operator algebras (VOAs) whose induced vector bundles of coinvariants on the moduli space $\overline{\mathrm M}_{0,n}$ of stable $n$-pointed curves of genus zero are globally generated. These results specialize to \cite{Fak12} for affine VOAs at positive integer levels, and of \cite{DG23} for strongly rational VOAs that are generated in degree 1.
+
+## [A new tautological relation on $\overline{\mathcal{M}}_{2,14}$ in cohomology](https://arxiv.org/abs/2611.17536)
+- **日期：** 2026-11-12  |  **相关度：** 3  |  **分类：** math.AG
+- **作者：** Samir Canning, Bochao Kong, Rahul Pandharipande, Dan Petersen, Aaron Pixton et al.
+- **匹配主题：** moduli, moduli space, moduli spaces
+- **概述（原摘要节选）：** We construct a relation $\mathsf{Q}$ in the cohomological tautological ring $\mathsf{RH}^*(\overline{\mathcal{M}}_{2,14})$ which lies outside the space of $3$-spin relations. $\mathsf{Q}$ is a simple linear combination of pure boundary strata classes of codimension 9 supported on the divisor $Δ_0 \subset \overline{\mathcal{M}}_{2,14}$ of irreducible nodal curves, and transforms according to the irreducible representation of $Σ_{14}$ associated to the partition $(2^7)$. The…
 
 ## [K3 tails in the KSBA moduli of Kunev surfaces](https://arxiv.org/abs/2611.17149)
 - **日期：** 2026-11-12  |  **相关度：** 8  |  **分类：** math.AG
@@ -91,24 +115,6 @@
 - **作者：** Nathan Tausik
 - **匹配主题：** gromov-witten
 - **概述（原摘要节选）：** Let $A$ be nonzero in the cohomology ring of a smooth projective toric variety $X$. In this note, we observe the existence of a nonzero Gromov-Witten invariant of the form $\langle A, A, \ldots\rangle_{0, n,β}^X$ as a consequence of Iritani's work on the big quantum cohomology ring of $X$.
-
-## [Reciprocal mirror map derivatives, euler-twisted Gromov-Witten invariants, and instanton counts via quantum Serre duality](https://arxiv.org/abs/2611.13126)
-- **日期：** 2026-11-09  |  **相关度：** 3  |  **分类：** math.AG, hep-th
-- **作者：** Irit Huq-Kuruvilla, Michael T. Schultz
-- **匹配主题：** gromov-witten
-- **概述（原摘要节选）：** We study mirror map derivatives as a means of relating the genus zero Gromov-Witten theories of an anticanonical Calabi-Yau hypersurface in a smooth, almost minimal Fano variety and the local Calabi-Yau formed from the total space of the Fano's canonical bundle with the euler-twisted theory of the ambient Fano. A precise relationship between reciprocal mirror map derivatives is obtained from the non-equivariant limit of quantum Serre duality for the euler-twisted theory of…
-
-## [Semiampleness of Hodge line bundles and b-semiampleness of the moduli part](https://arxiv.org/abs/2611.12744)
-- **日期：** 2026-11-09  |  **相关度：** 6  |  **分类：** math.AG
-- **作者：** Zhengyu Hu, Kefeng Liu, Yang Shen
-- **匹配主题：** moduli
-- **概述（原摘要节选）：** We give proofs of Hodge semiampleness and b-semiampleness without using o-minimality. We establish a geometric semiampleness criterion for line bundles on proper algebraic spaces.
-
-## [$λ_g$-Integrals on triple, one-part admissible covers](https://arxiv.org/abs/2611.12450)
-- **日期：** 2026-11-09  |  **相关度：** 3  |  **分类：** math.AG, math-ph
-- **作者：** Renzo Cavalieri, David Klompenhouwer, Paolo Rossi
-- **匹配主题：** moduli, moduli space, moduli spaces
-- **概述（原摘要节选）：** We effectively compute all intersection numbers of the form $λ_gψ^d$ on moduli spaces of genus $g$ admissible covers with one point of full ramification and two additional branch points with arbitrary profile. We encode these invariants in appropriate generating functions, which we relate to the Hamiltonians of the KdV hierarchy.
 
 ---
 概述取自论文原摘要前两句，未使用生成式模型；建议点击标题查看原文及完整摘要。
