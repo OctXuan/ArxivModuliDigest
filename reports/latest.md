@@ -1,6 +1,72 @@
-# arXiv 代数几何模空间周报 (2026-11-10 至 2026-11-16)
+# arXiv 代数几何模空间周报 (2026-11-11 至 2026-11-17)
 
-共找到 **19** 篇候选论文。
+共找到 **25** 篇候选论文。
+
+## [Heavy-Light Wall Crossings and Motivic Asymptotics of Moduli Spaces of Curves. Part II: Tameness of Motivic Measures](https://arxiv.org/abs/2611.21569)
+- **日期：** 2026-11-16  |  **相关度：** 12  |  **分类：** math.AG, math-ph
+- **作者：** Giordano Cotti
+- **匹配主题：** moduli, moduli space, moduli spaces
+- **概述（原摘要节选）：** This paper is concerned with the study of the fixed-genus asymptotics of motivic measures of moduli spaces of stable pointed curves and their minimal all-light Hassett compactifications as the number of markings tends to infinity. A motivic wall-crossing argument gives a universal change of variables between the two generating series, depending only on the value of the Lefschetz class.
+
+## [Ice and mirrors](https://arxiv.org/abs/2611.21484)
+- **日期：** 2026-11-16  |  **相关度：** 1  |  **分类：** math.SG, math.AG, math.CO, math.RT
+- **作者：** Mingyuan Hu, Vivek Shende
+- **匹配主题：** moduli
+- **概述（原摘要节选）：** Given a mirror pair of smooth affine principal upper cluster varieties admitting reddening sequences, we show that homological mirror symmetry for principal cluster varieties -- assumed compatible with certain cluster structures -- descends under freezing. This allows us to induct on the following class.
+
+## [P = W conjectures for varieties with nilpotent fundamental group](https://arxiv.org/abs/2611.21437)
+- **日期：** 2026-11-16  |  **相关度：** 3  |  **分类：** math.AG, math.DG, math.RT
+- **作者：** Barbara Bolognese, Camilla Felisetti, Andreas Gross, Alex Küronya, GyeongHyeon Nam et al.
+- **匹配主题：** moduli, moduli space, moduli spaces
+- **概述（原摘要节选）：** We prove the cohomological and the geometric $P=W$ conjectures for the moduli spaces of $G$-Higgs bundles and $G$-local systems on any smooth complex projective variety $X$ with nilpotent fundamental group, and any connected complex reductive group $G$. To the best of our knowledge, our results provide the first instances of $P=W$ conjectures beyond curves and abelian varieties.
+
+## [Elliptic Gromov-Witten Invariants of Instanton Moduli](https://arxiv.org/abs/2611.21173)
+- **日期：** 2026-11-16  |  **相关度：** 10  |  **分类：** math.AG
+- **作者：** Hsian-Hua Tseng, Xiaohan Yan
+- **匹配主题：** moduli, moduli space, gromov-witten
+- **概述（原摘要节选）：** We calculate the genus $1$ Gromov-Witten invariants with one tautological divisor insertion of the moduli space $\mathcal{M}(r,n)$ of rank-$r$, $c_2=n$ torsion-free sheaves on $\mathbb{P}^2$ framed along the infinity divisor. As rational functions of the framing parameters, we determine the polar parts of these invariants by exploring the equivariant geometry of the Gieseker-Uhlenbeck map $\mathcal{M}(r,n)\to\mathcal{M}_0(r,n)$.
+
+## [The Singular LeBrun Transform: Complex Conformal and Contact Geometry](https://arxiv.org/abs/2611.21010)
+- **日期：** 2026-11-16  |  **相关度：** 3  |  **分类：** math.DG, math.AG
+- **作者：** Yun-Gang Ye
+- **匹配主题：** moduli, moduli space, moduli spaces
+- **概述（原摘要节选）：** A holomorphic conformal structure is rigid in the presence of rational curves: a complex conformal manifold that is not conformally flat contains no immersed rational null geodesic. So a natural compactification of such a manifold, on which its null geodesics close up, must degenerate along the boundary.
+
+## [Cycles on the universal moduli of rank 2 bundles over the hyperelliptic locus](https://arxiv.org/abs/2611.20620)
+- **日期：** 2026-11-16  |  **相关度：** 7  |  **分类：** math.AG, math.RT
+- **作者：** Soumik Ghosh, Shubham Saha
+- **匹配主题：** moduli, moduli stack
+- **概述（原摘要节选）：** We establish a strong Franchetta property for the universal moduli stack of rank two vector bundles over smooth hyperelliptic curves and identify the image of the Chow ring in the cohomology of a fiber via restriction and the cycle class map as precisely the monodromy invariant cohomology classes. More precisely, for every genus $g\geq 2$, degree $d$, and hyperelliptic curve $C$ of genus $g$, we show that the restriction and the cycle class map identifies the Chow ring of…
+
+## [$G$-Hilbert schemes of canonical abelian quotient threefolds](https://arxiv.org/abs/2611.20586)
+- **日期：** 2026-11-16  |  **相关度：** 6  |  **分类：** math.AG
+- **作者：** Yutaro Kaijima
+- **匹配主题：** hilbert scheme, hilbert schemes
+- **概述（原摘要节选）：** Ishida and Iwashita showed that the canonical abelian quotient singularities of dimension three that are not Gorenstein fall into four families. For the two families that have not been treated before, we extend a method of Kędzierski and compute the toric charts of the $G$-Hilbert scheme explicitly.
+
+## [Canonical metrics on punctured spheres, II: compactified moduli spaces of black holes](https://arxiv.org/abs/2611.20282)
+- **日期：** 2026-11-15  |  **相关度：** 12  |  **分类：** gr-qc, math.AG, math.DG, math.GT
+- **作者：** Boris Botvinnik
+- **匹配主题：** moduli, moduli space, moduli spaces
+- **概述（原摘要节选）：** Let $g_{\mathfrak{p}_{\ell}}$ denote the canonical scalar-flat metric on $S^n\setminus \mathfrak{p}_{\ell}$ introduced in Part~I, which for $n=3$ corresponds to the Brill--Lindquist initial data for $\ell$ black holes, and let $η\in H_{\ell}$ be its associated mass matrix. In this paper, we investigate the asymptotic behavior of the metrics and the mass matrix $η$ as subsets of punctures collide.
+
+## [Unirationality of Meromorphic Differential Strata](https://arxiv.org/abs/2611.20182)
+- **日期：** 2026-11-15  |  **相关度：** 2  |  **分类：** math.AG
+- **作者：** Bogdan Carasca, Vlad Robu
+- **匹配主题：** moduli, moduli space
+- **概述（原摘要节选）：** We prove that all components of the meromorphic differential strata are unirational in genus $2\le g\le 5$ and with relatively low number of poles. In particular, it follows that the moduli space of pointed even spin curves $\mathcal{S}_{5;1}^+=\mathcal{S}_5^+\times_{\mathcal{M}_5}\mathcal{M}_{5,1}$ is unirational.
+
+## [Projective Models of Genus 21 K3 Surfaces](https://arxiv.org/abs/2611.20018)
+- **日期：** 2026-11-15  |  **相关度：** 2  |  **分类：** math.AG
+- **作者：** Junyu Meng
+- **匹配主题：** moduli, moduli space
+- **概述（原摘要节选）：** We construct projective models for general primitively polarized K3 surfaces $(S,h)$ of genus $21$ (degree $h^2=40$) inside the 12-dimensional fine quiver moduli space $X = N(3;3,4)$ parameterizing stable representations of the $3$-Kronecker quiver with dimension vector $(3,4)$. As a corollary, we show that the corresponding moduli space $\mathscr{M}_{21}$ is unirational and prove O'Grady's generalized Franchetta conjecture for genus $21$.
+
+## [Bi-Lipschitz right-left equivalence of finite plane-to-plane germs](https://arxiv.org/abs/2611.19673)
+- **日期：** 2026-11-14  |  **相关度：** 1  |  **分类：** math.AG
+- **作者：** Alexandre Fernandes
+- **匹配主题：** moduli
+- **概述（原摘要节选）：** We show that the bi-Lipschitz right-left equivalence of finite holomorphic map germs $(\mathbb{C}^2,0)\to(\mathbb{C}^2,0)$ admits continuous moduli, already among finitely determined polynomial germs of corank one and degree five. The moduli come from a new invariant of finite germs: for two tangent branches of the critical set whose images are tangent, the limit of the ratio of the norms of the images of nearby points is preserved by bi-Lipschitz right-left equivalence.
 
 ## [On the pure part of the cohomology of character varieties](https://arxiv.org/abs/2611.18560)
 - **日期：** 2026-11-13  |  **相关度：** 1  |  **分类：** math.AG, math.RT
@@ -68,6 +134,12 @@
 - **匹配主题：** quiver variety
 - **概述（原摘要节选）：** Let $Q$ be a quiver and let $\mathbf{d}$ be a dimension vector. We prove that the affinized BPS cohomology of the stack of $\mathbf{d}$-dimensional representations of the preprojective algebra $Π_Q$ is generated by its reduced virtual fundamental class under the action of tautological classes.
 
+## [Field algebras associated with non-symmetric lattices](https://arxiv.org/abs/2611.18762)
+- **日期：** 2026-11-11  |  **相关度：** 2  |  **分类：** math.QA, math.AG
+- **作者：** Mohamed Wacyl Meddour
+- **匹配主题：** moduli, moduli stack
+- **概述（原摘要节选）：** Field algebras, introduced by Bakalov and Kac, generalize vertex algebras by replacing locality with a weaker associativity-type axiom. We develop the structure theory of field algebras with a view toward geometric examples in which a natural bilinear form fails to be symmetric.
+
 ## [Some families of birational cubic and Verra fourfolds](https://arxiv.org/abs/2611.15908)
 - **日期：** 2026-11-11  |  **相关度：** 2  |  **分类：** math.AG
 - **作者：** Federica Galluzzi, Bert Van Geemen
@@ -79,42 +151,6 @@
 - **作者：** Andrea Petracci, Alice Villa
 - **匹配主题：** moduli, moduli space, moduli stack
 - **概述（原摘要节选）：** We exhibit examples of K-stable Fano varieties with obstructed qG-deformations; more precisely, their miniversal qG-deformation spaces can be non-reduced. As a consequence, we show that both the K-moduli stack and the K-moduli space can be non-reduced, and hence non-smooth, at points corresponding to K-stable Fano varieties.
-
-## [Shifted Lagrangian structures and syzygies on Calabi--Yau varieties](https://arxiv.org/abs/2611.14453)
-- **日期：** 2026-11-10  |  **相关度：** 1  |  **分类：** math.AG
-- **作者：** Enrico Lampetti, Luca Morstabilini
-- **匹配主题：** moduli
-- **概述（原摘要节选）：** In \cite{FMR25}, Fantechi--Miró-Roig show how to construct new Lagrangian subspaces of the moduli of simple perfect sheaves on a K3 surface from a given one. We reinterpret their construction using the tools and flexibility of derived algebraic geometry.
-
-## [Canonical Volumes of Threefolds with Positive Geometric Genus](https://arxiv.org/abs/2611.14402)
-- **日期：** 2026-11-10  |  **相关度：** 2  |  **分类：** math.AG
-- **作者：** Pinxian Bie, Peien Du, Zhengjie Yu
-- **匹配主题：** moduli, moduli space
-- **概述（原摘要节选）：** We prove that a complex projective threefold of general type with canonical singularities and positive geometric genus has canonical volume at least $1/30$, with strict inequality when its Euler characteristic is positive. We describe the equality cases as canonical hypersurfaces of degree $28$ in $\mathbb P(1,3,4,5,14)$.
-
-## [Irrationality and Noether--Lefschetz loci in the moduli space of K3 surfaces](https://arxiv.org/abs/2611.14294)
-- **日期：** 2026-11-10  |  **相关度：** 9  |  **分类：** math.AG
-- **作者：** Dori Bejleri, Nathan Chen, Benjamin Church, Kristin DeVleming
-- **匹配主题：** moduli, moduli space
-- **概述（原摘要节选）：** The goal of this paper is twofold. First, we construct examples of families of surfaces where the locus of points in the base with constant degree of irrationality is not constructible.
-
-## [Affine Springer fibers, Cherednik algebra modules and Hilbert schemes: torus link case](https://arxiv.org/abs/2611.14190)
-- **日期：** 2026-11-10  |  **相关度：** 6  |  **分类：** math.AG, math.CO
-- **作者：** Pablo Boixeda Alvarez, Thomas Hameister, Xinchun Ma
-- **匹配主题：** hilbert scheme, hilbert schemes
-- **概述（原摘要节选）：** For a pair of positive integers $M,N$ with GCD $d$, we relate the bigraded $S_N\times S_d$-Frobenius characters of the homology of the positive part of a homogeneous affine Springer fiber for $\mathrm{GL}_N$ of slope $M/N$ to a direct sum of the associated graded of minimal supported modules of type $A_{N-1}$ rational Cherednik algebra at the same slope, and to the equivariant K-theory of a coherent sheaf on the Hilbert scheme of points on the plane. For the first object,…
-
-## [Hamiltonian GKM spaces via Gromov-Witten theory](https://arxiv.org/abs/2611.14020)
-- **日期：** 2026-11-10  |  **相关度：** 3  |  **分类：** math.SG, math.AG
-- **作者：** Daniel Holmes
-- **匹配主题：** gromov-witten
-- **概述（原摘要节选）：** We use equivariant Gromov-Witten theory to prove the generalised symplectic Mukai inequality for Hamiltonian GKM spaces with large pseudoindex or a special vertex, including smooth Schubert varieties. We also classify all Hamiltonian GKM graphs when the pseudoindex is at least the complex dimension, obtaining a Hamiltonian GKM analogue of the classical Kobayashi-Ochiai classification of complex projective space and complex quadrics.
-
-## [Gromov-Witten Nonvanishing and Symplectic Deformations of Toric Varieties](https://arxiv.org/abs/2611.13422)
-- **日期：** 2026-11-10  |  **相关度：** 3  |  **分类：** math.AG
-- **作者：** Nathan Tausik
-- **匹配主题：** gromov-witten
-- **概述（原摘要节选）：** Let $A$ be nonzero in the cohomology ring of a smooth projective toric variety $X$. In this note, we observe the existence of a nonzero Gromov-Witten invariant of the form $\langle A, A, \ldots\rangle_{0, n,β}^X$ as a consequence of Iritani's work on the big quantum cohomology ring of $X$.
 
 ---
 概述取自论文原摘要前两句，未使用生成式模型；建议点击标题查看原文及完整摘要。
