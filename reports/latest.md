@@ -1,6 +1,30 @@
-# arXiv 代数几何模空间周报 (2026-11-12 至 2026-11-18)
+# arXiv 代数几何模空间周报 (2026-11-13 至 2026-11-19)
 
-共找到 **22** 篇候选论文。
+共找到 **19** 篇候选论文。
+
+## [Singularities of ideals with minimal tangent space dimension in the Hilbert scheme of points on a threefold](https://arxiv.org/abs/2611.24695)
+- **日期：** 2026-11-18  |  **相关度：** 3  |  **分类：** math.AG, math.AC, math.CO
+- **作者：** Yuze Luan
+- **匹配主题：** hilbert scheme
+- **概述（原摘要节选）：** We classify all singular monomial ideals in the Hilbert scheme of $d$ points on $\mathbb{A}^3$ whose tangent spaces have the minimal dimension $3d+6$. There are two families called the opera houses and rotating staircases, and we give their combinatorial and algebraic descriptions.
+
+## [Categorified Koszul duality and deformation theory of higher categories](https://arxiv.org/abs/2611.23899)
+- **日期：** 2026-11-18  |  **相关度：** 1  |  **分类：** math.AG, math.AT, math.CT
+- **作者：** Isamu Iwanari
+- **匹配主题：** moduli
+- **概述（原摘要节选）：** This paper develops a deformation theory for stable $(\infty,n)$-categories for $n > 1$. We introduce the framework of complete $t$-structured stable presentable $(\infty,n)$-categories.
+
+## [Gopakumar-Vafa invariants and Mordell-Weil lattices](https://arxiv.org/abs/2611.23735)
+- **日期：** 2026-11-18  |  **相关度：** 1  |  **分类：** math.AG, hep-th
+- **作者：** Lutian Zhao
+- **匹配主题：** moduli
+- **概述（原摘要节选）：** Let $X\to B$ be a Weierstrass fibration with integral fibers from a smooth Calabi--Yau threefold to a del Pezzo surface. For a smooth curve $D\subset B$ with smooth inverse image $Y$, we decompose the moduli fiber of stable sheaves with Euler characteristic one and projected cycle $D$.
+
+## [Finite regularity moduli stacks through diffeology](https://arxiv.org/abs/2611.23451)
+- **日期：** 2026-11-17  |  **相关度：** 12  |  **分类：** math.DG, math.AG, math.CT, math.CV, math.RT
+- **作者：** Mahmud Azam, Steven Rayan
+- **匹配主题：** moduli, moduli stack, moduli stacks
+- **概述（原摘要节选）：** Diffeological non-Abelian Hodge theory motivates the study of $C^r$ families of Higgs bundles and flat bundles for finite $r$. In this article, we provide a uniform language for treating moduli stacks parametrizing such objects in terms of diffeology.
 
 ## [Hyperkähler Periods in Families of Parabolic Higgs Bundle Moduli Spaces](https://arxiv.org/abs/2611.21990)
 - **日期：** 2026-11-16  |  **相关度：** 12  |  **分类：** math.DG, math-ph, math.AG
@@ -91,48 +115,6 @@
 - **作者：** Avik Chakravarty, Jianqi Liu
 - **匹配主题：** moduli, moduli space
 - **概述（原摘要节选）：** Using fusion closed-ness and strong generation properties, we identify collections of modules over vertex operator algebras (VOAs) whose induced vector bundles of coinvariants on the moduli space $\overline{\mathrm M}_{0,n}$ of stable $n$-pointed curves of genus zero are globally generated. These results specialize to \cite{Fak12} for affine VOAs at positive integer levels, and of \cite{DG23} for strongly rational VOAs that are generated in degree 1.
-
-## [A new tautological relation on $\overline{\mathcal{M}}_{2,14}$ in cohomology](https://arxiv.org/abs/2611.17536)
-- **日期：** 2026-11-12  |  **相关度：** 3  |  **分类：** math.AG
-- **作者：** Samir Canning, Bochao Kong, Rahul Pandharipande, Dan Petersen, Aaron Pixton et al.
-- **匹配主题：** moduli, moduli space, moduli spaces
-- **概述（原摘要节选）：** We construct a relation $\mathsf{Q}$ in the cohomological tautological ring $\mathsf{RH}^*(\overline{\mathcal{M}}_{2,14})$ which lies outside the space of $3$-spin relations. $\mathsf{Q}$ is a simple linear combination of pure boundary strata classes of codimension 9 supported on the divisor $Δ_0 \subset \overline{\mathcal{M}}_{2,14}$ of irreducible nodal curves, and transforms according to the irreducible representation of $Σ_{14}$ associated to the partition $(2^7)$. The…
-
-## [K3 tails in the KSBA moduli of Kunev surfaces](https://arxiv.org/abs/2611.17149)
-- **日期：** 2026-11-12  |  **相关度：** 8  |  **分类：** math.AG
-- **作者：** Yongnam Lee, Elisa Scattone, Luca Schaffler
-- **匹配主题：** moduli, moduli space, moduli spaces
-- **概述（原摘要节选）：** In the context of compact moduli spaces of Kollár, Shepherd-Barron, and Alexeev stable surfaces, a degeneration can acquire an exceptional K3 component in the limit, or more simply a K3 tail. We study this phenomenon for Kunev surfaces: minimal surfaces of general type with $K^2=p_g=1$ that arise as $(\mathbb{Z}/2\mathbb{Z})^2$-covers of the projective plane branched along two general cubics and a line.
-
-## [Equidistribution of curves in hypersurfaces of low degree](https://arxiv.org/abs/2611.17120)
-- **日期：** 2026-11-12  |  **相关度：** 2  |  **分类：** math.AG
-- **作者：** Ariane Burel
-- **匹配主题：** moduli, moduli space
-- **概述（原摘要节选）：** We prove that over $\mathbb{C}$, for any smooth projective curve $\mathscr{C}$ and any smooth hypersurface $V \subset \mathbb{P}^n$ of degree $d$ such that $n \geq 2^d(d-1)$, Faisant's equidistribution principle holds for $(\mathscr{C},V)$. In other words, for any reasonable set of jet conditions $W$, the moduli space $\mathrm{Hom}^e(\mathscr{C},V|W)$ of degree $e$ maps $\mathscr{C} \to V$ satisfying conditions $W$ converges in the Grothendieck ring of complex varieties,…
-
-## [Intrinsic reduction data and the loci related to indeterminacy of iterate maps for rational functions](https://arxiv.org/abs/2611.16784)
-- **日期：** 2026-11-12  |  **相关度：** 3  |  **分类：** math.AG, math.CV, math.DS
-- **作者：** Yûsuke Okuyama
-- **匹配主题：** moduli, moduli space, moduli spaces
-- **概述（原摘要节选）：** Let $k$ be an algebraically closed field of not necessarily characteristic $0$, and $d,n$ be integers $\ge 2$. We first formulate the dynamical moduli spaces of rational functions defined over $k$ in terms of the intrinsic reduction data of non-archimedean rational functions.
-
-## [Integrals over Hilbert schemes and multiple $q$-zeta values](https://arxiv.org/abs/2611.16768)
-- **日期：** 2026-11-12  |  **相关度：** 6  |  **分类：** math.AG, math.QA
-- **作者：** Sergey Mozgovoy
-- **匹配主题：** hilbert scheme, hilbert schemes
-- **概述（原摘要节选）：** We establish a version of Okounkov's conjecture on multiple $q$-zeta values arising from integrals over Hilbert schemes of points on smooth projective surfaces. We prove that normalized generating series of integrals involving products of Chern characters of tautological bundles belong to the algebra $\mathcal Z_q$ of multiple $q$-zeta values, without restrictions on the canonical class of the surface.
-
-## [A locally complete family of Kummer type hyperkähler fourfolds](https://arxiv.org/abs/2611.16593)
-- **日期：** 2026-11-12  |  **相关度：** 2  |  **分类：** math.AG
-- **作者：** Franco Giovenzana, Andrés Rojas, Jieao Song
-- **匹配主题：** moduli, moduli space
-- **概述（原摘要节选）：** We construct a 4-dimensional family of projective hyperkähler fourfolds of Kummer type. A general member of this family can be described as an irreducible component of a complete intersection of Heisenberg-invariant cubics in an 8-dimensional projective space.
-
-## [A sharp bound for the $a$-number of a cyclic cover of $\mathbb{P}^1$](https://arxiv.org/abs/2611.16449)
-- **日期：** 2026-11-12  |  **相关度：** 2  |  **分类：** math.NT, math.AG
-- **作者：** Shiva Chidambaram
-- **匹配主题：** moduli, moduli space
-- **概述（原摘要节选）：** Let $X$ be a smooth projective curve of genus $g$ over an algebraically closed field $k$ of characteristic $p>2$. We give upper bounds for the $a$-number $a(X)$ when $X$ is hyperelliptic or, more generally, a tame cyclic cover of the projective line.
 
 ---
 概述取自论文原摘要前两句，未使用生成式模型；建议点击标题查看原文及完整摘要。
