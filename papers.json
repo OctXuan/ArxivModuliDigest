@@ -1,11 +1,101 @@
 {
   "version": "1.3",
-  "generated_at": "2026-11-19T20:39:59.319819+00:00",
+  "generated_at": "2026-11-20T20:23:54.617099+00:00",
   "period": {
-    "start": "2026-11-13",
-    "end": "2026-11-19"
+    "start": "2026-11-14",
+    "end": "2026-11-20"
   },
   "papers": [
+    {
+      "id": "2611.26290",
+      "url": "https://arxiv.org/abs/2611.26290",
+      "title": "Hilbert schemes of points on plane curves via standard families",
+      "abstract": "We describe an approach to computing Hilbert schemes of points on embedded families of plane curves. This is achieved by introducing the notion of a standard family, and the associated Hilbert schemes are shown to be algebraic vector bundles over the Hilbert scheme of points on the plane. Any embedded family of plane curves lies in some standard family, which allows for the computation of the corresponding Hilbert scheme from that of the standard family. Further results on the geometry of these schemes are also collected.",
+      "authors": [
+        "Miika Rankaviita"
+      ],
+      "published": "2026-11-19",
+      "updated": "2026-11-19",
+      "categories": [
+        "math.AG"
+      ]
+    },
+    {
+      "id": "2611.26217",
+      "url": "https://arxiv.org/abs/2611.26217",
+      "title": "Surface sheaves on the quintic II. Donaldson-Thomas invariants and the M5-brane modified elliptic genus in string theory",
+      "abstract": "We compute Donaldson-Thomas invariants of pure two-dimensional sheaves in the hyperplane class of a smooth quintic threefold. We take advantage of two degenerating families to relate the DT geometry of Quintic threefold to geometry of pure two dimensional shaves on a quartic threefold and correction terms induced by invariants of relative Hilbert schemes of points. For this we use degeneration technique and virtual gluing formula in the prequel Part I. The marked virtual intersections, Chow specialization and complete moduli on the smooth quintic give nine coefficients of the M5-brane modified elliptic genus in string theory predicted by Gaiotto, Strominger and Yin, including its entire primitive polar part. Four geometric degrees determine the candidate in the prescribed modular space. We also construct a weight-26 period series on the complete hyperplane system and identify the contributions of twisted-cubic hulls and their point modifications on both sides.",
+      "authors": [
+        "Artan Sheshmani"
+      ],
+      "published": "2026-11-19",
+      "updated": "2026-11-19",
+      "categories": [
+        "math.AG"
+      ]
+    },
+    {
+      "id": "2611.26207",
+      "url": "https://arxiv.org/abs/2611.26207",
+      "title": "Surface sheaves on the quintic I. Expanded degenerations and virtual gluing",
+      "abstract": "We study the specialization of Donaldson-Thomas virtual cycles for surface sheaves on a Calabi Yau threefold degenerating to a simple normal crossing threefold, composed of two quasi Fano threefolds glued along a common (double) divisor. The compactification of the two relative sheaf moduli spaces involves construction of suitable moduli space of sheaves on expanded degenerations of each quasi Fano variety. On a fixed expanded fiber the matching datum is an equivalence of the derived restrictions of the component sheaves. We identify the corresponding deformation complexes and give valuative and obstruction-theoretic hypotheses under which the specialized virtual class is a sum over marked joining divisors. When a marked space is the full fiber product of proper relative factors over a smooth simple boundary moduli space, its class is a refined diagonal pullback. For the case of sheaves supported on hyperplane sections of the threefold we discuss construction of the proper relative family by descending the chartwise stable loci, and identify both marked pieces, including the one with zero boundary. To provide some examples, we carry out explicit constructions for the moduli space of surface structure sheaf and its twists. We also prove valuative results for specified sheaves with noninvertible hulls. In a sequel, Part II, we use the construction of degeneration technique in this article to compare quintic invariants with the predicted S-duality modularity of \"M5-brane modified elliptic genus\" provided by string theorists, Gaiotto Strominger and Yin.",
+      "authors": [
+        "Artan Sheshmani"
+      ],
+      "published": "2026-11-19",
+      "updated": "2026-11-19",
+      "categories": [
+        "math.AG"
+      ]
+    },
+    {
+      "id": "2611.26001",
+      "url": "https://arxiv.org/abs/2611.26001",
+      "title": "Moduli spaces of $(3,6)$-$K3$ surfaces and cubic surfaces",
+      "abstract": "We compare the ball quotient for marked nodal cubic surfaces with the arithmetic quotient of a domain of type IV associated with $K3$ surfaces arising from configurations of six lines in $\\mathbb{P}^2$. Using the Coble map and the period mapping associated with the hypergeometric system of type $(3,6)$, we identify a common open subset of the GIT quotient of six ordered points in $\\mathbb{P}^2$ and the ball quotient. This identification gives an analog in dimension four of the Janus-like phenomenon for the Segre cubic and the Igusa quartic, making precise a comparison suggested by Allcock, Carlson, and Toledo. For a related family of lattice-polarized $K3$ surfaces, we give a geometric realization of the ring of meromorphic modular forms with prescribed poles and trivial character and describe the corresponding Looijenga compactification.",
+      "authors": [
+        "Yota Maeda",
+        "Atsuhira Nagano"
+      ],
+      "published": "2026-11-19",
+      "updated": "2026-11-19",
+      "categories": [
+        "math.AG",
+        "math.NT"
+      ]
+    },
+    {
+      "id": "2611.25277",
+      "url": "https://arxiv.org/abs/2611.25277",
+      "title": "Preservation of big diagonal for automorphisms of Hilbert schemes",
+      "abstract": "If $X$ is a smooth projective surface that is not K3 or abelian surface, we show that any automorphism of the Hilbert scheme of points $X^{[n]}$ preserves the big diagonal. This generalizes several previous works, and gives a complete description of automorphisms of $X^{[n]}$ when $X$ is not K3 or abelian surface. We also obtain a Torelli-type theorem: a smooth projective surface $X$ can be recovered from $X^{[n]}$ unless $X$ is a K3 surface. Further, for each integer $n\\geq 2$, we construct automorphisms of $A^{[n]}$ not preserving the big diagonal for an abelian surface $A$.",
+      "authors": [
+        "Supravat Sarkar"
+      ],
+      "published": "2026-11-18",
+      "updated": "2026-11-18",
+      "categories": [
+        "math.AG"
+      ]
+    },
+    {
+      "id": "2611.25187",
+      "url": "https://arxiv.org/abs/2611.25187",
+      "title": "A Hopf algebra action on the cohomology of moduli of abelian varieties",
+      "abstract": "We show that the rational compactly supported cohomology of the moduli space $\\mathcal{A} = \\bigsqcup_{g \\geq 0} \\mathcal{A}_g$ of principally polarized abelian varieties is free as a bigraded module over the Hopf algebra formed by its weight-zero subspace. The action arises from a symplectic analog of the Waldhausen $S$-construction. This structure yields new lower bounds for Betti numbers and the dimensions of the graded pieces of the weight filtration on the cohomology of $\\mathcal{A}_g$. In particular, $\\dim H_c^{2g + k}(\\mathcal{A}_g)$ grows at least exponentially with $g$ for every nonnegative $k \\neq 1, 3$. We also give conjectural descriptions of the full mixed Hodge structures in genera four and five, and of mixed Tate subquotients of $H_c^{2g}(\\mathcal{A}_g)$ associated with shuffle algebras and multiple zeta values in every genus.",
+      "authors": [
+        "Urshita Pal",
+        "Sam Payne"
+      ],
+      "published": "2026-11-18",
+      "updated": "2026-11-18",
+      "categories": [
+        "math.AG",
+        "math.AT",
+        "math.KT",
+        "math.NT"
+      ]
+    },
     {
       "id": "2611.24695",
       "url": "https://arxiv.org/abs/2611.24695",
@@ -76,14 +166,14 @@
       "id": "2611.21990",
       "url": "https://arxiv.org/abs/2611.21990",
       "title": "Hyperkähler Periods in Families of Parabolic Higgs Bundle Moduli Spaces",
-      "abstract": "We consider the period map on families of parabolic Higgs bundle moduli spaces with varying parabolic weights $α$ and Higgs field eigenvalues $σ$. We assemble the moduli spaces into a smooth family $π:\\mathscr M\\toΛ$ where $Λ$ encodes $(α,σ)$, and define parallel transport for homology along paths in an open dense subset $Λ_0\\subsetΛ$. By generalizing a classical theorem of Duistermaat and Heckman, we prove that the period map is affine linear in $(α,σ)$, with slope governed by the curvature class of a principal torus bundle over $\\mathscr M$. For the four-dimensional moduli spaces of types $E_6,E_7,E_8$, we compute these classes to get explicit formulas for the period maps.",
+      "abstract": "We consider the period map on families of parabolic Higgs bundle moduli spaces with varying parabolic weights $α$ and Higgs field eigenvalues $σ$. We assemble the moduli spaces into a smooth family $π:\\mathscr M\\toΛ_0$ where $Λ_0$ encodes the admissible pairs $(α,σ)$, and define parallel transport for homology along paths in $Λ_0$. By generalizing a classical theorem of Duistermaat and Heckman, we prove that the period map is affine linear in $(α,σ)$, with slope governed by the curvature class of a principal torus bundle over $\\mathscr M$. For the four-dimensional moduli spaces of types $E_6,E_7,E_8$, we compute these classes to get explicit formulas for the period maps.",
       "authors": [
         "Panagiotis Dimakis",
         "Laura Fredrickson",
         "Arya Yae"
       ],
       "published": "2026-11-16",
-      "updated": "2026-11-16",
+      "updated": "2026-11-19",
       "categories": [
         "math.DG",
         "math-ph",
@@ -262,54 +352,6 @@
       "updated": "2026-11-14",
       "categories": [
         "math.AG"
-      ]
-    },
-    {
-      "id": "2611.18560",
-      "url": "https://arxiv.org/abs/2611.18560",
-      "title": "On the pure part of the cohomology of character varieties",
-      "abstract": "We prove the purity conjecture of Hausel and Rodriguez-Villegas relating the graded dimension of the pure part of the cohomology of the twisted character variety $M^B(r,d)$ of $GL(r)$ of genus $g$ with the cohomology of a suitable quiver variety associated to the quiver $S_g$ with one vertex and $g$ loops. In particular, this provides an explicit formula for the pure part of the mixed Hodge polynomial of $M^B(r,d)$ in terms of the Kac polynomial $A_{S_g,r}(q)$. Our approach is based on the $P=W$ theorem to transfer the purity conjecture into a statement about the perverse filtration on the cohomology of th stack of Higgs bundles on a genus $g$ curve. We use the theory of BPS Lie algebras, their $χ$-independence property (proven by Kinjo-Koseki), the recent proof of the stack version of $P=C$ due to Picovschi and Davison's analytic neighborhood theorem to reduce the conjecture to a comparison problem between (the 'pure' part) of the BPS Lie algebra asociated to the stack of Higgs bundles on a genus $g$ curve and the BPS Lie algebra of the stack of representations of the preprojective algebra of the quiver $S_g$. This last step is taken care of by a quiver analog of Markman's tautological generation theorem for the BPS Lie algebra of arbitrary quivers (this last result is also proven by Davison and Hennecart).",
-      "authors": [
-        "Olivier Schiffmann",
-        "Eric Vasserot"
-      ],
-      "published": "2026-11-13",
-      "updated": "2026-11-13",
-      "categories": [
-        "math.AG",
-        "math.RT"
-      ]
-    },
-    {
-      "id": "2611.18357",
-      "url": "https://arxiv.org/abs/2611.18357",
-      "title": "The Moduli of Canonical Threefolds of Minimum Volume",
-      "abstract": "We determine the moduli space of complex projective canonical threefolds of volume $1/420$. It consists of an irreducible rational component of dimension $33$ and two isolated points, represented by the explicitly constructed rigid threefolds Vega and Altair.",
-      "authors": [
-        "Pinxian Bie",
-        "Peien Du",
-        "Zhengjie Yu"
-      ],
-      "published": "2026-11-13",
-      "updated": "2026-11-13",
-      "categories": [
-        "math.AG"
-      ]
-    },
-    {
-      "id": "2611.17734",
-      "url": "https://arxiv.org/abs/2611.17734",
-      "title": "Global generation of coinvariant vector bundles on $\\overline{\\mathrm{M}}_{0,n}$",
-      "abstract": "Using fusion closed-ness and strong generation properties, we identify collections of modules over vertex operator algebras (VOAs) whose induced vector bundles of coinvariants on the moduli space $\\overline{\\mathrm M}_{0,n}$ of stable $n$-pointed curves of genus zero are globally generated. These results specialize to \\cite{Fak12} for affine VOAs at positive integer levels, and of \\cite{DG23} for strongly rational VOAs that are generated in degree 1. To illustrate the results, and to show that fusion-closedness is essential, we give numerous examples, including Lattice VOAs, Simple Current Extensions of Affine VOAs, and various tensor products.",
-      "authors": [
-        "Avik Chakravarty",
-        "Jianqi Liu"
-      ],
-      "published": "2026-11-13",
-      "updated": "2026-11-13",
-      "categories": [
-        "math.AG",
-        "math.QA"
       ]
     }
   ]

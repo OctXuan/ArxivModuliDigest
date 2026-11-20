@@ -1,6 +1,42 @@
-# arXiv 代数几何模空间周报 (2026-11-13 至 2026-11-19)
+# arXiv 代数几何模空间周报 (2026-11-14 至 2026-11-20)
 
-共找到 **19** 篇候选论文。
+共找到 **22** 篇候选论文。
+
+## [Hilbert schemes of points on plane curves via standard families](https://arxiv.org/abs/2611.26290)
+- **日期：** 2026-11-19  |  **相关度：** 6  |  **分类：** math.AG
+- **作者：** Miika Rankaviita
+- **匹配主题：** hilbert scheme, hilbert schemes
+- **概述（原摘要节选）：** We describe an approach to computing Hilbert schemes of points on embedded families of plane curves. This is achieved by introducing the notion of a standard family, and the associated Hilbert schemes are shown to be algebraic vector bundles over the Hilbert scheme of points on the plane.
+
+## [Surface sheaves on the quintic II. Donaldson-Thomas invariants and the M5-brane modified elliptic genus in string theory](https://arxiv.org/abs/2611.26217)
+- **日期：** 2026-11-19  |  **相关度：** 6  |  **分类：** math.AG
+- **作者：** Artan Sheshmani
+- **匹配主题：** moduli, hilbert scheme, hilbert schemes, donaldson-thomas
+- **概述（原摘要节选）：** We compute Donaldson-Thomas invariants of pure two-dimensional sheaves in the hyperplane class of a smooth quintic threefold. We take advantage of two degenerating families to relate the DT geometry of Quintic threefold to geometry of pure two dimensional shaves on a quartic threefold and correction terms induced by invariants of relative Hilbert schemes of points.
+
+## [Surface sheaves on the quintic I. Expanded degenerations and virtual gluing](https://arxiv.org/abs/2611.26207)
+- **日期：** 2026-11-19  |  **相关度：** 4  |  **分类：** math.AG
+- **作者：** Artan Sheshmani
+- **匹配主题：** moduli, moduli space, moduli spaces, donaldson-thomas
+- **概述（原摘要节选）：** We study the specialization of Donaldson-Thomas virtual cycles for surface sheaves on a Calabi Yau threefold degenerating to a simple normal crossing threefold, composed of two quasi Fano threefolds glued along a common (double) divisor. The compactification of the two relative sheaf moduli spaces involves construction of suitable moduli space of sheaves on expanded degenerations of each quasi Fano variety.
+
+## [Moduli spaces of $(3,6)$-$K3$ surfaces and cubic surfaces](https://arxiv.org/abs/2611.26001)
+- **日期：** 2026-11-19  |  **相关度：** 12  |  **分类：** math.AG, math.NT
+- **作者：** Yota Maeda, Atsuhira Nagano
+- **匹配主题：** moduli, moduli space, moduli spaces
+- **概述（原摘要节选）：** We compare the ball quotient for marked nodal cubic surfaces with the arithmetic quotient of a domain of type IV associated with $K3$ surfaces arising from configurations of six lines in $\mathbb{P}^2$. Using the Coble map and the period mapping associated with the hypergeometric system of type $(3,6)$, we identify a common open subset of the GIT quotient of six ordered points in $\mathbb{P}^2$ and the ball quotient.
+
+## [Preservation of big diagonal for automorphisms of Hilbert schemes](https://arxiv.org/abs/2611.25277)
+- **日期：** 2026-11-18  |  **相关度：** 6  |  **分类：** math.AG
+- **作者：** Supravat Sarkar
+- **匹配主题：** hilbert scheme, hilbert schemes
+- **概述（原摘要节选）：** If $X$ is a smooth projective surface that is not K3 or abelian surface, we show that any automorphism of the Hilbert scheme of points $X^{[n]}$ preserves the big diagonal. This generalizes several previous works, and gives a complete description of automorphisms of $X^{[n]}$ when $X$ is not K3 or abelian surface.
+
+## [A Hopf algebra action on the cohomology of moduli of abelian varieties](https://arxiv.org/abs/2611.25187)
+- **日期：** 2026-11-18  |  **相关度：** 7  |  **分类：** math.AG, math.AT, math.KT, math.NT
+- **作者：** Urshita Pal, Sam Payne
+- **匹配主题：** moduli, moduli space
+- **概述（原摘要节选）：** We show that the rational compactly supported cohomology of the moduli space $\mathcal{A} = \bigsqcup_{g \geq 0} \mathcal{A}_g$ of principally polarized abelian varieties is free as a bigraded module over the Hopf algebra formed by its weight-zero subspace. The action arises from a symplectic analog of the Waldhausen $S$-construction.
 
 ## [Singularities of ideals with minimal tangent space dimension in the Hilbert scheme of points on a threefold](https://arxiv.org/abs/2611.24695)
 - **日期：** 2026-11-18  |  **相关度：** 3  |  **分类：** math.AG, math.AC, math.CO
@@ -30,7 +66,7 @@
 - **日期：** 2026-11-16  |  **相关度：** 12  |  **分类：** math.DG, math-ph, math.AG
 - **作者：** Panagiotis Dimakis, Laura Fredrickson, Arya Yae
 - **匹配主题：** moduli, moduli space, moduli spaces
-- **概述（原摘要节选）：** We consider the period map on families of parabolic Higgs bundle moduli spaces with varying parabolic weights $α$ and Higgs field eigenvalues $σ$. We assemble the moduli spaces into a smooth family $π:\mathscr M\toΛ$ where $Λ$ encodes $(α,σ)$, and define parallel transport for homology along paths in an open dense subset $Λ_0\subsetΛ$.
+- **概述（原摘要节选）：** We consider the period map on families of parabolic Higgs bundle moduli spaces with varying parabolic weights $α$ and Higgs field eigenvalues $σ$. We assemble the moduli spaces into a smooth family $π:\mathscr M\toΛ_0$ where $Λ_0$ encodes the admissible pairs $(α,σ)$, and define parallel transport for homology along paths in $Λ_0$.
 
 ## [Heavy-Light Wall Crossings and Motivic Asymptotics of Moduli Spaces of Curves. Part II: Tameness of Motivic Measures](https://arxiv.org/abs/2611.21569)
 - **日期：** 2026-11-16  |  **相关度：** 12  |  **分类：** math.AG, math-ph
@@ -97,24 +133,6 @@
 - **作者：** Alexandre Fernandes
 - **匹配主题：** moduli
 - **概述（原摘要节选）：** We show that the bi-Lipschitz right-left equivalence of finite holomorphic map germs $(\mathbb{C}^2,0)\to(\mathbb{C}^2,0)$ admits continuous moduli, already among finitely determined polynomial germs of corank one and degree five. The moduli come from a new invariant of finite germs: for two tangent branches of the critical set whose images are tangent, the limit of the ratio of the norms of the images of nearby points is preserved by bi-Lipschitz right-left equivalence.
-
-## [On the pure part of the cohomology of character varieties](https://arxiv.org/abs/2611.18560)
-- **日期：** 2026-11-13  |  **相关度：** 1  |  **分类：** math.AG, math.RT
-- **作者：** Olivier Schiffmann, Eric Vasserot
-- **匹配主题：** quiver variety
-- **概述（原摘要节选）：** We prove the purity conjecture of Hausel and Rodriguez-Villegas relating the graded dimension of the pure part of the cohomology of the twisted character variety $M^B(r,d)$ of $GL(r)$ of genus $g$ with the cohomology of a suitable quiver variety associated to the quiver $S_g$ with one vertex and $g$ loops. In particular, this provides an explicit formula for the pure part of the mixed Hodge polynomial of $M^B(r,d)$ in terms of the Kac polynomial $A_{S_g,r}(q)$.
-
-## [The Moduli of Canonical Threefolds of Minimum Volume](https://arxiv.org/abs/2611.18357)
-- **日期：** 2026-11-13  |  **相关度：** 7  |  **分类：** math.AG
-- **作者：** Pinxian Bie, Peien Du, Zhengjie Yu
-- **匹配主题：** moduli, moduli space
-- **概述（原摘要节选）：** We determine the moduli space of complex projective canonical threefolds of volume $1/420$. It consists of an irreducible rational component of dimension $33$ and two isolated points, represented by the explicitly constructed rigid threefolds Vega and Altair.
-
-## [Global generation of coinvariant vector bundles on $\overline{\mathrm{M}}_{0,n}$](https://arxiv.org/abs/2611.17734)
-- **日期：** 2026-11-13  |  **相关度：** 2  |  **分类：** math.AG, math.QA
-- **作者：** Avik Chakravarty, Jianqi Liu
-- **匹配主题：** moduli, moduli space
-- **概述（原摘要节选）：** Using fusion closed-ness and strong generation properties, we identify collections of modules over vertex operator algebras (VOAs) whose induced vector bundles of coinvariants on the moduli space $\overline{\mathrm M}_{0,n}$ of stable $n$-pointed curves of genus zero are globally generated. These results specialize to \cite{Fak12} for affine VOAs at positive integer levels, and of \cite{DG23} for strongly rational VOAs that are generated in degree 1.
 
 ---
 概述取自论文原摘要前两句，未使用生成式模型；建议点击标题查看原文及完整摘要。
