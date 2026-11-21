@@ -1,6 +1,6 @@
-# arXiv 代数几何模空间周报 (2026-11-14 至 2026-11-20)
+# arXiv 代数几何模空间周报 (2026-11-15 至 2026-11-21)
 
-共找到 **22** 篇候选论文。
+共找到 **21** 篇候选论文。
 
 ## [Hilbert schemes of points on plane curves via standard families](https://arxiv.org/abs/2611.26290)
 - **日期：** 2026-11-19  |  **相关度：** 6  |  **分类：** math.AG
@@ -127,12 +127,6 @@
 - **作者：** Junyu Meng
 - **匹配主题：** moduli, moduli space
 - **概述（原摘要节选）：** We construct projective models for general primitively polarized K3 surfaces $(S,h)$ of genus $21$ (degree $h^2=40$) inside the 12-dimensional fine quiver moduli space $X = N(3;3,4)$ parameterizing stable representations of the $3$-Kronecker quiver with dimension vector $(3,4)$. As a corollary, we show that the corresponding moduli space $\mathscr{M}_{21}$ is unirational and prove O'Grady's generalized Franchetta conjecture for genus $21$.
-
-## [Bi-Lipschitz right-left equivalence of finite plane-to-plane germs](https://arxiv.org/abs/2611.19673)
-- **日期：** 2026-11-14  |  **相关度：** 1  |  **分类：** math.AG
-- **作者：** Alexandre Fernandes
-- **匹配主题：** moduli
-- **概述（原摘要节选）：** We show that the bi-Lipschitz right-left equivalence of finite holomorphic map germs $(\mathbb{C}^2,0)\to(\mathbb{C}^2,0)$ admits continuous moduli, already among finitely determined polynomial germs of corank one and degree five. The moduli come from a new invariant of finite germs: for two tangent branches of the critical set whose images are tangent, the limit of the ratio of the norms of the images of nearby points is preserved by bi-Lipschitz right-left equivalence.
 
 ---
 概述取自论文原摘要前两句，未使用生成式模型；建议点击标题查看原文及完整摘要。
