@@ -1,6 +1,6 @@
-# arXiv 代数几何模空间周报 (2026-11-15 至 2026-11-21)
+# arXiv 代数几何模空间周报 (2026-11-16 至 2026-11-22)
 
-共找到 **21** 篇候选论文。
+共找到 **18** 篇候选论文。
 
 ## [Hilbert schemes of points on plane curves via standard families](https://arxiv.org/abs/2611.26290)
 - **日期：** 2026-11-19  |  **相关度：** 6  |  **分类：** math.AG
@@ -109,24 +109,6 @@
 - **作者：** Yutaro Kaijima
 - **匹配主题：** hilbert scheme, hilbert schemes
 - **概述（原摘要节选）：** Ishida and Iwashita showed that the canonical abelian quotient singularities of dimension three that are not Gorenstein fall into four families. For the two families that have not been treated before, we extend a method of Kędzierski and compute the toric charts of the $G$-Hilbert scheme explicitly.
-
-## [Canonical metrics on punctured spheres, II: compactified moduli spaces of black holes](https://arxiv.org/abs/2611.20282)
-- **日期：** 2026-11-15  |  **相关度：** 12  |  **分类：** gr-qc, math.AG, math.DG, math.GT
-- **作者：** Boris Botvinnik
-- **匹配主题：** moduli, moduli space, moduli spaces
-- **概述（原摘要节选）：** Let $g_{\mathfrak{p}_{\ell}}$ denote the canonical scalar-flat metric on $S^n\setminus \mathfrak{p}_{\ell}$ introduced in Part~I, which for $n=3$ corresponds to the Brill--Lindquist initial data for $\ell$ black holes, and let $η\in H_{\ell}$ be its associated mass matrix. In this paper, we investigate the asymptotic behavior of the metrics and the mass matrix $η$ as subsets of punctures collide.
-
-## [Unirationality of Meromorphic Differential Strata](https://arxiv.org/abs/2611.20182)
-- **日期：** 2026-11-15  |  **相关度：** 2  |  **分类：** math.AG
-- **作者：** Bogdan Carasca, Vlad Robu
-- **匹配主题：** moduli, moduli space
-- **概述（原摘要节选）：** We prove that all components of the meromorphic differential strata are unirational in genus $2\le g\le 5$ and with relatively low number of poles. In particular, it follows that the moduli space of pointed even spin curves $\mathcal{S}_{5;1}^+=\mathcal{S}_5^+\times_{\mathcal{M}_5}\mathcal{M}_{5,1}$ is unirational.
-
-## [Projective Models of Genus 21 K3 Surfaces](https://arxiv.org/abs/2611.20018)
-- **日期：** 2026-11-15  |  **相关度：** 2  |  **分类：** math.AG
-- **作者：** Junyu Meng
-- **匹配主题：** moduli, moduli space
-- **概述（原摘要节选）：** We construct projective models for general primitively polarized K3 surfaces $(S,h)$ of genus $21$ (degree $h^2=40$) inside the 12-dimensional fine quiver moduli space $X = N(3;3,4)$ parameterizing stable representations of the $3$-Kronecker quiver with dimension vector $(3,4)$. As a corollary, we show that the corresponding moduli space $\mathscr{M}_{21}$ is unirational and prove O'Grady's generalized Franchetta conjecture for genus $21$.
 
 ---
 概述取自论文原摘要前两句，未使用生成式模型；建议点击标题查看原文及完整摘要。
