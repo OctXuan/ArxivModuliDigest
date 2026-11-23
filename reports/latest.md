@@ -1,6 +1,18 @@
-# arXiv 代数几何模空间周报 (2026-11-16 至 2026-11-22)
+# arXiv 代数几何模空间周报 (2026-11-17 至 2026-11-23)
 
-共找到 **18** 篇候选论文。
+共找到 **12** 篇候选论文。
+
+## [Brane Tilings and Polygons with Two Interior Points](https://arxiv.org/abs/2611.27861)
+- **日期：** 2026-11-20  |  **相关度：** 2  |  **分类：** hep-th, math-ph, math.AG
+- **作者：** Rak-Kyeong Seong
+- **匹配主题：** moduli, moduli space
+- **概述（原摘要节选）：** We fully classify the brane tilings and the 4d N=1 supersymmetric quiver gauge theories corresponding to toric Calabi-Yau 3-folds whose toric diagrams are convex lattice polygons with two interior lattice points. There are 45 such polygons up to GL(2,Z) transformations and lattice translations: 5 triangles, 19 quadrilaterals, 16 pentagons and 5 hexagons.
+
+## [Arinkin's sheaf and Hilbert schemes](https://arxiv.org/abs/2611.26699)
+- **日期：** 2026-11-19  |  **相关度：** 6  |  **分类：** math.AG
+- **作者：** David Zhiyuan Bai
+- **匹配主题：** hilbert scheme, hilbert schemes
+- **概述（原摘要节选）：** Arinkin's sheaf gives a relative Fourier-Mukai autoequivalence of a general Beauville-Mukai system, extending the usual Poincaré bundle over the smooth locus. We provide an alternative construction of it as a deformation of the Fourier-Mukai autoequivalence on the Hilbert scheme of an elliptic K3 surface obtained by lifting the classical Poincaré kernel for an elliptic surface.
 
 ## [Hilbert schemes of points on plane curves via standard families](https://arxiv.org/abs/2611.26290)
 - **日期：** 2026-11-19  |  **相关度：** 6  |  **分类：** math.AG
@@ -61,54 +73,6 @@
 - **作者：** Mahmud Azam, Steven Rayan
 - **匹配主题：** moduli, moduli stack, moduli stacks
 - **概述（原摘要节选）：** Diffeological non-Abelian Hodge theory motivates the study of $C^r$ families of Higgs bundles and flat bundles for finite $r$. In this article, we provide a uniform language for treating moduli stacks parametrizing such objects in terms of diffeology.
-
-## [Hyperkähler Periods in Families of Parabolic Higgs Bundle Moduli Spaces](https://arxiv.org/abs/2611.21990)
-- **日期：** 2026-11-16  |  **相关度：** 12  |  **分类：** math.DG, math-ph, math.AG
-- **作者：** Panagiotis Dimakis, Laura Fredrickson, Arya Yae
-- **匹配主题：** moduli, moduli space, moduli spaces
-- **概述（原摘要节选）：** We consider the period map on families of parabolic Higgs bundle moduli spaces with varying parabolic weights $α$ and Higgs field eigenvalues $σ$. We assemble the moduli spaces into a smooth family $π:\mathscr M\toΛ_0$ where $Λ_0$ encodes the admissible pairs $(α,σ)$, and define parallel transport for homology along paths in $Λ_0$.
-
-## [Heavy-Light Wall Crossings and Motivic Asymptotics of Moduli Spaces of Curves. Part II: Tameness of Motivic Measures](https://arxiv.org/abs/2611.21569)
-- **日期：** 2026-11-16  |  **相关度：** 12  |  **分类：** math.AG, math-ph
-- **作者：** Giordano Cotti
-- **匹配主题：** moduli, moduli space, moduli spaces
-- **概述（原摘要节选）：** This paper is concerned with the study of the fixed-genus asymptotics of motivic measures of moduli spaces of stable pointed curves and their minimal all-light Hassett compactifications as the number of markings tends to infinity. A motivic wall-crossing argument gives a universal change of variables between the two generating series, depending only on the value of the Lefschetz class.
-
-## [Ice and mirrors](https://arxiv.org/abs/2611.21484)
-- **日期：** 2026-11-16  |  **相关度：** 1  |  **分类：** math.SG, math.AG, math.CO, math.RT
-- **作者：** Mingyuan Hu, Vivek Shende
-- **匹配主题：** moduli
-- **概述（原摘要节选）：** Given a mirror pair of smooth affine principal upper cluster varieties admitting reddening sequences, we show that homological mirror symmetry for principal cluster varieties -- assumed compatible with certain cluster structures -- descends under freezing. This allows us to induct on the following class.
-
-## [P = W conjectures for varieties with nilpotent fundamental group](https://arxiv.org/abs/2611.21437)
-- **日期：** 2026-11-16  |  **相关度：** 3  |  **分类：** math.AG, math.DG, math.RT
-- **作者：** Barbara Bolognese, Camilla Felisetti, Andreas Gross, Alex Küronya, GyeongHyeon Nam et al.
-- **匹配主题：** moduli, moduli space, moduli spaces
-- **概述（原摘要节选）：** We prove the cohomological and the geometric $P=W$ conjectures for the moduli spaces of $G$-Higgs bundles and $G$-local systems on any smooth complex projective variety $X$ with nilpotent fundamental group, and any connected complex reductive group $G$. To the best of our knowledge, our results provide the first instances of $P=W$ conjectures beyond curves and abelian varieties.
-
-## [Elliptic Gromov-Witten Invariants of Instanton Moduli](https://arxiv.org/abs/2611.21173)
-- **日期：** 2026-11-16  |  **相关度：** 10  |  **分类：** math.AG
-- **作者：** Hsian-Hua Tseng, Xiaohan Yan
-- **匹配主题：** moduli, moduli space, gromov-witten
-- **概述（原摘要节选）：** We calculate the genus $1$ Gromov-Witten invariants with one tautological divisor insertion of the moduli space $\mathcal{M}(r,n)$ of rank-$r$, $c_2=n$ torsion-free sheaves on $\mathbb{P}^2$ framed along the infinity divisor. As rational functions of the framing parameters, we determine the polar parts of these invariants by exploring the equivariant geometry of the Gieseker-Uhlenbeck map $\mathcal{M}(r,n)\to\mathcal{M}_0(r,n)$.
-
-## [The Singular LeBrun Transform: Complex Conformal and Contact Geometry](https://arxiv.org/abs/2611.21010)
-- **日期：** 2026-11-16  |  **相关度：** 3  |  **分类：** math.DG, math.AG
-- **作者：** Yun-Gang Ye
-- **匹配主题：** moduli, moduli space, moduli spaces
-- **概述（原摘要节选）：** A holomorphic conformal structure is rigid in the presence of rational curves: a complex conformal manifold that is not conformally flat contains no immersed rational null geodesic. So a natural compactification of such a manifold, on which its null geodesics close up, must degenerate along the boundary.
-
-## [Cycles on the universal moduli of rank 2 bundles over the hyperelliptic locus](https://arxiv.org/abs/2611.20620)
-- **日期：** 2026-11-16  |  **相关度：** 7  |  **分类：** math.AG, math.RT
-- **作者：** Soumik Ghosh, Shubham Saha
-- **匹配主题：** moduli, moduli stack
-- **概述（原摘要节选）：** We establish a strong Franchetta property for the universal moduli stack of rank two vector bundles over smooth hyperelliptic curves and identify the image of the Chow ring in the cohomology of a fiber via restriction and the cycle class map as precisely the monodromy invariant cohomology classes. More precisely, for every genus $g\geq 2$, degree $d$, and hyperelliptic curve $C$ of genus $g$, we show that the restriction and the cycle class map identifies the Chow ring of…
-
-## [$G$-Hilbert schemes of canonical abelian quotient threefolds](https://arxiv.org/abs/2611.20586)
-- **日期：** 2026-11-16  |  **相关度：** 6  |  **分类：** math.AG
-- **作者：** Yutaro Kaijima
-- **匹配主题：** hilbert scheme, hilbert schemes
-- **概述（原摘要节选）：** Ishida and Iwashita showed that the canonical abelian quotient singularities of dimension three that are not Gorenstein fall into four families. For the two families that have not been treated before, we extend a method of Kędzierski and compute the toric charts of the $G$-Hilbert scheme explicitly.
 
 ---
 概述取自论文原摘要前两句，未使用生成式模型；建议点击标题查看原文及完整摘要。
