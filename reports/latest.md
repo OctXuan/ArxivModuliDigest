@@ -1,6 +1,18 @@
-# arXiv 代数几何模空间周报 (2026-11-17 至 2026-11-23)
+# arXiv 代数几何模空间周报 (2026-11-18 至 2026-11-24)
 
-共找到 **12** 篇候选论文。
+共找到 **13** 篇候选论文。
+
+## [GIT-thresholds for K-moduli spaces of Hypersurfaces](https://arxiv.org/abs/2611.30089)
+- **日期：** 2026-11-23  |  **相关度：** 12  |  **分类：** math.AG
+- **作者：** Chuhui Gao, Chuyu Zhou
+- **匹配主题：** moduli, moduli space, moduli spaces
+- **概述（原摘要节选）：** In this note, we confirm the first wall $c_1(d)$ of K-moduli of hypersurfaces of degree $d$ in $\mathbb P^n$ for $n\geq 3$ and $d\geq n+1$, where $c_1(d)=\frac{n+1}{nd}$ if $d$ is even; and $c_1(d)=\frac{n+1}{nd-(n+1)}$ if $d$ is odd. Before this wall, the K-moduli is identical to the GIT-moduli for degree $d$ hypersurfaces, so we also call this number the GIT-threshold.
+
+## [The generalized Franchetta conjecture for some hyper-Kähler varieties, III](https://arxiv.org/abs/2611.29599)
+- **日期：** 2026-11-22  |  **相关度：** 4  |  **分类：** math.AG
+- **作者：** Lie Fu, Robert Laterveer, Carl Mazzanti, Charles Vial
+- **匹配主题：** moduli, moduli space, moduli spaces, moduli stack
+- **概述（原摘要节选）：** The generalized Franchetta conjecture states that for a locally complete family of polarized hyper-Kähler varieties, the generically defined cycles on any fiber of the universal family over the moduli stack inject into cohomology via the cycle class map. We prove the generalized Franchetta conjecture for the family of double EPW sextics discovered by O'Grady and for the family of double EPW cubes discovered by Iliev-Kapustka-Kapustka-Ranestad.
 
 ## [Brane Tilings and Polygons with Two Interior Points](https://arxiv.org/abs/2611.27861)
 - **日期：** 2026-11-20  |  **相关度：** 2  |  **分类：** hep-th, math-ph, math.AG
@@ -67,12 +79,6 @@
 - **作者：** Lutian Zhao
 - **匹配主题：** moduli
 - **概述（原摘要节选）：** Let $X\to B$ be a Weierstrass fibration with integral fibers from a smooth Calabi--Yau threefold to a del Pezzo surface. For a smooth curve $D\subset B$ with smooth inverse image $Y$, we decompose the moduli fiber of stable sheaves with Euler characteristic one and projected cycle $D$.
-
-## [Finite regularity moduli stacks through diffeology](https://arxiv.org/abs/2611.23451)
-- **日期：** 2026-11-17  |  **相关度：** 12  |  **分类：** math.DG, math.AG, math.CT, math.CV, math.RT
-- **作者：** Mahmud Azam, Steven Rayan
-- **匹配主题：** moduli, moduli stack, moduli stacks
-- **概述（原摘要节选）：** Diffeological non-Abelian Hodge theory motivates the study of $C^r$ families of Higgs bundles and flat bundles for finite $r$. In this article, we provide a uniform language for treating moduli stacks parametrizing such objects in terms of diffeology.
 
 ---
 概述取自论文原摘要前两句，未使用生成式模型；建议点击标题查看原文及完整摘要。
