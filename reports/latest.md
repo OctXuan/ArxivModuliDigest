@@ -1,6 +1,12 @@
-# arXiv 代数几何模空间周报 (2026-11-18 至 2026-11-24)
+# arXiv 代数几何模空间周报 (2026-11-19 至 2026-11-25)
 
-共找到 **13** 篇候选论文。
+共找到 **9** 篇候选论文。
+
+## [Tensor powers of the Steinberg character of $GL_n(\mathbb{F}_q)$, zonotopal algebras, and quiver varieties](https://arxiv.org/abs/2611.31602)
+- **日期：** 2026-11-23  |  **相关度：** 1  |  **分类：** math.RT, math.AG
+- **作者：** Emmanuel Letellier, Fernando Rodriguez Villegas
+- **匹配主题：** quiver variety
+- **概述（原摘要节选）：** In this paper we study the $m$-th tensor power ${\rm St}^{\otimes m}$ of the Steinberg character of $GL_n(q)$. To do that we use the connection between tensor products of unipotent characters and the cohomology of certain quiver varieties for star-shaped quivers \cite{L2}\cite{LRV}.
 
 ## [GIT-thresholds for K-moduli spaces of Hypersurfaces](https://arxiv.org/abs/2611.30089)
 - **日期：** 2026-11-23  |  **相关度：** 12  |  **分类：** math.AG
@@ -49,36 +55,6 @@
 - **作者：** Yota Maeda, Atsuhira Nagano
 - **匹配主题：** moduli, moduli space, moduli spaces
 - **概述（原摘要节选）：** We compare the ball quotient for marked nodal cubic surfaces with the arithmetic quotient of a domain of type IV associated with $K3$ surfaces arising from configurations of six lines in $\mathbb{P}^2$. Using the Coble map and the period mapping associated with the hypergeometric system of type $(3,6)$, we identify a common open subset of the GIT quotient of six ordered points in $\mathbb{P}^2$ and the ball quotient.
-
-## [Preservation of big diagonal for automorphisms of Hilbert schemes](https://arxiv.org/abs/2611.25277)
-- **日期：** 2026-11-18  |  **相关度：** 6  |  **分类：** math.AG
-- **作者：** Supravat Sarkar
-- **匹配主题：** hilbert scheme, hilbert schemes
-- **概述（原摘要节选）：** If $X$ is a smooth projective surface that is not K3 or abelian surface, we show that any automorphism of the Hilbert scheme of points $X^{[n]}$ preserves the big diagonal. This generalizes several previous works, and gives a complete description of automorphisms of $X^{[n]}$ when $X$ is not K3 or abelian surface.
-
-## [A Hopf algebra action on the cohomology of moduli of abelian varieties](https://arxiv.org/abs/2611.25187)
-- **日期：** 2026-11-18  |  **相关度：** 7  |  **分类：** math.AG, math.AT, math.KT, math.NT
-- **作者：** Urshita Pal, Sam Payne
-- **匹配主题：** moduli, moduli space
-- **概述（原摘要节选）：** We show that the rational compactly supported cohomology of the moduli space $\mathcal{A} = \bigsqcup_{g \geq 0} \mathcal{A}_g$ of principally polarized abelian varieties is free as a bigraded module over the Hopf algebra formed by its weight-zero subspace. The action arises from a symplectic analog of the Waldhausen $S$-construction.
-
-## [Singularities of ideals with minimal tangent space dimension in the Hilbert scheme of points on a threefold](https://arxiv.org/abs/2611.24695)
-- **日期：** 2026-11-18  |  **相关度：** 3  |  **分类：** math.AG, math.AC, math.CO
-- **作者：** Yuze Luan
-- **匹配主题：** hilbert scheme
-- **概述（原摘要节选）：** We classify all singular monomial ideals in the Hilbert scheme of $d$ points on $\mathbb{A}^3$ whose tangent spaces have the minimal dimension $3d+6$. There are two families called the opera houses and rotating staircases, and we give their combinatorial and algebraic descriptions.
-
-## [Categorified Koszul duality and deformation theory of higher categories](https://arxiv.org/abs/2611.23899)
-- **日期：** 2026-11-18  |  **相关度：** 1  |  **分类：** math.AG, math.AT, math.CT
-- **作者：** Isamu Iwanari
-- **匹配主题：** moduli
-- **概述（原摘要节选）：** This paper develops a deformation theory for stable $(\infty,n)$-categories for $n > 1$. We introduce the framework of complete $t$-structured stable presentable $(\infty,n)$-categories.
-
-## [Gopakumar-Vafa invariants and Mordell-Weil lattices](https://arxiv.org/abs/2611.23735)
-- **日期：** 2026-11-18  |  **相关度：** 1  |  **分类：** math.AG, hep-th
-- **作者：** Lutian Zhao
-- **匹配主题：** moduli
-- **概述（原摘要节选）：** Let $X\to B$ be a Weierstrass fibration with integral fibers from a smooth Calabi--Yau threefold to a del Pezzo surface. For a smooth curve $D\subset B$ with smooth inverse image $Y$, we decompose the moduli fiber of stable sheaves with Euler characteristic one and projected cycle $D$.
 
 ---
 概述取自论文原摘要前两句，未使用生成式模型；建议点击标题查看原文及完整摘要。
