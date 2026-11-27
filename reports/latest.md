@@ -1,6 +1,6 @@
-# arXiv 代数几何模空间周报 (2026-11-20 至 2026-11-26)
+# arXiv 代数几何模空间周报 (2026-11-21 至 2026-11-27)
 
-共找到 **9** 篇候选论文。
+共找到 **8** 篇候选论文。
 
 ## [Quot schemes on projective space](https://arxiv.org/abs/2611.34844)
 - **日期：** 2026-11-25  |  **相关度：** 2  |  **分类：** math.AG, math.AC
@@ -49,12 +49,6 @@
 - **作者：** Lie Fu, Robert Laterveer, Carl Mazzanti, Charles Vial
 - **匹配主题：** moduli, moduli space, moduli spaces, moduli stack
 - **概述（原摘要节选）：** The generalized Franchetta conjecture states that for a locally complete family of polarized hyper-Kähler varieties, the generically defined cycles on any fiber of the universal family over the moduli stack inject into cohomology via the cycle class map. We prove the generalized Franchetta conjecture for the family of double EPW sextics discovered by O'Grady and for the family of double EPW cubes discovered by Iliev-Kapustka-Kapustka-Ranestad.
-
-## [Brane Tilings and Polygons with Two Interior Points](https://arxiv.org/abs/2611.27861)
-- **日期：** 2026-11-20  |  **相关度：** 2  |  **分类：** hep-th, math-ph, math.AG
-- **作者：** Rak-Kyeong Seong
-- **匹配主题：** moduli, moduli space
-- **概述（原摘要节选）：** We fully classify the brane tilings and the 4d N=1 supersymmetric quiver gauge theories corresponding to toric Calabi-Yau 3-folds whose toric diagrams are convex lattice polygons with two interior lattice points. There are 45 such polygons up to GL(2,Z) transformations and lattice translations: 5 triangles, 19 quadrilaterals, 16 pentagons and 5 hexagons.
 
 ---
 概述取自论文原摘要前两句，未使用生成式模型；建议点击标题查看原文及完整摘要。
